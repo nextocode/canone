@@ -9,7 +9,7 @@ Junção da Lista A (guia de filosofia antiga, em 13 etapas, que é a espinha do
 
 Como ler as marcas: **[só A]** = só na Lista A; **[só B]** = só na Lista B (texto original preservado, com o bloco renomeado); **[A+B]** = a mesma obra está nas duas listas e aparece uma vez só, com o texto da B logo abaixo em citação. O bloco entre parênteses é o caderno em que anotar; os 49 blocos originais foram reduzidos a 12 (tabela no fim). A numeração dentro de cada etapa é nova (as inserções deslocaram os números da A).
 
-Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23 entradas da B que coincidem com itens da A — mais 185 entradas novas, que somavam 1224; depois disso, a separação de itens que juntavam várias obras (um item por obra) acrescentou 377), em 21 etapas e 12 blocos.
+Total: 1844 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23 entradas da B que coincidem com itens da A — mais 185 entradas novas, que somavam 1224; depois disso, a separação de itens que juntavam várias obras (um item por obra) acrescentou 620), em 21 etapas e 12 blocos.
 
 ## 2. Origem de cada item (números dentro de cada etapa)
 
@@ -20,7 +20,7 @@ Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23
 - **Etapa 2 — Introdução** (8 itens)
     - só A: 1–7
     - A+B: 8
-- **Etapa 3 — Mundo grego e mitos (base dos pré-socráticos)** (42 itens)
+- **Etapa 3 — Mundo grego e mitos (base dos pré-socráticos)** (43 itens)
     - só A: 3, 7, 9–14, 16, 18, 20–29, 32, 34, 40–42
     - só B: 4–5, 19, 35–39
     - A+B: 1–2, 6, 8, 15, 17, 30–31, 33
@@ -36,11 +36,11 @@ Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23
     - A+B: 1, 7, 13, 25–26
 - **Etapa 7 — Lógica e retórica modernas** (4 itens)
     - só A: 1–4
-- **Etapa 8 — Helenismo, Epicuro, estoicos e céticos** (29 itens)
+- **Etapa 8 — Helenismo, Epicuro, estoicos e céticos** (30 itens)
     - só A: 1–3, 8, 10, 13, 15–16, 20–21, 25–28
     - só B: 4–7, 9, 11–12, 17, 23, 29
     - A+B: 14, 18–19, 22, 24
-- **Etapa 9 — Roma e Cícero** (31 itens)
+- **Etapa 9 — Roma e Cícero** (32 itens)
     - só A: 1–6, 11–12, 15–19
     - só B: 7–9, 20–31
     - A+B: 10, 13–14
@@ -60,22 +60,22 @@ Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23
     - só A: 3–6, 18–20, 23–27
     - só B: 7–17, 21–22
     - A+B: 1–2
-- **Etapa 14 — Antiguidade fora do eixo greco-romano (Índia e China)** (48 itens)
-    - só B: 1–48
-- **Etapa 15 — Idade Média e mundo islâmico/asiático (c. 630–1400)** (103 itens)
-    - só B: 1–103
-- **Etapa 16 — Renascimento, Reforma e século XVII (c. 1400–1700)** (109 itens)
+- **Etapa 14 — Antiguidade fora do eixo greco-romano (Índia e China)** (50 itens)
+    - só B: 1–50
+- **Etapa 15 — Idade Média e mundo islâmico/asiático (c. 630–1400)** (109 itens)
     - só B: 1–109
-- **Etapa 17 — Século XVIII** (56 itens)
-    - só B: 1–56
-- **Etapa 18 — Século XIX** (159 itens)
-    - só B: 1–159
-- **Etapa 19 — 1900–1945** (247 itens)
-    - só B: 1–247
-- **Etapa 20 — 1946–1979** (322 itens)
-    - só B: 1–322
-- **Etapa 21 — 1980 em diante** (156 itens)
-    - só B: 1–156
+- **Etapa 16 — Renascimento, Reforma e século XVII (c. 1400–1700)** (127 itens)
+    - só B: 1–127
+- **Etapa 17 — Século XVIII** (68 itens)
+    - só B: 1–68
+- **Etapa 18 — Século XIX** (220 itens)
+    - só B: 1–220
+- **Etapa 19 — 1900–1945** (281 itens)
+    - só B: 1–281
+- **Etapa 20 — 1946–1979** (389 itens)
+    - só B: 1–389
+- **Etapa 21 — 1980 em diante** (196 itens)
+    - só B: 1–196
 
 ## 3. Entradas acrescentadas nesta ampliação
 
@@ -121,13 +121,13 @@ Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23
 - Etapa 14, item 15: Anônimo — Rigveda (seleção)
 - Etapa 14, itens 25, 26 e 27: Cânone Páli (Tipitaka) — Digha Nikaya; Majjhima Nikaya; Sutta Nipata (seleções)
 - Etapa 14, item 35: Anônimo — Leis de Manu (Manusmriti)
-- Etapa 14, itens 41 e 42: V. Gordon Childe — Man Makes Himself; What Happened in History
-- Etapa 14, item 43: Samuel Noah Kramer — A História Começa na Suméria
-- Etapa 14, item 44: Jean Bottéro — Mesopotâmia: A Escrita, a Razão e os Deuses
-- Etapa 14, item 45: Marc Van De Mieroop — A History of the Ancient Near East ca. 3000–323 BC
-- Etapa 14, item 46: Ian Shaw (org.) — The Oxford History of Ancient Egypt
-- Etapa 14, item 47: Pierre Briant — From Cyrus to Alexander: A History of the Persian Empire
-- Etapa 14, item 48: Romila Thapar — A History of India, vol. 1
+- Etapa 14, itens 43 e 44: V. Gordon Childe — Man Makes Himself; What Happened in History
+- Etapa 14, item 45: Samuel Noah Kramer — A História Começa na Suméria
+- Etapa 14, item 46: Jean Bottéro — Mesopotâmia: A Escrita, a Razão e os Deuses
+- Etapa 14, item 47: Marc Van De Mieroop — A History of the Ancient Near East ca. 3000–323 BC
+- Etapa 14, item 48: Ian Shaw (org.) — The Oxford History of Ancient Egypt
+- Etapa 14, item 49: Pierre Briant — From Cyrus to Alexander: A History of the Persian Empire
+- Etapa 14, item 50: Romila Thapar — A History of India, vol. 1
 - Etapa 15, item 2: Ibn Ishaq (na recensão de Ibn Hisham) — Vida do Profeta de Deus (Sirat Rasul Allah)
 - Etapa 15, item 3: Anônimo — Kojiki (Registro de Fatos Antigos)
 - Etapa 15, item 5: Al-Bukhari — Sahih al-Bukhari (seleções)
@@ -145,129 +145,129 @@ Total: 1601 linhas (1039 originais — 327 itens da A + 735 entradas da B − 23
 - Etapa 15, item 32: Ana Comnena — Alexíada
 - Etapa 15, item 33: Kalhana — Rajatarangini (Crônica dos Reis da Caxemira)
 - Etapa 15, item 35: Maimônides — Os Treze Princípios da Fé (Comentário à Mishná, Sanhedrin, cap. 10)
-- Etapa 15, item 40: Usama ibn Munqidh — Kitab al-I'tibar
-- Etapa 15, item 41: Maimônides — Mishné Torá (Livro do Conhecimento)
-- Etapa 15, item 44: Anônimo — A Canção dos Nibelungos (Nibelungenlied)
-- Etapa 15, item 47: Concílio de Latrão IV (1215) — Constituições
-- Etapa 15, item 55: Snorri Sturluson — Heimskringla
-- Etapa 15, item 57: Anônimo — Heike Monogatari (O Conto dos Heike)
-- Etapa 15, item 58: Anônimo — A História Secreta dos Mongóis
-- Etapa 15, item 59: Tradição oral mandinga (versão de D. T. Niane) — Sundiata: An Epic of Old Mali
-- Etapa 15, item 64: Marco Polo — O Livro das Maravilhas (Il Milione)
-- Etapa 15, item 65: Moisés de León (atrib.) — Zohar (seleção)
-- Etapa 15, item 72: Anônimo — Kebra Nagast (Glória dos Reis)
-- Etapa 15, item 76: Giovanni Boccaccio — Decamerão
-- Etapa 15, itens 77, 78 e 79: Francesco Petrarca — Cancioneiro (Canzoniere); Secretum; Cartas (seleção)
-- Etapa 15, item 80: Ibn Battuta — Viagens (Rihla)
-- Etapa 15, item 81: Prapañca — Nagarakretagama (Deśawarṇana)
-- Etapa 15, item 82: Jean Froissart — Crônicas
-- Etapa 15, item 86: Geoffrey Chaucer — Os Contos de Canterbury
-- Etapa 15, item 93: Jacques Le Goff — A Civilização do Ocidente Medieval
-- Etapa 15, item 94: Steven Runciman — História das Cruzadas
-- Etapa 15, item 95: Georg Ostrogorsky — History of the Byzantine State
-- Etapa 15, item 97: Albert Hourani — Uma História dos Povos Árabes
-- Etapa 15, item 98: John K. Fairbank e Merle Goldman — China: Uma Nova História
-- Etapa 15, item 99: George Sansom — A History of Japan
-- Etapa 15, item 100: George Coedès — Os Estados Indianizados do Sudeste Asiático
-- Etapa 15, item 101: Joseph Ki-Zerbo — História da África Negra
-- Etapa 15, item 102: Alberto da Costa e Silva — A Enxada e a Lança: A África antes dos Portugueses
-- Etapa 15, item 103: Michael D. Coe — The Maya
+- Etapa 15, item 41: Usama ibn Munqidh — Kitab al-I'tibar
+- Etapa 15, item 42: Maimônides — Mishné Torá (Livro do Conhecimento)
+- Etapa 15, item 46: Anônimo — A Canção dos Nibelungos (Nibelungenlied)
+- Etapa 15, item 49: Concílio de Latrão IV (1215) — Constituições
+- Etapa 15, item 58: Snorri Sturluson — Heimskringla
+- Etapa 15, item 60: Anônimo — Heike Monogatari (O Conto dos Heike)
+- Etapa 15, item 61: Anônimo — A História Secreta dos Mongóis
+- Etapa 15, item 62: Tradição oral mandinga (versão de D. T. Niane) — Sundiata: An Epic of Old Mali
+- Etapa 15, item 67: Marco Polo — O Livro das Maravilhas (Il Milione)
+- Etapa 15, item 68: Moisés de León (atrib.) — Zohar (seleção)
+- Etapa 15, item 76: Anônimo — Kebra Nagast (Glória dos Reis)
+- Etapa 15, item 80: Giovanni Boccaccio — Decamerão
+- Etapa 15, itens 81, 82 e 83: Francesco Petrarca — Cancioneiro (Canzoniere); Secretum; Cartas (seleção)
+- Etapa 15, item 85: Ibn Battuta — Viagens (Rihla)
+- Etapa 15, item 86: Prapañca — Nagarakretagama (Deśawarṇana)
+- Etapa 15, item 87: Jean Froissart — Crônicas
+- Etapa 15, item 91: Geoffrey Chaucer — Os Contos de Canterbury
+- Etapa 15, item 99: Jacques Le Goff — A Civilização do Ocidente Medieval
+- Etapa 15, item 100: Steven Runciman — História das Cruzadas
+- Etapa 15, item 101: Georg Ostrogorsky — History of the Byzantine State
+- Etapa 15, item 103: Albert Hourani — Uma História dos Povos Árabes
+- Etapa 15, item 104: John K. Fairbank e Merle Goldman — China: Uma Nova História
+- Etapa 15, item 105: George Sansom — A History of Japan
+- Etapa 15, item 106: George Coedès — Os Estados Indianizados do Sudeste Asiático
+- Etapa 15, item 107: Joseph Ki-Zerbo — História da África Negra
+- Etapa 15, item 108: Alberto da Costa e Silva — A Enxada e a Lança: A África antes dos Portugueses
+- Etapa 15, item 109: Michael D. Coe — The Maya
 - Etapa 16, item 3: Concílio de Florença (1438–1445) — Decretos de União
 - Etapa 16, itens 6 e 7: Marsílio Ficino — Teologia Platônica; Sobre o Amor (Comentário ao Banquete de Platão)
-- Etapa 16, itens 8 e 9: Giovanni Pico della Mirandola — Discurso sobre a Dignidade do Homem; 900 Teses (seleções)
-- Etapa 16, itens 10 e 11: Cristóvão Colombo — Diário da Primeira Viagem; Carta a Santángel
-- Etapa 16, item 12: Pero Vaz de Caminha — Carta a el-Rei D. Manuel sobre o Achamento do Brasil
-- Etapa 16, item 18: Hernán Cortés — Cartas de Relação
-- Etapa 16, item 24: Leão, o Africano — Descrição da África (Della descrittione dell'Africa)
-- Etapa 16, item 25: Babur — Baburnama
-- Etapa 16, item 26: Michael Sattler (atrib.) — Confissão de Schleitheim
-- Etapa 16, itens 27 e 28: Martinho Lutero — Catecismo Menor; Catecismo Maior
-- Etapa 16, itens 29 e 30: Filipe Melâncton — Confissão de Augsburgo; Apologia da Confissão de Augsburgo
-- Etapa 16, item 32: Martinho Lutero — Artigos de Esmalcalda
-- Etapa 16, item 36: Concílio de Trento (1545–1563) — Decretos e Cânones
-- Etapa 16, item 37: Thomas Cranmer (org.) — Livro de Oração Comum
-- Etapa 16, item 40: Fernão Mendes Pinto — Peregrinação
-- Etapa 16, item 41: Anônimo (k'iche') — Popol Vuh
-- Etapa 16, item 42: Bernardino de Sahagún — História Geral das Coisas da Nova Espanha (Códice Florentino)
-- Etapa 16, item 43: Bernal Díaz del Castillo — História Verdadeira da Conquista da Nova Espanha
-- Etapa 16, item 44: Hans Staden — Duas Viagens ao Brasil
-- Etapa 16, item 45: Yosef Caro — Shulchan Aruch
-- Etapa 16, item 46: Catecismo Romano (Catecismo do Concílio de Trento)
-- Etapa 16, item 47: Zacarias Ursino e Gaspar Oleviano — Catecismo de Heidelberg
-- Etapa 16, item 48: Guy de Brès — Confissão Belga
-- Etapa 16, item 49: Igreja da Inglaterra — Trinta e Nove Artigos de Religião
-- Etapa 16, item 50: Heinrich Bullinger — Confissão Helvética Posterior
-- Etapa 16, item 54: Jean de Léry — Viagem à Terra do Brasil
-- Etapa 16, item 55: Fórmula de Concórdia
-- Etapa 16, item 62: Guru Arjan (org.) — Guru Granth Sahib
-- Etapa 16, item 70: Felipe Guaman Poma de Ayala — Nova Crônica e Bom Governo
-- Etapa 16, item 71: Sínodo de Dordrecht — Cânones de Dort
-- Etapa 16, item 77: Pedro Mohyla — Confissão Ortodoxa
-- Etapa 16, itens 79, 80 e 81: Assembleia de Westminster — Confissão de Fé de Westminster; Catecismo Maior; Breve Catecismo
-- Etapa 16, item 82: Tratados de Vestfália (Münster e Osnabrück)
-- Etapa 16, item 83: Edward Hyde, Conde de Clarendon — História da Rebelião e das Guerras Civis na Inglaterra
-- Etapa 16, item 87: Abd al-Rahman al-Sadi — Tarikh al-Sudan
-- Etapa 16, item 92: Segunda Confissão Batista de Londres
-- Etapa 16, item 93: Concílio de Jerusalém (1672) — Confissão de Dositeu
-- Etapa 16, item 102: Anthony Reid — Southeast Asia in the Age of Commerce, 1450–1680
-- Etapa 16, item 103: Halil İnalcık — The Ottoman Empire: The Classical Age, 1300–1600
-- Etapa 16, item 104: C. R. Boxer — O Império Marítimo Português, 1415–1825
-- Etapa 16, item 105: John Hemming — The Conquest of the Incas
-- Etapa 16, item 106: Miguel León-Portilla — A Visão dos Vencidos
-- Etapa 16, item 107: Diarmaid MacCulloch — Reformation: Europe's House Divided, 1490–1700
-- Etapa 16, item 108: Peter H. Wilson — The Thirty Years War: Europe's Tragedy
-- Etapa 16, item 109: Christopher Hill — O Mundo de Ponta-Cabeça
+- Etapa 16, itens 9 e 10: Giovanni Pico della Mirandola — Discurso sobre a Dignidade do Homem; 900 Teses (seleções)
+- Etapa 16, itens 11 e 12: Cristóvão Colombo — Diário da Primeira Viagem; Carta a Santángel
+- Etapa 16, item 13: Pero Vaz de Caminha — Carta a el-Rei D. Manuel sobre o Achamento do Brasil
+- Etapa 16, item 20: Hernán Cortés — Cartas de Relação
+- Etapa 16, item 26: Leão, o Africano — Descrição da África (Della descrittione dell'Africa)
+- Etapa 16, item 27: Babur — Baburnama
+- Etapa 16, item 28: Michael Sattler (atrib.) — Confissão de Schleitheim
+- Etapa 16, itens 29 e 30: Martinho Lutero — Catecismo Menor; Catecismo Maior
+- Etapa 16, itens 31 e 32: Filipe Melâncton — Confissão de Augsburgo; Apologia da Confissão de Augsburgo
+- Etapa 16, item 35: Martinho Lutero — Artigos de Esmalcalda
+- Etapa 16, item 39: Concílio de Trento (1545–1563) — Decretos e Cânones
+- Etapa 16, item 40: Thomas Cranmer (org.) — Livro de Oração Comum
+- Etapa 16, item 44: Fernão Mendes Pinto — Peregrinação
+- Etapa 16, item 45: Anônimo (k'iche') — Popol Vuh
+- Etapa 16, item 46: Bernardino de Sahagún — História Geral das Coisas da Nova Espanha (Códice Florentino)
+- Etapa 16, item 47: Bernal Díaz del Castillo — História Verdadeira da Conquista da Nova Espanha
+- Etapa 16, item 48: Hans Staden — Duas Viagens ao Brasil
+- Etapa 16, item 49: Yosef Caro — Shulchan Aruch
+- Etapa 16, item 50: Catecismo Romano (Catecismo do Concílio de Trento)
+- Etapa 16, item 51: Zacarias Ursino e Gaspar Oleviano — Catecismo de Heidelberg
+- Etapa 16, item 52: Guy de Brès — Confissão Belga
+- Etapa 16, item 53: Igreja da Inglaterra — Trinta e Nove Artigos de Religião
+- Etapa 16, item 54: Heinrich Bullinger — Confissão Helvética Posterior
+- Etapa 16, item 58: Jean de Léry — Viagem à Terra do Brasil
+- Etapa 16, item 59: Fórmula de Concórdia
+- Etapa 16, item 71: Guru Arjan (org.) — Guru Granth Sahib
+- Etapa 16, item 81: Felipe Guaman Poma de Ayala — Nova Crônica e Bom Governo
+- Etapa 16, item 82: Sínodo de Dordrecht — Cânones de Dort
+- Etapa 16, item 90: Pedro Mohyla — Confissão Ortodoxa
+- Etapa 16, itens 92, 93 e 94: Assembleia de Westminster — Confissão de Fé de Westminster; Catecismo Maior; Breve Catecismo
+- Etapa 16, item 95: Tratados de Vestfália (Münster e Osnabrück)
+- Etapa 16, item 96: Edward Hyde, Conde de Clarendon — História da Rebelião e das Guerras Civis na Inglaterra
+- Etapa 16, item 100: Abd al-Rahman al-Sadi — Tarikh al-Sudan
+- Etapa 16, item 107: Segunda Confissão Batista de Londres
+- Etapa 16, item 108: Concílio de Jerusalém (1672) — Confissão de Dositeu
+- Etapa 16, item 120: Anthony Reid — Southeast Asia in the Age of Commerce, 1450–1680
+- Etapa 16, item 121: Halil İnalcık — The Ottoman Empire: The Classical Age, 1300–1600
+- Etapa 16, item 122: C. R. Boxer — O Império Marítimo Português, 1415–1825
+- Etapa 16, item 123: John Hemming — The Conquest of the Incas
+- Etapa 16, item 124: Miguel León-Portilla — A Visão dos Vencidos
+- Etapa 16, item 125: Diarmaid MacCulloch — Reformation: Europe's House Divided, 1490–1700
+- Etapa 16, item 126: Peter H. Wilson — The Thirty Years War: Europe's Tragedy
+- Etapa 16, item 127: Christopher Hill — O Mundo de Ponta-Cabeça
 - Etapa 17, itens 3 e 4: George Berkeley — Tratado sobre os Princípios do Conhecimento Humano; Três Diálogos entre Hilas e Filonous
-- Etapa 17, item 29: Friedrich Heinrich Jacobi — Cartas sobre a Doutrina de Spinoza ao Senhor Moses Mendelssohn
-- Etapa 17, item 33: Antoine-Laurent Lavoisier — Tratado Elementar de Química
-- Etapa 17, item 34: Emmanuel-Joseph Sieyès — O que É o Terceiro Estado?
-- Etapa 17, itens 41 e 49: Johann Gottlieb Fichte — Fundamentos de Toda a Doutrina da Ciência; Discursos à Nação Alemã (seleções)
-- Etapa 17, itens 48 e 50: Friedrich Wilhelm Joseph Schelling — Sistema do Idealismo Transcendental; Investigações sobre a Essência da Liberdade Humana
-- Etapa 17, item 55: Bernard Bailyn — As Origens Ideológicas da Revolução Americana
-- Etapa 17, item 56: Laurent Dubois — Avengers of the New World: The Story of the Haitian Revolution
-- Etapa 18, item 19: Joseph Smith — O Livro de Mórmon
-- Etapa 18, item 41: Patriarcas Orientais — Encíclica de 1848 (Resposta a Pio IX)
-- Etapa 18, item 52: Francisco Adolfo de Varnhagen — História Geral do Brasil
-- Etapa 18, itens 71 e 91: James Clerk Maxwell — Uma Teoria Dinâmica do Campo Eletromagnético; Tratado sobre Eletricidade e Magnetismo (seleções)
-- Etapa 18, itens 76, 100, 106 e 120: Henrik Ibsen — Casa de Bonecas; Um Inimigo do Povo; Hedda Gabler; Peer Gynt
-- Etapa 18, itens 84 e 85: Concílio Vaticano I — Dei Filius; Pastor Aeternus
-- Etapa 18, itens 92 e 113: Arthur Rimbaud — Uma Temporada no Inferno; Iluminações
-- Etapa 18, item 130: Georg Cantor — Contribuições para a Fundação da Teoria dos Números Transfinitos
-- Etapa 18, itens 135 e 136: Stéphane Mallarmé — Poesias; Um Lance de Dados
-- Etapa 18, item 138: Otto von Bismarck — Pensamentos e Recordações
-- Etapa 18, itens 143 e 144: David Hilbert — Fundamentos da Geometria; Problemas Matemáticos (conferência de 1900)
-- Etapa 18, item 154: John Lynch — As Revoluções Hispano-Americanas, 1808–1826
-- Etapa 18, item 156: C. A. Bayly — O Nascimento do Mundo Moderno, 1780–1914
-- Etapa 18, item 157: James McPherson — Battle Cry of Freedom: The Civil War Era
-- Etapa 18, item 158: Marius Jansen — The Making of Modern Japan
-- Etapa 19, item 45: Ezra Pound — Os Cantos (seleções)
-- Etapa 19, itens 56, 58 e 59: Documentos — Quatorze Pontos de Wilson (1918); Tratado de Versalhes (1919); Pacto da Liga das Nações (1919)
-- Etapa 19, itens 103, 167 e 188: Bertolt Brecht — A Ópera dos Três Vinténs; Mãe Coragem e seus Filhos; A Vida de Galileu
-- Etapa 19, item 117: Leon Trótski — História da Revolução Russa
-- Etapa 19, itens 132 e 215: Pablo Neruda — Residência na Terra; Canto Geral
-- Etapa 19, item 135: Igreja Confessante — Declaração Teológica de Barmen
-- Etapa 19, itens 158, 159 e 220: Mao Tsé-Tung — Sobre a Prática; Sobre a Contradição; Obras Escolhidas (seleções)
-- Etapa 19, item 237: Barbara Tuchman — Canhões de Agosto
-- Etapa 19, item 245: Christopher Clark — Sonâmbulos: Como a Europa Caminhou para a Guerra em 1914
-- Etapa 19, item 246: Winston Churchill — A Segunda Guerra Mundial
-- Etapa 19, item 247: Raul Hilberg — A Destruição dos Judeus Europeus
+- Etapa 17, item 38: Friedrich Heinrich Jacobi — Cartas sobre a Doutrina de Spinoza ao Senhor Moses Mendelssohn
+- Etapa 17, item 42: Antoine-Laurent Lavoisier — Tratado Elementar de Química
+- Etapa 17, item 43: Emmanuel-Joseph Sieyès — O que É o Terceiro Estado?
+- Etapa 17, itens 51 e 61: Johann Gottlieb Fichte — Fundamentos de Toda a Doutrina da Ciência; Discursos à Nação Alemã (seleções)
+- Etapa 17, itens 59 e 62: Friedrich Wilhelm Joseph Schelling — Sistema do Idealismo Transcendental; Investigações sobre a Essência da Liberdade Humana
+- Etapa 17, item 67: Bernard Bailyn — As Origens Ideológicas da Revolução Americana
+- Etapa 17, item 68: Laurent Dubois — Avengers of the New World: The Story of the Haitian Revolution
+- Etapa 18, item 25: Joseph Smith — O Livro de Mórmon
+- Etapa 18, item 57: Patriarcas Orientais — Encíclica de 1848 (Resposta a Pio IX)
+- Etapa 18, item 72: Francisco Adolfo de Varnhagen — História Geral do Brasil
+- Etapa 18, itens 100 e 128: James Clerk Maxwell — Uma Teoria Dinâmica do Campo Eletromagnético; Tratado sobre Eletricidade e Magnetismo (seleções)
+- Etapa 18, itens 108, 141, 147 e 172: Henrik Ibsen — Casa de Bonecas; Um Inimigo do Povo; Hedda Gabler; Peer Gynt
+- Etapa 18, itens 118 e 119: Concílio Vaticano I — Dei Filius; Pastor Aeternus
+- Etapa 18, itens 129 e 161: Arthur Rimbaud — Uma Temporada no Inferno; Iluminações
+- Etapa 18, item 185: Georg Cantor — Contribuições para a Fundação da Teoria dos Números Transfinitos
+- Etapa 18, itens 192 e 193: Stéphane Mallarmé — Poesias; Um Lance de Dados
+- Etapa 18, item 197: Otto von Bismarck — Pensamentos e Recordações
+- Etapa 18, itens 204 e 205: David Hilbert — Fundamentos da Geometria; Problemas Matemáticos (conferência de 1900)
+- Etapa 18, item 215: John Lynch — As Revoluções Hispano-Americanas, 1808–1826
+- Etapa 18, item 217: C. A. Bayly — O Nascimento do Mundo Moderno, 1780–1914
+- Etapa 18, item 218: James McPherson — Battle Cry of Freedom: The Civil War Era
+- Etapa 18, item 219: Marius Jansen — The Making of Modern Japan
+- Etapa 19, item 52: Ezra Pound — Os Cantos (seleções)
+- Etapa 19, itens 63, 65 e 66: Documentos — Quatorze Pontos de Wilson (1918); Tratado de Versalhes (1919); Pacto da Liga das Nações (1919)
+- Etapa 19, itens 116, 194 e 221: Bertolt Brecht — A Ópera dos Três Vinténs; Mãe Coragem e seus Filhos; A Vida de Galileu
+- Etapa 19, item 131: Leon Trótski — História da Revolução Russa
+- Etapa 19, itens 150 e 249: Pablo Neruda — Residência na Terra; Canto Geral
+- Etapa 19, item 154: Igreja Confessante — Declaração Teológica de Barmen
+- Etapa 19, itens 179, 180 e 254: Mao Tsé-Tung — Sobre a Prática; Sobre a Contradição; Obras Escolhidas (seleções)
+- Etapa 19, item 271: Barbara Tuchman — Canhões de Agosto
+- Etapa 19, item 279: Christopher Clark — Sonâmbulos: Como a Europa Caminhou para a Guerra em 1914
+- Etapa 19, item 280: Winston Churchill — A Segunda Guerra Mundial
+- Etapa 19, item 281: Raul Hilberg — A Destruição dos Judeus Europeus
 - Etapa 20, item 14: Jawaharlal Nehru — A Descoberta da Índia
-- Etapa 20, itens 17, 18, 23, 46 e 133: Documentos da Guerra Fria — "Longo Telegrama" de Kennan (1946); Discurso da Cortina de Ferro de Churchill (1946); Doutrina Truman (1947); NSC-68 (1950); Discurso de Despedida de Eisenhower (1961)
-- Etapa 20, item 184: Thomas Skidmore — Brasil: de Getúlio a Castelo
-- Etapa 20, item 201: Tulio Halperín Donghi — História da América Latina
-- Etapa 20, item 287: Fernando Novais — Portugal e Brasil na Crise do Antigo Sistema Colonial, 1777–1808
-- Etapa 20, item 305: Paul Kennedy — Ascensão e Queda das Grandes Potências
-- Etapa 20, item 316: John Lewis Gaddis — The Cold War: A New History
-- Etapa 20, item 317: Odd Arne Westad — The Global Cold War
-- Etapa 21, item 27: Código de Direito Canônico (1983) — seleção
-- Etapa 21, item 36: Arquidiocese de São Paulo — Brasil: Nunca Mais
-- Etapa 21, item 68: Catecismo da Igreja Católica
-- Etapa 21, item 82: Boris Fausto — História do Brasil
-- Etapa 21, item 112: Luiz Felipe de Alencastro — O Trato dos Viventes: Formação do Brasil no Atlântico Sul
-- Etapa 21, item 115: Stephen Kotkin — Armageddon Averted: The Soviet Collapse, 1970–2000
-- Etapa 21, item 144: Comissão Nacional da Verdade — Relatório Final da Comissão Nacional da Verdade
-- Etapa 21, item 146: Lilia Moritz Schwarcz e Heloisa Murgel Starling — Brasil: Uma Biografia
-- Etapa 21, item 152: Adam Tooze — Crashed: How a Decade of Financial Crises Changed the World
+- Etapa 20, itens 17, 18, 24, 51 e 164: Documentos da Guerra Fria — "Longo Telegrama" de Kennan (1946); Discurso da Cortina de Ferro de Churchill (1946); Doutrina Truman (1947); NSC-68 (1950); Discurso de Despedida de Eisenhower (1961)
+- Etapa 20, item 234: Thomas Skidmore — Brasil: de Getúlio a Castelo
+- Etapa 20, item 254: Tulio Halperín Donghi — História da América Latina
+- Etapa 20, item 353: Fernando Novais — Portugal e Brasil na Crise do Antigo Sistema Colonial, 1777–1808
+- Etapa 20, item 372: Paul Kennedy — Ascensão e Queda das Grandes Potências
+- Etapa 20, item 383: John Lewis Gaddis — The Cold War: A New History
+- Etapa 20, item 384: Odd Arne Westad — The Global Cold War
+- Etapa 21, item 31: Código de Direito Canônico (1983) — seleção
+- Etapa 21, item 44: Arquidiocese de São Paulo — Brasil: Nunca Mais
+- Etapa 21, item 86: Catecismo da Igreja Católica
+- Etapa 21, item 102: Boris Fausto — História do Brasil
+- Etapa 21, item 139: Luiz Felipe de Alencastro — O Trato dos Viventes: Formação do Brasil no Atlântico Sul
+- Etapa 21, item 144: Stephen Kotkin — Armageddon Averted: The Soviet Collapse, 1970–2000
+- Etapa 21, item 183: Comissão Nacional da Verdade — Relatório Final da Comissão Nacional da Verdade
+- Etapa 21, item 185: Lilia Moritz Schwarcz e Heloisa Murgel Starling — Brasil: Uma Biografia
+- Etapa 21, item 191: Adam Tooze — Crashed: How a Decade of Financial Crises Changed the World
 
 ## 4. Equivalências entre as listas A e B (itens que dividem a mesma descrição)
 

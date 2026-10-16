@@ -58,6 +58,7 @@
 40. A Tragédia Grega (Jacqueline de Romilly)
 41. O Teatro Antigo (Pierre Grimal)
 42. The Story of Civilization, vol. II: The Life of Greece (Will Durant)
+43. Esopo — Fábulas · c. 600 a.C.
 ## Etapa 4: Pré-socráticos
 1. Vidas e Doutrinas dos Filósofos Ilustres (Diógenes Laércio)
 2. Os Filósofos Pré-Socráticos (Kirk, Raven e Schofield)
@@ -232,6 +233,7 @@
 27. A Vida Cética (Pirro)
 28. Os Céticos Gregos
 29. Sexto Empírico — Esboços Pirrônicos; Contra os Matemáticos (seleções) · c. 190
+30. Apolônio de Rodes — Argonáuticas · c. 250 a.C.
 ## Etapa 9: Roma e Cícero
 1. História de Roma (Indro Montanelli)
 2. História de Roma (Theodor Mommsen)
@@ -264,6 +266,7 @@
 29. Luciano de Samósata — Diálogos dos Mortos; Uma História Verdadeira; Sobre a Morte de Peregrino · c. 165
 30. Apuleio — O Asno de Ouro (Metamorfoses) · c. 170
 31. Suetônio — Vida dos Doze Césares · c. 121
+32. Petrônio — Satyricon · c. 60
 ## Etapa 10: Plotino e os neoplatônicos pagãos
 1. História da Filosofia Grega e Romana, vol. VII (Giovanni Reale), sobre o declínio e o médio platonismo
 2. The Middle Platonists (John Dillon)
@@ -453,14 +456,16 @@
 38. Sutras Mahayana — Sutra do Lótus (seleções) · c. 100
 39. Nagarjuna — Mulamadhyamakakarika (seleções) · c. 200
 40. Patanjali — Yoga Sutras · c. 200
-41. V. Gordon Childe — Man Makes Himself · c. 1936
-42. V. Gordon Childe — What Happened in History · c. 1942
-43. Samuel Noah Kramer — A História Começa na Suméria · c. 1956
-44. Jean Bottéro — Mesopotâmia: A Escrita, a Razão e os Deuses · c. 1987
-45. Marc Van De Mieroop — A History of the Ancient Near East ca. 3000–323 BC · c. 2004
-46. Ian Shaw (org.) — The Oxford History of Ancient Egypt · c. 2000
-47. Pierre Briant — From Cyrus to Alexander: A History of the Persian Empire · c. 1996
-48. Romila Thapar — A History of India, vol. 1 · c. 1966
+41. Vários — Panchatantra · c. 300
+42. Kalidasa — Shakuntala · c. 400
+43. V. Gordon Childe — Man Makes Himself · c. 1936
+44. V. Gordon Childe — What Happened in History · c. 1942
+45. Samuel Noah Kramer — A História Começa na Suméria · c. 1956
+46. Jean Bottéro — Mesopotâmia: A Escrita, a Razão e os Deuses · c. 1987
+47. Marc Van De Mieroop — A History of the Ancient Near East ca. 3000–323 BC · c. 2004
+48. Ian Shaw (org.) — The Oxford History of Ancient Egypt · c. 2000
+49. Pierre Briant — From Cyrus to Alexander: A History of the Persian Empire · c. 1996
+50. Romila Thapar — A History of India, vol. 1 · c. 1966
 ## Etapa 15: Idade Média e mundo islâmico/asiático (c. 630–1400)
 1. Alcorão · c. 632
 2. Ibn Ishaq (na recensão de Ibn Hisham) — Vida do Profeta de Deus (Sirat Rasul Allah) · c. 760
@@ -498,73 +503,79 @@
 34. João de Salisbury — Policraticus · c. 1159
 35. Maimônides — Os Treze Princípios da Fé (Comentário à Mishná, Sanhedrin, cap. 10) · c. 1168
 36. Ibn Tufayl — Hayy ibn Yaqzan · c. 1170
-37. Zhu Xi — Reflexões sobre as Coisas ao Alcance da Mão (com Lü Zuqian) · c. 1175
-38. Zhu Xi — Comentário aos Quatro Livros (seleções) · c. 1175
-39. Averróis (Ibn Rushd) — Comentários a Aristóteles · c. 1180
-40. Usama ibn Munqidh — Kitab al-I'tibar · c. 1180
-41. Maimônides — Mishné Torá (Livro do Conhecimento) · c. 1180
-42. Maimônides — Guia dos Perplexos · c. 1190
-43. Filocalia (seleções) · c. 1200
-44. Anônimo — A Canção dos Nibelungos (Nibelungenlied) · c. 1200
-45. Joaquim de Fiore — Concórdia do Novo e do Antigo Testamento · c. 1200
-46. Joaquim de Fiore — Exposição do Apocalipse (leitura secundária) · c. 1200
-47. Concílio de Latrão IV (1215) — Constituições · c. 1215
-48. Documentos fundadores — Magna Carta (1215) · c. 1215
-49. Ibn Arabi — As Gemas da Sabedoria (Fusus al-Hikam) · c. 1220
-50. Ibn Arabi — Meccan Revelations (seleções) · c. 1220
-51. Francisco de Assis — Regra · c. 1223
-52. Francisco de Assis — Cântico das Criaturas · c. 1225
-53. Francisco de Assis — Admoestações · c. 1225
-54. Francisco de Assis — Testamento · c. 1226
-55. Snorri Sturluson — Heimskringla · c. 1230
-56. Dōgen — Shōbōgenzō (seleções) · c. 1240
-57. Anônimo — Heike Monogatari (O Conto dos Heike) · c. 1240
-58. Anônimo — A História Secreta dos Mongóis · c. 1240
-59. Tradição oral mandinga (versão de D. T. Niane) — Sundiata: An Epic of Old Mali · c. 1240
-60. Saadi — Golestan · c. 1258
-61. Boaventura — Itinerário da Mente para Deus · c. 1259
-62. Rumi — Masnavi (seleções) · c. 1260
-63. Tomás de Aquino — Suma Teológica (seleções), Suma Contra os Gentios · c. 1265
-64. Marco Polo — O Livro das Maravilhas (Il Milione) · c. 1298
-65. Moisés de León (atrib.) — Zohar (seleção) · c. 1290
-66. João Duns Escoto — Tratado do Primeiro Princípio · c. 1300
-67. João Duns Escoto — Ordinatio (seleções) · c. 1300
-68. Mestre Eckhart — Sermões Alemães (seleções) · c. 1310
-69. Mestre Eckhart — Tratados · c. 1310
-70. Dante Alighieri — A Divina Comédia · c. 1310
-71. Dante Alighieri — De Monarchia · c. 1310
-72. Anônimo — Kebra Nagast (Glória dos Reis) · c. 1320
-73. Marsílio de Pádua — O Defensor da Paz · c. 1324
-74. Guilherme de Ockham — Escritos sobre Lógica e Teologia (seleções) · c. 1325
-75. Gregório Palamas — Tríades em Defesa dos Santos Hesicastas (seleções) · c. 1340
-76. Giovanni Boccaccio — Decamerão · c. 1350
-77. Francesco Petrarca — Cancioneiro (Canzoniere) · c. 1350
-78. Francesco Petrarca — Secretum · c. 1350
-79. Francesco Petrarca — Cartas (seleção) · c. 1350
-80. Ibn Battuta — Viagens (Rihla) · c. 1355
-81. Prapañca — Nagarakretagama (Deśawarṇana) · c. 1365
-82. Jean Froissart — Crônicas · c. 1370
-83. Hafez — Divã (seleção) · c. 1370
-84. Ibn Khaldun — Muqaddimah · c. 1377
-85. Catarina de Sena — O Diálogo · c. 1378
-86. Geoffrey Chaucer — Os Contos de Canterbury · c. 1387
-87. Juliana de Norwich — Revelações do Amor Divino · c. 1393
-88. Documentos fundadores — Bill of Rights (1689) · c. 1689
-89. Documentos fundadores — Declaração de Independência dos EUA (1776) · c. 1776
-90. Documentos fundadores — Constituição dos EUA e Emendas · c. 1787
-91. Documentos fundadores — Declaração dos Direitos do Homem e do Cidadão (1789) · c. 1789
-92. Documentos fundadores — Declaração Universal dos Direitos Humanos (1948) · c. 1948
-93. Jacques Le Goff — A Civilização do Ocidente Medieval · c. 1964
-94. Steven Runciman — História das Cruzadas · c. 1951
-95. Georg Ostrogorsky — History of the Byzantine State · c. 1940
-96. Documentos fundadores — Constituição Federal do Brasil (1988, Preâmbulo e Títulos I–II) · c. 1988
-97. Albert Hourani — Uma História dos Povos Árabes · c. 1991
-98. John K. Fairbank e Merle Goldman — China: Uma Nova História · c. 1992
-99. George Sansom — A History of Japan · c. 1958
-100. George Coedès — Os Estados Indianizados do Sudeste Asiático · c. 1948
-101. Joseph Ki-Zerbo — História da África Negra · c. 1972
-102. Alberto da Costa e Silva — A Enxada e a Lança: A África antes dos Portugueses · c. 1992
-103. Michael D. Coe — The Maya · c. 1966
+37. Vários — Tristão e Isolda · c. 1170
+38. Zhu Xi — Reflexões sobre as Coisas ao Alcance da Mão (com Lü Zuqian) · c. 1175
+39. Zhu Xi — Comentário aos Quatro Livros (seleções) · c. 1175
+40. Averróis (Ibn Rushd) — Comentários a Aristóteles · c. 1180
+41. Usama ibn Munqidh — Kitab al-I'tibar · c. 1180
+42. Maimônides — Mishné Torá (Livro do Conhecimento) · c. 1180
+43. Chrétien de Troyes — Lancelote e Perceval · c. 1180
+44. Maimônides — Guia dos Perplexos · c. 1190
+45. Filocalia (seleções) · c. 1200
+46. Anônimo — A Canção dos Nibelungos (Nibelungenlied) · c. 1200
+47. Joaquim de Fiore — Concórdia do Novo e do Antigo Testamento · c. 1200
+48. Joaquim de Fiore — Exposição do Apocalipse (leitura secundária) · c. 1200
+49. Concílio de Latrão IV (1215) — Constituições · c. 1215
+50. Documentos fundadores — Magna Carta (1215) · c. 1215
+51. Ibn Arabi — As Gemas da Sabedoria (Fusus al-Hikam) · c. 1220
+52. Ibn Arabi — Meccan Revelations (seleções) · c. 1220
+53. Snorri Sturluson — Edda em Prosa · c. 1220
+54. Francisco de Assis — Regra · c. 1223
+55. Francisco de Assis — Cântico das Criaturas · c. 1225
+56. Francisco de Assis — Admoestações · c. 1225
+57. Francisco de Assis — Testamento · c. 1226
+58. Snorri Sturluson — Heimskringla · c. 1230
+59. Dōgen — Shōbōgenzō (seleções) · c. 1240
+60. Anônimo — Heike Monogatari (O Conto dos Heike) · c. 1240
+61. Anônimo — A História Secreta dos Mongóis · c. 1240
+62. Tradição oral mandinga (versão de D. T. Niane) — Sundiata: An Epic of Old Mali · c. 1240
+63. Saadi — Golestan · c. 1258
+64. Boaventura — Itinerário da Mente para Deus · c. 1259
+65. Rumi — Masnavi (seleções) · c. 1260
+66. Tomás de Aquino — Suma Teológica (seleções), Suma Contra os Gentios · c. 1265
+67. Marco Polo — O Livro das Maravilhas (Il Milione) · c. 1298
+68. Moisés de León (atrib.) — Zohar (seleção) · c. 1290
+69. João Duns Escoto — Tratado do Primeiro Princípio · c. 1300
+70. João Duns Escoto — Ordinatio (seleções) · c. 1300
+71. Vários — As Mil e Uma Noites · c. 1300
+72. Mestre Eckhart — Sermões Alemães (seleções) · c. 1310
+73. Mestre Eckhart — Tratados · c. 1310
+74. Dante Alighieri — A Divina Comédia · c. 1310
+75. Dante Alighieri — De Monarchia · c. 1310
+76. Anônimo — Kebra Nagast (Glória dos Reis) · c. 1320
+77. Marsílio de Pádua — O Defensor da Paz · c. 1324
+78. Guilherme de Ockham — Escritos sobre Lógica e Teologia (seleções) · c. 1325
+79. Gregório Palamas — Tríades em Defesa dos Santos Hesicastas (seleções) · c. 1340
+80. Giovanni Boccaccio — Decamerão · c. 1350
+81. Francesco Petrarca — Cancioneiro (Canzoniere) · c. 1350
+82. Francesco Petrarca — Secretum · c. 1350
+83. Francesco Petrarca — Cartas (seleção) · c. 1350
+84. Luo Guanzhong — Romance dos Três Reinos · c. 1350
+85. Ibn Battuta — Viagens (Rihla) · c. 1355
+86. Prapañca — Nagarakretagama (Deśawarṇana) · c. 1365
+87. Jean Froissart — Crônicas · c. 1370
+88. Hafez — Divã (seleção) · c. 1370
+89. Ibn Khaldun — Muqaddimah · c. 1377
+90. Catarina de Sena — O Diálogo · c. 1378
+91. Geoffrey Chaucer — Os Contos de Canterbury · c. 1387
+92. Anônimo — Sir Gawain e o Cavaleiro Verde · c. 1390
+93. Juliana de Norwich — Revelações do Amor Divino · c. 1393
+94. Documentos fundadores — Bill of Rights (1689) · c. 1689
+95. Documentos fundadores — Declaração de Independência dos EUA (1776) · c. 1776
+96. Documentos fundadores — Constituição dos EUA e Emendas · c. 1787
+97. Documentos fundadores — Declaração dos Direitos do Homem e do Cidadão (1789) · c. 1789
+98. Documentos fundadores — Declaração Universal dos Direitos Humanos (1948) · c. 1948
+99. Jacques Le Goff — A Civilização do Ocidente Medieval · c. 1964
+100. Steven Runciman — História das Cruzadas · c. 1951
+101. Georg Ostrogorsky — History of the Byzantine State · c. 1940
+102. Documentos fundadores — Constituição Federal do Brasil (1988, Preâmbulo e Títulos I–II) · c. 1988
+103. Albert Hourani — Uma História dos Povos Árabes · c. 1991
+104. John K. Fairbank e Merle Goldman — China: Uma Nova História · c. 1992
+105. George Sansom — A History of Japan · c. 1958
+106. George Coedès — Os Estados Indianizados do Sudeste Asiático · c. 1948
+107. Joseph Ki-Zerbo — História da África Negra · c. 1972
+108. Alberto da Costa e Silva — A Enxada e a Lança: A África antes dos Portugueses · c. 1992
+109. Michael D. Coe — The Maya · c. 1966
 ## Etapa 16: Renascimento, Reforma e século XVII (c. 1400–1700)
 1. Du Fu — Poemas (seleção) · c. 750
 2. Tomás de Kempis — Imitação de Cristo · c. 1420
@@ -573,165 +584,195 @@
 5. Nicolau de Cusa — A Visão de Deus · c. 1453
 6. Marsílio Ficino — Teologia Platônica · c. 1469
 7. Marsílio Ficino — Sobre o Amor (Comentário ao Banquete de Platão) · c. 1469
-8. Giovanni Pico della Mirandola — Discurso sobre a Dignidade do Homem · c. 1486
-9. Giovanni Pico della Mirandola — 900 Teses (seleções) · c. 1486
-10. Cristóvão Colombo — Diário da Primeira Viagem · c. 1492
-11. Cristóvão Colombo — Carta a Santángel · c. 1493
-12. Pero Vaz de Caminha — Carta a el-Rei D. Manuel sobre o Achamento do Brasil · c. 1500
-13. Erasmo de Roterdã — Elogio da Loucura · c. 1511
-14. Maquiavel — O Príncipe, Discursos sobre a Primeira Década de Tito Lívio · c. 1513
-15. Thomas More — Utopia · c. 1516
-16. Erasmo de Roterdã — Educação do Príncipe Cristão · c. 1516
-17. Wang Yangming — Instruções para a Prática e o Aprendizado · c. 1518
-18. Hernán Cortés — Cartas de Relação · c. 1519
-19. Martinho Lutero — Sobre a Liberdade Cristã · c. 1520
-20. Martinho Lutero — textos selecionados · c. 1520
-21. Nicolau Maquiavel — A Arte da Guerra · c. 1521
-22. Erasmo de Roterdã — Do Livre-Arbítrio · c. 1524
-23. Martinho Lutero — Do Servo Arbítrio · c. 1525
-24. Leão, o Africano — Descrição da África (Della descrittione dell'Africa) · c. 1526
-25. Babur — Baburnama · c. 1526
-26. Michael Sattler (atrib.) — Confissão de Schleitheim · c. 1527
-27. Martinho Lutero — Catecismo Menor · c. 1529
-28. Martinho Lutero — Catecismo Maior · c. 1529
-29. Filipe Melâncton — Confissão de Augsburgo · c. 1530
-30. Filipe Melâncton — Apologia da Confissão de Augsburgo · c. 1531
-31. João Calvino — Institutas da Religião Cristã (seleções) · c. 1536
-32. Martinho Lutero — Artigos de Esmalcalda · c. 1537
-33. Francisco de Vitória — Relectiones (seleções) · c. 1539
-34. Bartolomé de las Casas — Brevíssima Relação da Destruição das Índias · c. 1542
-35. Nicolau Copérnico — Das Revoluções das Esferas Celestes (Prefácio e Livro I) · c. 1543
-36. Concílio de Trento (1545–1563) — Decretos e Cânones · c. 1545
-37. Thomas Cranmer (org.) — Livro de Oração Comum · c. 1549
-38. Giorgio Vasari — Vidas dos Artistas (seleções) · c. 1550
-39. Bartolomé de las Casas — Debate de Valladolid (seleções) · c. 1550
-40. Fernão Mendes Pinto — Peregrinação · c. 1570
-41. Anônimo (k'iche') — Popol Vuh · c. 1550
-42. Bernardino de Sahagún — História Geral das Coisas da Nova Espanha (Códice Florentino) · c. 1569
-43. Bernal Díaz del Castillo — História Verdadeira da Conquista da Nova Espanha · c. 1568
-44. Hans Staden — Duas Viagens ao Brasil · c. 1557
-45. Yosef Caro — Shulchan Aruch · c. 1565
-46. Catecismo Romano (Catecismo do Concílio de Trento) · c. 1566
-47. Zacarias Ursino e Gaspar Oleviano — Catecismo de Heidelberg · c. 1563
-48. Guy de Brès — Confissão Belga · c. 1561
-49. Igreja da Inglaterra — Trinta e Nove Artigos de Religião · c. 1563
-50. Heinrich Bullinger — Confissão Helvética Posterior · c. 1566
-51. Luís de Camões — Os Lusíadas · c. 1572
-52. Jean Bodin — Os Seis Livros da República (seleções) · c. 1576
-53. Teresa de Ávila — Castelo Interior (Moradas) · c. 1577
-54. Jean de Léry — Viagem à Terra do Brasil · c. 1578
-55. Fórmula de Concórdia · c. 1577
-56. Michel de Montaigne — Ensaios (seleção) · c. 1580
-57. João da Cruz — Subida do Monte Carmelo · c. 1580
-58. João da Cruz — Noite Escura da Alma · c. 1580
-59. Luís de Camões — Sonetos · c. 1595
-60. William Shakespeare — Hamlet · c. 1600
-61. Johannes Althusius — Política (seleções) · c. 1603
-62. Guru Arjan (org.) — Guru Granth Sahib · c. 1604
-63. William Shakespeare — Medida por Medida · c. 1604
-64. Miguel de Cervantes — Dom Quixote · c. 1605
-65. William Shakespeare — Rei Lear · c. 1605
-66. Inca Garcilaso de la Vega — Comentários Reais dos Incas (seleções) · c. 1609
-67. Johannes Kepler — Nova Astronomia (Introdução) · c. 1609
-68. William Shakespeare — A Tempestade · c. 1611
-69. Francisco Suárez — Tratado das Leis e de Deus Legislador (seleções) · c. 1612
-70. Felipe Guaman Poma de Ayala — Nova Crônica e Bom Governo · c. 1615
-71. Sínodo de Dordrecht — Cânones de Dort · c. 1619
-72. Johannes Kepler — Harmonia do Mundo (Livro V) · c. 1619
-73. Francis Bacon — Novum Organum · c. 1620
-74. Hugo Grotius — Do Direito da Guerra e da Paz (seleções) · c. 1625
-75. Galileu Galilei — Diálogo sobre os Dois Principais Sistemas do Mundo · c. 1632
-76. René Descartes — Discurso do Método · c. 1637
-77. Pedro Mohyla — Confissão Ortodoxa · c. 1640
-78. René Descartes — Meditações Metafísicas · c. 1641
-79. Assembleia de Westminster — Confissão de Fé de Westminster · c. 1647
-80. Assembleia de Westminster — Catecismo Maior · c. 1647
-81. Assembleia de Westminster — Breve Catecismo · c. 1647
-82. Tratados de Vestfália (Münster e Osnabrück) · c. 1648
-83. Edward Hyde, Conde de Clarendon — História da Rebelião e das Guerras Civis na Inglaterra · c. 1646
-84. Padre Antônio Vieira — Sermões (seleções) · c. 1650
-85. Padre Antônio Vieira — História do Futuro · c. 1650
-86. Thomas Hobbes — Leviatã · c. 1651
-87. Abd al-Rahman al-Sadi — Tarikh al-Sudan · c. 1655
-88. John Milton — Paraíso Perdido · c. 1667
-89. Blaise Pascal — Pensamentos · c. 1670
-90. Baruch Spinoza — Ética · c. 1670
-91. Baruch Spinoza — Tratado Teológico-Político · c. 1670
-92. Segunda Confissão Batista de Londres · c. 1677
-93. Concílio de Jerusalém (1672) — Confissão de Dositeu · c. 1672
-94. Isaac Newton — Principia Mathematica (seleções) · c. 1687
-95. John Locke — Dois Tratados sobre o Governo · c. 1689
-96. John Locke — Ensaio sobre o Entendimento Humano · c. 1689
-97. Matsuo Bashō — Trilha Estreita ao Confim · c. 1689
-98. Sor Juana Inés de la Cruz — Resposta a Sor Filotea de la Cruz · c. 1691
-99. Sor Juana Inés de la Cruz — Primero Sueño · c. 1691
-100. John Locke — Alguns Pensamentos sobre a Educação · c. 1693
-101. Isaac Newton — Óptica · c. 1704
-102. Anthony Reid — Southeast Asia in the Age of Commerce, 1450–1680 · c. 1988
-103. Halil İnalcık — The Ottoman Empire: The Classical Age, 1300–1600 · c. 1973
-104. C. R. Boxer — O Império Marítimo Português, 1415–1825 · c. 1969
-105. John Hemming — The Conquest of the Incas · c. 1970
-106. Miguel León-Portilla — A Visão dos Vencidos · c. 1959
-107. Diarmaid MacCulloch — Reformation: Europe's House Divided, 1490–1700 · c. 2003
-108. Peter H. Wilson — The Thirty Years War: Europe's Tragedy · c. 2009
-109. Christopher Hill — O Mundo de Ponta-Cabeça · c. 1972
+8. Thomas Malory — A Morte de Arthur · c. 1485
+9. Giovanni Pico della Mirandola — Discurso sobre a Dignidade do Homem · c. 1486
+10. Giovanni Pico della Mirandola — 900 Teses (seleções) · c. 1486
+11. Cristóvão Colombo — Diário da Primeira Viagem · c. 1492
+12. Cristóvão Colombo — Carta a Santángel · c. 1493
+13. Pero Vaz de Caminha — Carta a el-Rei D. Manuel sobre o Achamento do Brasil · c. 1500
+14. Erasmo de Roterdã — Elogio da Loucura · c. 1511
+15. Maquiavel — O Príncipe, Discursos sobre a Primeira Década de Tito Lívio · c. 1513
+16. Thomas More — Utopia · c. 1516
+17. Erasmo de Roterdã — Educação do Príncipe Cristão · c. 1516
+18. Gil Vicente — Auto da Barca do Inferno · c. 1517
+19. Wang Yangming — Instruções para a Prática e o Aprendizado · c. 1518
+20. Hernán Cortés — Cartas de Relação · c. 1519
+21. Martinho Lutero — Sobre a Liberdade Cristã · c. 1520
+22. Martinho Lutero — textos selecionados · c. 1520
+23. Nicolau Maquiavel — A Arte da Guerra · c. 1521
+24. Erasmo de Roterdã — Do Livre-Arbítrio · c. 1524
+25. Martinho Lutero — Do Servo Arbítrio · c. 1525
+26. Leão, o Africano — Descrição da África (Della descrittione dell'Africa) · c. 1526
+27. Babur — Baburnama · c. 1526
+28. Michael Sattler (atrib.) — Confissão de Schleitheim · c. 1527
+29. Martinho Lutero — Catecismo Menor · c. 1529
+30. Martinho Lutero — Catecismo Maior · c. 1529
+31. Filipe Melâncton — Confissão de Augsburgo · c. 1530
+32. Filipe Melâncton — Apologia da Confissão de Augsburgo · c. 1531
+33. François Rabelais — Gargântua e Pantagruel · c. 1532
+34. João Calvino — Institutas da Religião Cristã (seleções) · c. 1536
+35. Martinho Lutero — Artigos de Esmalcalda · c. 1537
+36. Francisco de Vitória — Relectiones (seleções) · c. 1539
+37. Bartolomé de las Casas — Brevíssima Relação da Destruição das Índias · c. 1542
+38. Nicolau Copérnico — Das Revoluções das Esferas Celestes (Prefácio e Livro I) · c. 1543
+39. Concílio de Trento (1545–1563) — Decretos e Cânones · c. 1545
+40. Thomas Cranmer (org.) — Livro de Oração Comum · c. 1549
+41. Giorgio Vasari — Vidas dos Artistas (seleções) · c. 1550
+42. Bartolomé de las Casas — Debate de Valladolid (seleções) · c. 1550
+43. Anônimo — Lazarillo de Tormes · c. 1554
+44. Fernão Mendes Pinto — Peregrinação · c. 1570
+45. Anônimo (k'iche') — Popol Vuh · c. 1550
+46. Bernardino de Sahagún — História Geral das Coisas da Nova Espanha (Códice Florentino) · c. 1569
+47. Bernal Díaz del Castillo — História Verdadeira da Conquista da Nova Espanha · c. 1568
+48. Hans Staden — Duas Viagens ao Brasil · c. 1557
+49. Yosef Caro — Shulchan Aruch · c. 1565
+50. Catecismo Romano (Catecismo do Concílio de Trento) · c. 1566
+51. Zacarias Ursino e Gaspar Oleviano — Catecismo de Heidelberg · c. 1563
+52. Guy de Brès — Confissão Belga · c. 1561
+53. Igreja da Inglaterra — Trinta e Nove Artigos de Religião · c. 1563
+54. Heinrich Bullinger — Confissão Helvética Posterior · c. 1566
+55. Luís de Camões — Os Lusíadas · c. 1572
+56. Jean Bodin — Os Seis Livros da República (seleções) · c. 1576
+57. Teresa de Ávila — Castelo Interior (Moradas) · c. 1577
+58. Jean de Léry — Viagem à Terra do Brasil · c. 1578
+59. Fórmula de Concórdia · c. 1577
+60. Michel de Montaigne — Ensaios (seleção) · c. 1580
+61. João da Cruz — Subida do Monte Carmelo · c. 1580
+62. João da Cruz — Noite Escura da Alma · c. 1580
+63. Wu Cheng'en — Jornada ao Oeste · c. 1592
+64. Christopher Marlowe — Doutor Fausto · c. 1592
+65. Luís de Camões — Sonetos · c. 1595
+66. William Shakespeare — Sonho de uma Noite de Verão · c. 1596
+67. William Shakespeare — Romeu e Julieta · c. 1597
+68. William Shakespeare — O Mercador de Veneza · c. 1597
+69. William Shakespeare — Hamlet · c. 1600
+70. Johannes Althusius — Política (seleções) · c. 1603
+71. Guru Arjan (org.) — Guru Granth Sahib · c. 1604
+72. William Shakespeare — Medida por Medida · c. 1604
+73. William Shakespeare — Otelo · c. 1604
+74. Miguel de Cervantes — Dom Quixote · c. 1605
+75. William Shakespeare — Rei Lear · c. 1605
+76. William Shakespeare — Macbeth · c. 1606
+77. Inca Garcilaso de la Vega — Comentários Reais dos Incas (seleções) · c. 1609
+78. Johannes Kepler — Nova Astronomia (Introdução) · c. 1609
+79. William Shakespeare — A Tempestade · c. 1611
+80. Francisco Suárez — Tratado das Leis e de Deus Legislador (seleções) · c. 1612
+81. Felipe Guaman Poma de Ayala — Nova Crônica e Bom Governo · c. 1615
+82. Sínodo de Dordrecht — Cânones de Dort · c. 1619
+83. Johannes Kepler — Harmonia do Mundo (Livro V) · c. 1619
+84. Francis Bacon — Novum Organum · c. 1620
+85. Hugo Grotius — Do Direito da Guerra e da Paz (seleções) · c. 1625
+86. Galileu Galilei — Diálogo sobre os Dois Principais Sistemas do Mundo · c. 1632
+87. Giambattista Basile — Pentamerone · c. 1634
+88. Pedro Calderón de la Barca — A Vida É Sonho · c. 1635
+89. René Descartes — Discurso do Método · c. 1637
+90. Pedro Mohyla — Confissão Ortodoxa · c. 1640
+91. René Descartes — Meditações Metafísicas · c. 1641
+92. Assembleia de Westminster — Confissão de Fé de Westminster · c. 1647
+93. Assembleia de Westminster — Catecismo Maior · c. 1647
+94. Assembleia de Westminster — Breve Catecismo · c. 1647
+95. Tratados de Vestfália (Münster e Osnabrück) · c. 1648
+96. Edward Hyde, Conde de Clarendon — História da Rebelião e das Guerras Civis na Inglaterra · c. 1646
+97. Padre Antônio Vieira — Sermões (seleções) · c. 1650
+98. Padre Antônio Vieira — História do Futuro · c. 1650
+99. Thomas Hobbes — Leviatã · c. 1651
+100. Abd al-Rahman al-Sadi — Tarikh al-Sudan · c. 1655
+101. Molière — Tartufo e O Avarento · c. 1664
+102. Molière — O Misantropo · c. 1666
+103. John Milton — Paraíso Perdido · c. 1667
+104. Blaise Pascal — Pensamentos · c. 1670
+105. Baruch Spinoza — Ética · c. 1670
+106. Baruch Spinoza — Tratado Teológico-Político · c. 1670
+107. Segunda Confissão Batista de Londres · c. 1677
+108. Concílio de Jerusalém (1672) — Confissão de Dositeu · c. 1672
+109. Jean Racine — Fedra · c. 1677
+110. John Bunyan — O Peregrino · c. 1678
+111. Isaac Newton — Principia Mathematica (seleções) · c. 1687
+112. John Locke — Dois Tratados sobre o Governo · c. 1689
+113. John Locke — Ensaio sobre o Entendimento Humano · c. 1689
+114. Matsuo Bashō — Trilha Estreita ao Confim · c. 1689
+115. Sor Juana Inés de la Cruz — Resposta a Sor Filotea de la Cruz · c. 1691
+116. Sor Juana Inés de la Cruz — Primero Sueño · c. 1691
+117. John Locke — Alguns Pensamentos sobre a Educação · c. 1693
+118. Charles Perrault — Contos (Cinderela, Bela Adormecida, Barba Azul, Chapeuzinho Vermelho) · c. 1697
+119. Isaac Newton — Óptica · c. 1704
+120. Anthony Reid — Southeast Asia in the Age of Commerce, 1450–1680 · c. 1988
+121. Halil İnalcık — The Ottoman Empire: The Classical Age, 1300–1600 · c. 1973
+122. C. R. Boxer — O Império Marítimo Português, 1415–1825 · c. 1969
+123. John Hemming — The Conquest of the Incas · c. 1970
+124. Miguel León-Portilla — A Visão dos Vencidos · c. 1959
+125. Diarmaid MacCulloch — Reformation: Europe's House Divided, 1490–1700 · c. 2003
+126. Peter H. Wilson — The Thirty Years War: Europe's Tragedy · c. 2009
+127. Christopher Hill — O Mundo de Ponta-Cabeça · c. 1972
 ## Etapa 17: Século XVIII
 1. Gottfried Wilhelm Leibniz — Discurso de Metafísica · c. 1686
 2. Gottfried Wilhelm Leibniz — Teodiceia · c. 1710
 3. George Berkeley — Tratado sobre os Princípios do Conhecimento Humano · c. 1710
 4. George Berkeley — Três Diálogos entre Hilas e Filonous · c. 1713
 5. Gottfried Wilhelm Leibniz — Monadologia · c. 1714
-6. Giambattista Vico — A Nova Ciência · c. 1725
-7. David Hume — Tratado da Natureza Humana · c. 1739
-8. Jonathan Edwards — Pecadores nas Mãos de um Deus Irado · c. 1741
-9. Jonathan Edwards — Afeições Religiosas · c. 1746
-10. Montesquieu — O Espírito das Leis · c. 1748
-11. David Hume — Investigação sobre o Entendimento Humano · c. 1748
-12. Jonathan Edwards — A Liberdade da Vontade · c. 1754
-13. Jean-Jacques Rousseau — Discurso sobre a Origem da Desigualdade · c. 1755
-14. Edmund Burke — Investigação Filosófica sobre a Origem de Nossas Ideias do Sublime e do Belo · c. 1757
-15. Voltaire — Cândido · c. 1759
-16. Voltaire — textos filosóficos selecionados · c. 1759
-17. Adam Smith — A Teoria dos Sentimentos Morais · c. 1759
-18. Cao Xueqin — O Sonho da Câmara Vermelha (seleções) · c. 1760
-19. Jean-Jacques Rousseau — Emílio, ou Da Educação (livros I–II, IV e V) · c. 1762
-20. Jean-Jacques Rousseau — O Contrato Social · c. 1762
-21. Cesare Beccaria — Dos Delitos e das Penas · c. 1764
-22. William Blackstone — Comentários sobre as Leis da Inglaterra (seleções) · c. 1765
-23. Johann Gottfried Herder — Também uma Filosofia da História (seleções) · c. 1774
-24. Adam Smith — A Riqueza das Nações · c. 1776
-25. Thomas Paine — O Senso Comum · c. 1776
-26. David Hume — Diálogos sobre a Religião Natural · c. 1779
-27. Immanuel Kant — Crítica da Razão Pura · c. 1781
-28. Johann Gottfried Herder — Ideias para uma Filosofia da História da Humanidade · c. 1784
-29. Friedrich Heinrich Jacobi — Cartas sobre a Doutrina de Spinoza ao Senhor Moses Mendelssohn · c. 1785
-30. Federalistas (Hamilton, Madison, Jay) — O Federalista · c. 1788
-31. Immanuel Kant — Crítica da Razão Prática · c. 1788
-32. Jeremy Bentham — Introdução aos Princípios da Moral e da Legislação · c. 1789
-33. Antoine-Laurent Lavoisier — Tratado Elementar de Química · c. 1789
-34. Emmanuel-Joseph Sieyès — O que É o Terceiro Estado? · c. 1789
-35. Edmund Burke — Reflexões sobre a Revolução na França · c. 1790
-36. Immanuel Kant — Crítica da Faculdade do Juízo · c. 1790
-37. William Blake — O Casamento do Céu e do Inferno · c. 1790
-38. Thomas Paine — Os Direitos do Homem · c. 1791
-39. Mary Wollstonecraft — Reivindicação dos Direitos da Mulher · c. 1792
-40. William Blake — Canções de Inocência e de Experiência · c. 1794
-41. Johann Gottlieb Fichte — Fundamentos de Toda a Doutrina da Ciência · c. 1794
-42. Friedrich Schiller — A Educação Estética do Homem · c. 1795
-43. Immanuel Kant — À Paz Perpétua · c. 1795
-44. Joseph de Maistre — Considerações sobre a França · c. 1796
-45. Thomas Malthus — Ensaio sobre o Princípio da População · c. 1798
-46. William Wordsworth e Samuel Taylor Coleridge — Baladas Líricas · c. 1798
-47. Friedrich Schleiermacher — Sobre a Religião: Discursos aos seus Menosprezadores Eruditos · c. 1799
-48. Friedrich Wilhelm Joseph Schelling — Sistema do Idealismo Transcendental · c. 1800
-49. Johann Gottlieb Fichte — Discursos à Nação Alemã (seleções) · c. 1808
-50. Friedrich Wilhelm Joseph Schelling — Investigações sobre a Essência da Liberdade Humana · c. 1809
-51. William Wordsworth e Samuel Taylor Coleridge — Biographia Literaria (seleções) · c. 1817
-52. Joseph de Maistre — As Veladas de São Petersburgo · c. 1821
-53. Friedrich Schleiermacher — A Fé Cristã (seleções) · c. 1821
-54. William Wordsworth e Samuel Taylor Coleridge — Prelúdio (seleções) · c. 1850
-55. Bernard Bailyn — As Origens Ideológicas da Revolução Americana · c. 1967
-56. Laurent Dubois — Avengers of the New World: The Story of the Haitian Revolution · c. 2004
+6. Daniel Defoe — Robinson Crusoé · c. 1719
+7. Giambattista Vico — A Nova Ciência · c. 1725
+8. Jonathan Swift — As Viagens de Gulliver · c. 1726
+9. David Hume — Tratado da Natureza Humana · c. 1739
+10. Samuel Richardson — Pamela · c. 1740
+11. Jonathan Edwards — Pecadores nas Mãos de um Deus Irado · c. 1741
+12. Jonathan Edwards — Afeições Religiosas · c. 1746
+13. Montesquieu — O Espírito das Leis · c. 1748
+14. David Hume — Investigação sobre o Entendimento Humano · c. 1748
+15. Henry Fielding — Tom Jones · c. 1749
+16. Jonathan Edwards — A Liberdade da Vontade · c. 1754
+17. Jean-Jacques Rousseau — Discurso sobre a Origem da Desigualdade · c. 1755
+18. Madame Leprince de Beaumont — A Bela e a Fera · c. 1756
+19. Edmund Burke — Investigação Filosófica sobre a Origem de Nossas Ideias do Sublime e do Belo · c. 1757
+20. Voltaire — Cândido · c. 1759
+21. Voltaire — textos filosóficos selecionados · c. 1759
+22. Adam Smith — A Teoria dos Sentimentos Morais · c. 1759
+23. Laurence Sterne — Tristram Shandy · c. 1759
+24. Cao Xueqin — O Sonho da Câmara Vermelha (seleções) · c. 1760
+25. Jean-Jacques Rousseau — Emílio, ou Da Educação (livros I–II, IV e V) · c. 1762
+26. Jean-Jacques Rousseau — O Contrato Social · c. 1762
+27. Cesare Beccaria — Dos Delitos e das Penas · c. 1764
+28. Horace Walpole — O Castelo de Otranto · c. 1764
+29. William Blackstone — Comentários sobre as Leis da Inglaterra (seleções) · c. 1765
+30. Johann Gottfried Herder — Também uma Filosofia da História (seleções) · c. 1774
+31. Adam Smith — A Riqueza das Nações · c. 1776
+32. Thomas Paine — O Senso Comum · c. 1776
+33. David Hume — Diálogos sobre a Religião Natural · c. 1779
+34. Immanuel Kant — Crítica da Razão Pura · c. 1781
+35. Friedrich Schiller — Os Bandoleiros · c. 1781
+36. Choderlos de Laclos — As Ligações Perigosas · c. 1782
+37. Johann Gottfried Herder — Ideias para uma Filosofia da História da Humanidade · c. 1784
+38. Friedrich Heinrich Jacobi — Cartas sobre a Doutrina de Spinoza ao Senhor Moses Mendelssohn · c. 1785
+39. Federalistas (Hamilton, Madison, Jay) — O Federalista · c. 1788
+40. Immanuel Kant — Crítica da Razão Prática · c. 1788
+41. Jeremy Bentham — Introdução aos Princípios da Moral e da Legislação · c. 1789
+42. Antoine-Laurent Lavoisier — Tratado Elementar de Química · c. 1789
+43. Emmanuel-Joseph Sieyès — O que É o Terceiro Estado? · c. 1789
+44. William Blake — O Livro de Thel · c. 1789
+45. Edmund Burke — Reflexões sobre a Revolução na França · c. 1790
+46. Immanuel Kant — Crítica da Faculdade do Juízo · c. 1790
+47. William Blake — O Casamento do Céu e do Inferno · c. 1790
+48. Thomas Paine — Os Direitos do Homem · c. 1791
+49. Mary Wollstonecraft — Reivindicação dos Direitos da Mulher · c. 1792
+50. William Blake — Canções de Inocência e de Experiência · c. 1794
+51. Johann Gottlieb Fichte — Fundamentos de Toda a Doutrina da Ciência · c. 1794
+52. William Blake — O Livro de Urizen · c. 1794
+53. Friedrich Schiller — A Educação Estética do Homem · c. 1795
+54. Immanuel Kant — À Paz Perpétua · c. 1795
+55. Joseph de Maistre — Considerações sobre a França · c. 1796
+56. Thomas Malthus — Ensaio sobre o Princípio da População · c. 1798
+57. William Wordsworth e Samuel Taylor Coleridge — Baladas Líricas · c. 1798
+58. Friedrich Schleiermacher — Sobre a Religião: Discursos aos seus Menosprezadores Eruditos · c. 1799
+59. Friedrich Wilhelm Joseph Schelling — Sistema do Idealismo Transcendental · c. 1800
+60. William Blake — Milton · c. 1804
+61. Johann Gottlieb Fichte — Discursos à Nação Alemã (seleções) · c. 1808
+62. Friedrich Wilhelm Joseph Schelling — Investigações sobre a Essência da Liberdade Humana · c. 1809
+63. William Wordsworth e Samuel Taylor Coleridge — Biographia Literaria (seleções) · c. 1817
+64. Joseph de Maistre — As Veladas de São Petersburgo · c. 1821
+65. Friedrich Schleiermacher — A Fé Cristã (seleções) · c. 1821
+66. William Wordsworth e Samuel Taylor Coleridge — Prelúdio (seleções) · c. 1850
+67. Bernard Bailyn — As Origens Ideológicas da Revolução Americana · c. 1967
+68. Laurent Dubois — Avengers of the New World: The Story of the Haitian Revolution · c. 2004
 ## Etapa 18: Século XIX
 1. Johann Wolfgang von Goethe — Os Sofrimentos do Jovem Werther · c. 1774
 2. William Paley — Teologia Natural · c. 1802
@@ -739,159 +780,220 @@
 4. José da Silva Lisboa, Visconde de Cairu — Princípios de Economia Política · c. 1804
 5. Georg Wilhelm Friedrich Hegel — Fenomenologia do Espírito · c. 1807
 6. Johann Wolfgang von Goethe — Fausto (partes I e II) · c. 1808
-7. Jane Austen — Orgulho e Preconceito · c. 1813
-8. Friedrich Carl von Savigny — Da Vocação do Nosso Tempo para a Legislação e a Jurisprudência · c. 1814
-9. Jane Austen — Emma · c. 1815
-10. Simón Bolívar — Carta da Jamaica · c. 1815
-11. David Ricardo — Princípios de Economia Política e Tributação · c. 1817
-12. Arthur Schopenhauer — O Mundo como Vontade e Representação (seleções) · c. 1818
-13. Simón Bolívar — Discurso de Angostura · c. 1819
-14. Georg Wilhelm Friedrich Hegel — Filosofia do Direito · c. 1820
-15. Leopold von Ranke — Prefácio às Histórias dos Povos Latinos e Germânicos (1824) · c. 1824
-16. Alessandro Manzoni — Os Noivos · c. 1827
-17. Auguste Comte — Curso de Filosofia Positiva (seleções) · c. 1830
-18. Stendhal — O Vermelho e o Negro · c. 1830
-19. Joseph Smith — O Livro de Mórmon · c. 1830
-20. Giacomo Leopardi — Cantos · c. 1831
-21. Carl von Clausewitz — Da Guerra (livros I, II, VI e VIII) · c. 1832
-22. Andrés Bello — Princípios de Direito Internacional · c. 1832
-23. Aleksandr Púchkin — Eugênio Oniéguin · c. 1833
-24. Leopold von Ranke — "As Grandes Potências" · c. 1833
-25. G.W.F. Hegel — Cursos de Estética (Introdução) · c. 1835
-26. Alexis de Tocqueville — A Democracia na América · c. 1835
-27. Honoré de Balzac — O Pai Goriot · c. 1835
-28. Honoré de Balzac — Ilusões Perdidas · c. 1837
-29. Thomas Carlyle — Os Heróis, o Culto dos Heróis e o Heroico na História · c. 1841
-30. Nikolai Gógol — Almas Mortas · c. 1842
-31. Nikolai Gógol — O Capote · c. 1842
-32. Thomas Carlyle — Passado e Presente · c. 1843
-33. Søren Kierkegaard — Temor e Tremor · c. 1843
-34. Søren Kierkegaard — Ou/Ou · c. 1843
-35. Søren Kierkegaard — O Conceito de Angústia · c. 1844
-36. Frederick Douglass — Narrativa da Vida de Frederick Douglass, um Escravo Americano · c. 1845
-37. Domingo F. Sarmiento — Facundo; Civilização e Barbárie · c. 1845
-38. Karl Marx e Friedrich Engels — A Ideologia Alemã · c. 1846
-39. Emily Brontë — O Morro dos Ventos Uivantes · c. 1847
-40. Andrés Bello — Gramática da Língua Castelhana · c. 1847
-41. Patriarcas Orientais — Encíclica de 1848 (Resposta a Pio IX) · c. 1848
-42. Karl Marx e Friedrich Engels — Manifesto Comunista · c. 1848
-43. Lucas Alamán — História do México (seleções) · c. 1849
-44. John Ruskin — As Sete Lâmpadas da Arquitetura · c. 1849
-45. Nathaniel Hawthorne — A Letra Escarlate · c. 1850
-46. Herman Melville — Moby Dick · c. 1851
-47. Juan Donoso Cortés — Ensaio sobre o Catolicismo, o Liberalismo e o Socialismo · c. 1851
-48. Arthur Schopenhauer — Aforismos para a Sabedoria de Vida · c. 1851
-49. Juan Bautista Alberdi — Bases e Pontos de Partida para a Organização Política da República Argentina · c. 1852
-50. John Henry Newman — A Ideia de uma Universidade · c. 1852
-51. Charles Dickens — A Casa Soturna · c. 1853
-52. Francisco Adolfo de Varnhagen — História Geral do Brasil · c. 1854
-53. Charles Dickens — Tempos Difíceis · c. 1854
-54. Walt Whitman — Folhas de Relva (seleções) · c. 1855
-55. Andrés Bello — Código Civil do Chile · c. 1855
-56. Alexis de Tocqueville — O Antigo Regime e a Revolução · c. 1856
-57. Gustave Flaubert — Madame Bovary · c. 1857
-58. Charles Baudelaire — As Flores do Mal · c. 1857
-59. Charles Darwin — A Origem das Espécies · c. 1859
-60. John Stuart Mill — Sobre a Liberdade · c. 1859
-61. Michael Faraday — A História Química de uma Vela · c. 1860
-62. Jacob Burckhardt — A Cultura do Renascimento na Itália · c. 1860
-63. Henry Sumner Maine — Direito Antigo · c. 1861
-64. Charles Dickens — Grandes Esperanças · c. 1861
-65. Visconde do Uruguai (Paulino Soares de Sousa) — Ensaio sobre o Direito Administrativo · c. 1862
-66. Victor Hugo — Os Miseráveis · c. 1862
-67. Ivan Turguêniev — Pais e Filhos · c. 1862
-68. John Stuart Mill — Utilitarismo · c. 1863
-69. John Henry Newman — Apologia Pro Vita Sua · c. 1864
-70. Documentos pontifícios — Quanta Cura e Syllabus de Erros (1864) · c. 1864
-71. James Clerk Maxwell — Uma Teoria Dinâmica do Campo Eletromagnético · c. 1865
-72. Gregor Mendel — Experimentos sobre a Hibridização de Plantas · c. 1866
-73. Fiódor Dostoiévski — Crime e Castigo · c. 1866
-74. Karl Marx e Friedrich Engels — O Capital (seleções) · c. 1867
-75. Charles Sanders Peirce — "Sobre uma Nova Lista de Categorias" · c. 1867
-76. Henrik Ibsen — Peer Gynt · c. 1867
-77. Gustave Flaubert — A Educação Sentimental · c. 1869
-78. Charles Baudelaire — Spleen de Paris · c. 1869
-79. John Stuart Mill — A Sujeição das Mulheres · c. 1869
-80. Liev Tolstói — Guerra e Paz · c. 1869
-81. Aureliano Cândido Tavares Bastos — A Província · c. 1870
-82. John Henry Newman — A Gramática do Assentimento · c. 1870
-83. Castro Alves — O Navio Negreiro · c. 1870
-84. Concílio Vaticano I — Dei Filius · c. 1870
-85. Concílio Vaticano I — Pastor Aeternus · c. 1870
-86. Carl Menger — Princípios de Economia · c. 1871
-87. George Eliot — Middlemarch · c. 1871
-88. Rudolf von Jhering — A Luta pelo Direito · c. 1872
-89. Charles Darwin — A Expressão das Emoções no Homem e nos Animais · c. 1872
-90. Fiódor Dostoiévski — Os Demônios · c. 1872
-91. James Clerk Maxwell — Tratado sobre Eletricidade e Magnetismo (seleções) · c. 1873
-92. Arthur Rimbaud — Uma Temporada no Inferno · c. 1873
-93. Fukuzawa Yukichi — Esboço de uma Teoria da Civilização · c. 1875
-94. Eça de Queirós — O Crime do Padre Amaro · c. 1875
-95. Herbert Spencer — Princípios de Sociologia (seleções) · c. 1876
-96. Lord Acton — Ensaios sobre a Liberdade e o Poder (seleções) · c. 1877
-97. Charles Sanders Peirce — "A Fixação da Crença" · c. 1877
-98. Charles Sanders Peirce — "Como Tornar Claras as Nossas Ideias" · c. 1878
-99. Documentos pontifícios — Aeterni Patris (1879) · c. 1879
-100. Henrik Ibsen — Casa de Bonecas · c. 1879
-101. Gerard Manley Hopkins — Poemas (seleção) · c. 1880
-102. Fiódor Dostoiévski — Os Irmãos Karamázov · c. 1880
-103. Machado de Assis — Memórias Póstumas de Brás Cubas · c. 1881
-104. Henry James — Retrato de uma Senhora · c. 1881
-105. Oliver Wendell Holmes Jr. — O Direito Comum (Introdução) · c. 1881
-106. Henrik Ibsen — Um Inimigo do Povo · c. 1882
-107. Joaquim Nabuco — O Abolicionismo · c. 1883
-108. Castro Alves — Os Escravos (seleções) · c. 1883
-109. Wilhelm Dilthey — Introdução às Ciências Humanas · c. 1883
-110. Friedrich Nietzsche — Assim Falou Zaratustra · c. 1883
-111. Mark Twain — As Aventuras de Huckleberry Finn · c. 1884
-112. Gottlob Frege — Os Fundamentos da Aritmética · c. 1884
-113. Arthur Rimbaud — Iluminações · c. 1886
-114. Friedrich Nietzsche — Além do Bem e do Mal · c. 1886
-115. Ferdinand Tönnies — Comunidade e Sociedade · c. 1887
-116. Friedrich Nietzsche — A Genealogia da Moral · c. 1887
-117. Eça de Queirós — Os Maias · c. 1888
-118. Henri Bergson — Ensaio sobre os Dados Imediatos da Consciência · c. 1889
-119. Alfred Thayer Mahan — A Influência do Poder Marítimo sobre a História, 1660–1783 · c. 1890
-120. Henrik Ibsen — Hedda Gabler · c. 1890
-121. Machado de Assis — Quincas Borba · c. 1891
-122. Doutrina Social da Igreja — Rerum Novarum (Leão XIII) · c. 1891
-123. José Martí — Nossa América · c. 1891
-124. José Martí — Ensaios Políticos · c. 1891
-125. Gottlob Frege — "Sobre Sentido e Referência" (artigo) · c. 1892
-126. Eduardo Prado — A Ilusão Americana · c. 1893
-127. Alexis de Tocqueville — Lembranças de 1848 · c. 1893
-128. Liev Tolstói — O Reino de Deus Está em Vós · c. 1894
-129. Thomas Hardy — Judas, o Obscuro · c. 1895
-130. Georg Cantor — Contribuições para a Fundação da Teoria dos Números Transfinitos · c. 1895
-131. Henri Bergson — Matéria e Memória · c. 1896
-132. Gaetano Mosca, Vilfredo Pareto e Robert Michels — A Classe Política · c. 1896
-133. Liev Tolstói — O que É a Arte? · c. 1897
-134. Oliver Wendell Holmes Jr. — O Caminho do Direito · c. 1897
-135. Stéphane Mallarmé — Poesias · c. 1897
-136. Stéphane Mallarmé — Um Lance de Dados · c. 1897
-137. Abraham Kuyper — Palestras sobre o Calvinismo · c. 1898
-138. Otto von Bismarck — Pensamentos e Recordações · c. 1898
-139. Giacomo Leopardi — Zibaldone (seleções) · c. 1898
-140. Thorstein Veblen — A Teoria da Classe Ociosa · c. 1899
-141. Joseph Conrad — O Coração das Trevas · c. 1899
-142. Machado de Assis — Dom Casmurro · c. 1899
-143. David Hilbert — Fundamentos da Geometria · c. 1899
-144. David Hilbert — Problemas Matemáticos (conferência de 1900) · c. 1900
-145. Henry James — Os Embaixadores · c. 1903
-146. Jacob Burckhardt — Reflexões sobre a História Universal · c. 1905
-147. Machado de Assis — "Pai contra Mãe" · c. 1906
-148. Documentos pontifícios — Pascendi Dominici Gregis (1907) · c. 1907
-149. Wilhelm Dilthey — A Construção do Mundo Histórico (seleções) · c. 1910
-150. Gaetano Mosca, Vilfredo Pareto e Robert Michels — Sociologia dos Partidos Políticos · c. 1911
-151. Gaetano Mosca, Vilfredo Pareto e Robert Michels — Tratado de Sociologia Geral (seleções) · c. 1916
-152. Doutrina Social da Igreja — Quadragesimo Anno (Pio XI) · c. 1931
-153. Henri Bergson — As Duas Fontes da Moral e da Religião · c. 1932
-154. John Lynch — As Revoluções Hispano-Americanas, 1808–1826 · c. 1973
-155. Doutrina Social da Igreja — Centesimus Annus (João Paulo II) · c. 1991
-156. C. A. Bayly — O Nascimento do Mundo Moderno, 1780–1914 · c. 2004
-157. James McPherson — Battle Cry of Freedom: The Civil War Era · c. 1988
-158. Marius Jansen — The Making of Modern Japan · c. 2000
-159. Doutrina Social da Igreja — Laudato Si' (Francisco) · c. 2015
+7. Irmãos Grimm — Contos de Grimm (seleção) · c. 1812
+8. Jane Austen — Orgulho e Preconceito · c. 1813
+9. Friedrich Carl von Savigny — Da Vocação do Nosso Tempo para a Legislação e a Jurisprudência · c. 1814
+10. Jane Austen — Emma · c. 1815
+11. Simón Bolívar — Carta da Jamaica · c. 1815
+12. E.T.A. Hoffmann — Contos (O Quebra-Nozes e o Rei dos Ratos; O Homem da Areia) · c. 1816
+13. David Ricardo — Princípios de Economia Política e Tributação · c. 1817
+14. Arthur Schopenhauer — O Mundo como Vontade e Representação (seleções) · c. 1818
+15. Mary Shelley — Frankenstein · c. 1818
+16. Simón Bolívar — Discurso de Angostura · c. 1819
+17. Walter Scott — Ivanhoe · c. 1819
+18. John Polidori — O Vampiro · c. 1819
+19. Georg Wilhelm Friedrich Hegel — Filosofia do Direito · c. 1820
+20. Leopold von Ranke — Prefácio às Histórias dos Povos Latinos e Germânicos (1824) · c. 1824
+21. James Fenimore Cooper — O Último dos Moicanos · c. 1826
+22. Alessandro Manzoni — Os Noivos · c. 1827
+23. Auguste Comte — Curso de Filosofia Positiva (seleções) · c. 1830
+24. Stendhal — O Vermelho e o Negro · c. 1830
+25. Joseph Smith — O Livro de Mórmon · c. 1830
+26. Giacomo Leopardi — Cantos · c. 1831
+27. Victor Hugo — O Corcunda de Notre-Dame · c. 1831
+28. Carl von Clausewitz — Da Guerra (livros I, II, VI e VIII) · c. 1832
+29. Andrés Bello — Princípios de Direito Internacional · c. 1832
+30. Aleksandr Púchkin — Eugênio Oniéguin · c. 1833
+31. Leopold von Ranke — "As Grandes Potências" · c. 1833
+32. G.W.F. Hegel — Cursos de Estética (Introdução) · c. 1835
+33. Alexis de Tocqueville — A Democracia na América · c. 1835
+34. Honoré de Balzac — O Pai Goriot · c. 1835
+35. Honoré de Balzac — Ilusões Perdidas · c. 1837
+36. Hans Christian Andersen — Contos (A Pequena Sereia, O Patinho Feio, A Rainha da Neve, A Pequena Vendedora de Fósforos) · c. 1837
+37. Charles Dickens — Oliver Twist · c. 1838
+38. Edgar Allan Poe — Contos (seleção) · c. 1840
+39. Mikhail Lermontov — Um Herói do Nosso Tempo · c. 1840
+40. Thomas Carlyle — Os Heróis, o Culto dos Heróis e o Heroico na História · c. 1841
+41. Nikolai Gógol — Almas Mortas · c. 1842
+42. Nikolai Gógol — O Capote · c. 1842
+43. Thomas Carlyle — Passado e Presente · c. 1843
+44. Søren Kierkegaard — Temor e Tremor · c. 1843
+45. Søren Kierkegaard — Ou/Ou · c. 1843
+46. Charles Dickens — Conto de Natal · c. 1843
+47. Søren Kierkegaard — O Conceito de Angústia · c. 1844
+48. Alexandre Dumas — Os Três Mosqueteiros · c. 1844
+49. Alexandre Dumas — O Conde de Monte Cristo · c. 1844
+50. Joaquim Manuel de Macedo — A Moreninha · c. 1844
+51. Frederick Douglass — Narrativa da Vida de Frederick Douglass, um Escravo Americano · c. 1845
+52. Domingo F. Sarmiento — Facundo; Civilização e Barbárie · c. 1845
+53. Karl Marx e Friedrich Engels — A Ideologia Alemã · c. 1846
+54. Emily Brontë — O Morro dos Ventos Uivantes · c. 1847
+55. Andrés Bello — Gramática da Língua Castelhana · c. 1847
+56. Charlotte Brontë — Jane Eyre · c. 1847
+57. Patriarcas Orientais — Encíclica de 1848 (Resposta a Pio IX) · c. 1848
+58. Karl Marx e Friedrich Engels — Manifesto Comunista · c. 1848
+59. William Thackeray — A Feira das Vaidades · c. 1848
+60. Lucas Alamán — História do México (seleções) · c. 1849
+61. John Ruskin — As Sete Lâmpadas da Arquitetura · c. 1849
+62. Nathaniel Hawthorne — A Letra Escarlate · c. 1850
+63. Charles Dickens — David Copperfield · c. 1850
+64. Herman Melville — Moby Dick · c. 1851
+65. Juan Donoso Cortés — Ensaio sobre o Catolicismo, o Liberalismo e o Socialismo · c. 1851
+66. Arthur Schopenhauer — Aforismos para a Sabedoria de Vida · c. 1851
+67. Juan Bautista Alberdi — Bases e Pontos de Partida para a Organização Política da República Argentina · c. 1852
+68. John Henry Newman — A Ideia de uma Universidade · c. 1852
+69. Charles Dickens — A Casa Soturna · c. 1853
+70. Manuel Antônio de Almeida — Memórias de um Sargento de Milícias · c. 1853
+71. Herman Melville — Bartleby, o Escrivão · c. 1853
+72. Francisco Adolfo de Varnhagen — História Geral do Brasil · c. 1854
+73. Charles Dickens — Tempos Difíceis · c. 1854
+74. Henry David Thoreau — Walden · c. 1854
+75. Walt Whitman — Folhas de Relva (seleções) · c. 1855
+76. Andrés Bello — Código Civil do Chile · c. 1855
+77. Álvares de Azevedo — Noite na Taverna · c. 1855
+78. Walt Whitman — Canto de Mim Mesmo · c. 1855
+79. Alexis de Tocqueville — O Antigo Regime e a Revolução · c. 1856
+80. Gustave Flaubert — Madame Bovary · c. 1857
+81. Charles Baudelaire — As Flores do Mal · c. 1857
+82. José de Alencar — O Guarani · c. 1857
+83. Charles Darwin — A Origem das Espécies · c. 1859
+84. John Stuart Mill — Sobre a Liberdade · c. 1859
+85. Charles Dickens — Duas Cidades · c. 1859
+86. Ivan Gontcharov — Oblómov · c. 1859
+87. Michael Faraday — A História Química de uma Vela · c. 1860
+88. Jacob Burckhardt — A Cultura do Renascimento na Itália · c. 1860
+89. Henry Sumner Maine — Direito Antigo · c. 1861
+90. Charles Dickens — Grandes Esperanças · c. 1861
+91. Visconde do Uruguai (Paulino Soares de Sousa) — Ensaio sobre o Direito Administrativo · c. 1862
+92. Victor Hugo — Os Miseráveis · c. 1862
+93. Ivan Turguêniev — Pais e Filhos · c. 1862
+94. Camilo Castelo Branco — Amor de Perdição · c. 1862
+95. John Stuart Mill — Utilitarismo · c. 1863
+96. John Henry Newman — Apologia Pro Vita Sua · c. 1864
+97. Documentos pontifícios — Quanta Cura e Syllabus de Erros (1864) · c. 1864
+98. Fiódor Dostoiévski — Memórias do Subsolo · c. 1864
+99. Júlio Verne — Viagem ao Centro da Terra · c. 1864
+100. James Clerk Maxwell — Uma Teoria Dinâmica do Campo Eletromagnético · c. 1865
+101. José de Alencar — Iracema · c. 1865
+102. Lewis Carroll — Alice no País das Maravilhas · c. 1865
+103. Walt Whitman — Quando os Lilases Floresceram no Jardim (com "Ó Capitão! Meu Capitão!") · c. 1865
+104. Gregor Mendel — Experimentos sobre a Hibridização de Plantas · c. 1866
+105. Fiódor Dostoiévski — Crime e Castigo · c. 1866
+106. Karl Marx e Friedrich Engels — O Capital (seleções) · c. 1867
+107. Charles Sanders Peirce — "Sobre uma Nova Lista de Categorias" · c. 1867
+108. Henrik Ibsen — Peer Gynt · c. 1867
+109. Louisa May Alcott — Mulherzinhas · c. 1868
+110. Gustave Flaubert — A Educação Sentimental · c. 1869
+111. Charles Baudelaire — Spleen de Paris · c. 1869
+112. John Stuart Mill — A Sujeição das Mulheres · c. 1869
+113. Liev Tolstói — Guerra e Paz · c. 1869
+114. Fiódor Dostoiévski — O Idiota · c. 1869
+115. Aureliano Cândido Tavares Bastos — A Província · c. 1870
+116. John Henry Newman — A Gramática do Assentimento · c. 1870
+117. Castro Alves — O Navio Negreiro · c. 1870
+118. Concílio Vaticano I — Dei Filius · c. 1870
+119. Concílio Vaticano I — Pastor Aeternus · c. 1870
+120. Júlio Verne — Vinte Mil Léguas Submarinas · c. 1870
+121. Carl Menger — Princípios de Economia · c. 1871
+122. George Eliot — Middlemarch · c. 1871
+123. Walt Whitman — Vistas Democráticas · c. 1871
+124. Rudolf von Jhering — A Luta pelo Direito · c. 1872
+125. Charles Darwin — A Expressão das Emoções no Homem e nos Animais · c. 1872
+126. Fiódor Dostoiévski — Os Demônios · c. 1872
+127. Júlio Verne — A Volta ao Mundo em 80 Dias · c. 1872
+128. James Clerk Maxwell — Tratado sobre Eletricidade e Magnetismo (seleções) · c. 1873
+129. Arthur Rimbaud — Uma Temporada no Inferno · c. 1873
+130. Fukuzawa Yukichi — Esboço de uma Teoria da Civilização · c. 1875
+131. Eça de Queirós — O Crime do Padre Amaro · c. 1875
+132. Bernardo Guimarães — A Escrava Isaura · c. 1875
+133. Herbert Spencer — Princípios de Sociologia (seleções) · c. 1876
+134. Mark Twain — As Aventuras de Tom Sawyer · c. 1876
+135. Lord Acton — Ensaios sobre a Liberdade e o Poder (seleções) · c. 1877
+136. Charles Sanders Peirce — "A Fixação da Crença" · c. 1877
+137. Liev Tolstói — Anna Kariênina · c. 1877
+138. Charles Sanders Peirce — "Como Tornar Claras as Nossas Ideias" · c. 1878
+139. Eça de Queirós — O Primo Basílio · c. 1878
+140. Documentos pontifícios — Aeterni Patris (1879) · c. 1879
+141. Henrik Ibsen — Casa de Bonecas · c. 1879
+142. Gerard Manley Hopkins — Poemas (seleção) · c. 1880
+143. Fiódor Dostoiévski — Os Irmãos Karamázov · c. 1880
+144. Machado de Assis — Memórias Póstumas de Brás Cubas · c. 1881
+145. Henry James — Retrato de uma Senhora · c. 1881
+146. Oliver Wendell Holmes Jr. — O Direito Comum (Introdução) · c. 1881
+147. Henrik Ibsen — Um Inimigo do Povo · c. 1882
+148. Machado de Assis — O Alienista e Contos Escolhidos · c. 1882
+149. Joaquim Nabuco — O Abolicionismo · c. 1883
+150. Castro Alves — Os Escravos (seleções) · c. 1883
+151. Wilhelm Dilthey — Introdução às Ciências Humanas · c. 1883
+152. Friedrich Nietzsche — Assim Falou Zaratustra · c. 1883
+153. Robert Louis Stevenson — A Ilha do Tesouro · c. 1883
+154. Carlo Collodi — As Aventuras de Pinóquio · c. 1883
+155. Mark Twain — As Aventuras de Huckleberry Finn · c. 1884
+156. Gottlob Frege — Os Fundamentos da Aritmética · c. 1884
+157. Joris-Karl Huysmans — Às Avessas · c. 1884
+158. Émile Zola — Germinal · c. 1885
+159. Guy de Maupassant — Contos (seleção) · c. 1885
+160. Guy de Maupassant — Bel-Ami · c. 1885
+161. Arthur Rimbaud — Iluminações · c. 1886
+162. Friedrich Nietzsche — Além do Bem e do Mal · c. 1886
+163. Liev Tolstói — A Morte de Ivan Ilitch · c. 1886
+164. Robert Louis Stevenson — O Médico e o Monstro · c. 1886
+165. Ferdinand Tönnies — Comunidade e Sociedade · c. 1887
+166. Friedrich Nietzsche — A Genealogia da Moral · c. 1887
+167. Arthur Conan Doyle — Sherlock Holmes (seleção) · c. 1887
+168. Eça de Queirós — Os Maias · c. 1888
+169. Raul Pompeia — O Ateneu · c. 1888
+170. Henri Bergson — Ensaio sobre os Dados Imediatos da Consciência · c. 1889
+171. Alfred Thayer Mahan — A Influência do Poder Marítimo sobre a História, 1660–1783 · c. 1890
+172. Henrik Ibsen — Hedda Gabler · c. 1890
+173. Aluísio Azevedo — O Cortiço · c. 1890
+174. Oscar Wilde — O Retrato de Dorian Gray · c. 1890
+175. Machado de Assis — Quincas Borba · c. 1891
+176. Doutrina Social da Igreja — Rerum Novarum (Leão XIII) · c. 1891
+177. José Martí — Nossa América · c. 1891
+178. José Martí — Ensaios Políticos · c. 1891
+179. Gottlob Frege — "Sobre Sentido e Referência" (artigo) · c. 1892
+180. Eduardo Prado — A Ilusão Americana · c. 1893
+181. Alexis de Tocqueville — Lembranças de 1848 · c. 1893
+182. Liev Tolstói — O Reino de Deus Está em Vós · c. 1894
+183. Rudyard Kipling — O Livro da Selva · c. 1894
+184. Thomas Hardy — Judas, o Obscuro · c. 1895
+185. Georg Cantor — Contribuições para a Fundação da Teoria dos Números Transfinitos · c. 1895
+186. H.G. Wells — A Máquina do Tempo · c. 1895
+187. Henri Bergson — Matéria e Memória · c. 1896
+188. Gaetano Mosca, Vilfredo Pareto e Robert Michels — A Classe Política · c. 1896
+189. H.G. Wells — A Ilha do Dr. Moreau · c. 1896
+190. Liev Tolstói — O que É a Arte? · c. 1897
+191. Oliver Wendell Holmes Jr. — O Caminho do Direito · c. 1897
+192. Stéphane Mallarmé — Poesias · c. 1897
+193. Stéphane Mallarmé — Um Lance de Dados · c. 1897
+194. H.G. Wells — O Homem Invisível · c. 1897
+195. Bram Stoker — Drácula · c. 1897
+196. Abraham Kuyper — Palestras sobre o Calvinismo · c. 1898
+197. Otto von Bismarck — Pensamentos e Recordações · c. 1898
+198. Giacomo Leopardi — Zibaldone (seleções) · c. 1898
+199. Henry James — A Volta do Parafuso · c. 1898
+200. H.G. Wells — A Guerra dos Mundos · c. 1898
+201. Thorstein Veblen — A Teoria da Classe Ociosa · c. 1899
+202. Joseph Conrad — O Coração das Trevas · c. 1899
+203. Machado de Assis — Dom Casmurro · c. 1899
+204. David Hilbert — Fundamentos da Geometria · c. 1899
+205. David Hilbert — Problemas Matemáticos (conferência de 1900) · c. 1900
+206. Henry James — Os Embaixadores · c. 1903
+207. Jacob Burckhardt — Reflexões sobre a História Universal · c. 1905
+208. Machado de Assis — "Pai contra Mãe" · c. 1906
+209. Documentos pontifícios — Pascendi Dominici Gregis (1907) · c. 1907
+210. Wilhelm Dilthey — A Construção do Mundo Histórico (seleções) · c. 1910
+211. Gaetano Mosca, Vilfredo Pareto e Robert Michels — Sociologia dos Partidos Políticos · c. 1911
+212. Gaetano Mosca, Vilfredo Pareto e Robert Michels — Tratado de Sociologia Geral (seleções) · c. 1916
+213. Doutrina Social da Igreja — Quadragesimo Anno (Pio XI) · c. 1931
+214. Henri Bergson — As Duas Fontes da Moral e da Religião · c. 1932
+215. John Lynch — As Revoluções Hispano-Americanas, 1808–1826 · c. 1973
+216. Doutrina Social da Igreja — Centesimus Annus (João Paulo II) · c. 1991
+217. C. A. Bayly — O Nascimento do Mundo Moderno, 1780–1914 · c. 2004
+218. James McPherson — Battle Cry of Freedom: The Civil War Era · c. 1988
+219. Marius Jansen — The Making of Modern Japan · c. 2000
+220. Doutrina Social da Igreja — Laudato Si' (Francisco) · c. 2015
 ## Etapa 19: 1900–1945
 1. Vladimir Soloviev — Os Fundamentos Espirituais da Vida · c. 1881
 2. Anton Tchekhov — Contos · c. 1886
@@ -901,245 +1003,279 @@
 6. Vladimir Soloviev — Três Diálogos e a Narrativa do Anticristo · c. 1900
 7. Georg Simmel — Filosofia do Dinheiro (seleções) · c. 1900
 8. Sigmund Freud — A Interpretação dos Sonhos · c. 1900
-9. Booker T. Washington — Memórias de um Ex-Escravo (Up from Slavery) · c. 1901
-10. Euclides da Cunha — Os Sertões · c. 1902
-11. Henri Poincaré — Ciência e Hipótese · c. 1902
-12. William James — As Variedades da Experiência Religiosa · c. 1902
-13. V.I. Lenin — Que Fazer? · c. 1902
-14. W.E.B. Du Bois — As Almas do Povo Negro · c. 1903
-15. G.E. Moore — Principia Ethica · c. 1903
-16. G.E. Moore — "Refutação do Idealismo" (artigo) · c. 1903
-17. Georg Simmel — A Metrópole e a Vida Mental · c. 1903
-18. Anton Tchekhov — O Jardim das Cerejeiras · c. 1904
-19. Max Weber — A Ética Protestante e o Espírito do Capitalismo · c. 1905
-20. G.K. Chesterton — Heretics · c. 1905
-21. Herman Bavinck — Dogmática Reformada (seleções) · c. 1906
-22. Albert Schweitzer — A Busca do Jesus Histórico · c. 1906
-23. Pierre Duhem — A Teoria Física: Seu Objeto e Sua Estrutura · c. 1906
-24. Capistrano de Abreu — Capítulos de História Colonial · c. 1907
-25. William James — O Pragmatismo · c. 1907
-26. G.K. Chesterton — O Homem que Foi Quinta-Feira · c. 1908
-27. Georg Simmel — O Estrangeiro · c. 1908
-28. G.K. Chesterton — Ortodoxia · c. 1908
-29. Mohandas K. Gandhi — Hind Swaraj · c. 1909
-30. Rabindranath Tagore — Gitanjali · c. 1910
-31. Lima Barreto — Triste Fim de Policarpo Quaresma · c. 1911
-32. Nishida Kitarō — Uma Investigação sobre o Bem · c. 1911
-33. Franz Boas — A Mente do Homem Primitivo · c. 1911
-34. Ernst Troeltsch — As Doutrinas Sociais das Igrejas e Grupos Cristãos (seleções) · c. 1912
-35. Hilaire Belloc — O Estado Servil · c. 1912
-36. Émile Durkheim — As Formas Elementares da Vida Religiosa · c. 1912
-37. Bertrand Russell — Os Problemas da Filosofia · c. 1912
-38. Marcel Proust — Em Busca do Tempo Perdido (seleções) · c. 1913
-39. Sigmund Freud — Totem e Tabu · c. 1913
-40. Pavel Florensky — A Coluna e o Fundamento da Verdade (seleções) · c. 1914
-41. Julián Juderías — A Lenda Negra · c. 1914
-42. Natsume Sōseki — Kokoro · c. 1914
-43. James Joyce — Dublinenses · c. 1914
-44. Fernando Pessoa — Poemas dos heterônimos · c. 1914
-45. Ezra Pound — Os Cantos (seleções) · c. 1915
-46. Franz Kafka — A Metamorfose · c. 1915
-47. Albert Einstein — A Teoria da Relatividade (versão popular) · c. 1916
-48. John Dewey — Democracia e Educação · c. 1916
-49. James Joyce — Retrato do Artista quando Jovem · c. 1916
-50. V.I. Lenin — O Estado e a Revolução · c. 1917
-51. Rabindranath Tagore — Nacionalismo · c. 1917
-52. Max Weber — A Ciência como Vocação · c. 1917
-53. Edith Stein — Sobre o Problema da Empatia · c. 1917
-54. Oswald Spengler — A Decadência do Ocidente · c. 1918
-55. Rosa Luxemburgo — A Revolução Russa · c. 1918
-56. Documentos — Quatorze Pontos de Wilson (1918) · c. 1918
-57. Bertrand Russell — Introdução à Filosofia Matemática · c. 1919
-58. Documentos — Tratado de Versalhes (1919) · c. 1919
-59. Documentos — Pacto da Liga das Nações (1919) · c. 1919
-60. Irving Babbitt — Rousseau and Romanticism · c. 1919
-61. Johan Huizinga — O Outono da Idade Média · c. 1919
-62. Max Weber — A Política como Vocação · c. 1919
-63. Karl Barth — Carta aos Romanos · c. 1919
-64. John Maynard Keynes — As Consequências Econômicas da Paz · c. 1919
-65. W.B. Yeats — Poemas (seleção) · c. 1920
-66. Sigrid Undset — Kristin Lavransdatter · c. 1920
-67. Rui Barbosa — Oração aos Moços · c. 1920
-68. Rui Barbosa — Discursos Parlamentares (seleções) · c. 1920
-69. Oliveira Vianna — Populações Meridionais do Brasil · c. 1920
-70. Ernst Jünger — Tempestades de Aço · c. 1920
-71. Franz Rosenzweig — A Estrela da Redenção (seleções) · c. 1921
-72. Yevgeny Zamiatin — Nós · c. 1921
-73. Lu Xun — Diário de um Louco e Outras Histórias · c. 1921
-74. Ludwig Wittgenstein — Tractatus Logico-Philosophicus · c. 1921
-75. Bronisław Malinowski — Argonautas do Pacífico Ocidental · c. 1922
-76. Max Weber — Economia e Sociedade (seleções) · c. 1922
-77. T.S. Eliot — A Terra Devastada · c. 1922
-78. James Joyce — Ulisses · c. 1922
-79. Carl Schmitt — Teologia Política · c. 1922
-80. J. Gresham Machen — Cristianismo e Liberalismo · c. 1923
-81. Martin Buber — Eu e Tu · c. 1923
-82. Rainer Maria Rilke — Elegias de Duíno · c. 1923
-83. Rainer Maria Rilke — Sonetos a Orfeu · c. 1923
-84. Le Corbusier — Por uma Arquitetura · c. 1923
-85. Nikolai Berdiaev — O Sentido da História · c. 1923
-86. Irving Babbitt — Democracy and Leadership · c. 1924
-87. Nikolai Berdiaev — Uma Nova Idade Média · c. 1924
-88. Thomas Mann — A Montanha Mágica · c. 1924
-89. Marc Bloch — Os Reis Taumaturgos · c. 1924
-90. Marcel Mauss — Ensaio sobre a Dádiva · c. 1925
-91. F. Scott Fitzgerald — O Grande Gatsby · c. 1925
-92. G.K. Chesterton — O Homem Eterno · c. 1925
-93. Franz Kafka — O Processo · c. 1925
-94. Maurice Halbwachs — Os Quadros Sociais da Memória · c. 1925
-95. Alfred North Whitehead — A Ciência e o Mundo Moderno · c. 1925
-96. Virginia Woolf — Mrs. Dalloway · c. 1925
-97. Franz Kafka — O Castelo · c. 1926
-98. François Mauriac — Teresa Desqueyroux · c. 1927
-99. Virginia Woolf — Ao Farol · c. 1927
-100. Martin Heidegger — Ser e Tempo (seleções) · c. 1927
-101. José Carlos Mariátegui — Sete Ensaios de Interpretação da Realidade Peruana · c. 1928
-102. Mário de Andrade — Macunaíma · c. 1928
-103. Bertolt Brecht — A Ópera dos Três Vinténs · c. 1928
-104. Mohandas K. Gandhi — Minha Vida e Minhas Experiências com a Verdade · c. 1929
-105. John Dewey — A Busca da Certeza · c. 1929
-106. Alfred North Whitehead — Processo e Realidade (seleções) · c. 1929
-107. Virginia Woolf — Um Teto Todo Seu · c. 1929
-108. Erich Maria Remarque — Nada de Novo no Front · c. 1929
-109. Edmund Husserl — Meditações Cartesianas · c. 1929
-110. William Faulkner — O Som e a Fúria · c. 1929
-111. Antonio Gramsci — Cadernos do Cárcere (seleções) · c. 1930
-112. José Ortega y Gasset — A Rebelião das Massas · c. 1930
-113. Robert Musil — O Homem sem Qualidades (seleções) · c. 1930
-114. Rachel de Queiroz — O Quinze · c. 1930
-115. José Ortega y Gasset — Missão da Universidade · c. 1930
-116. Lev Vygotsky — A Formação Social da Mente · c. 1930
-117. Leon Trótski — História da Revolução Russa · c. 1930
-118. Thomas Mann — Mário e o Mágico · c. 1930
-119. Sigmund Freud — O Mal-Estar na Civilização · c. 1930
-120. John Maynard Keynes — Possibilidades Econômicas para Nossos Netos · c. 1930
-121. Gödel, Kurt — Sobre Proposições Formalmente Indecidíveis (com comentário) · c. 1931
-122. Herbert Butterfield — A Interpretação Whig da História · c. 1931
-123. Aldous Huxley — Admirável Mundo Novo · c. 1932
-124. Rudolf Carnap — "A Superação da Metafísica pela Análise Lógica da Linguagem" · c. 1932
-125. Karl Barth — Dogmática Eclesial (seleções) · c. 1932
-126. Carl Schmitt — O Conceito do Político · c. 1932
-127. Reinhold Niebuhr — Homem Moral e Sociedade Imoral · c. 1932
-128. Edith Stein — A Mulher: Sua Missão segundo a Natureza e a Graça · c. 1932
-129. Étienne Gilson — O Espírito da Filosofia Medieval · c. 1932
-130. Jun'ichirō Tanizaki — Em Louvor da Sombra · c. 1933
-131. Gilberto Freyre — Casa-Grande & Senzala · c. 1933
-132. Pablo Neruda — Residência na Terra · c. 1933
-133. Hans Kelsen — Teoria Pura do Direito · c. 1934
-134. Arnold Toynbee — Um Estudo da História (versão abreviada de Somervell) · c. 1934
-135. Igreja Confessante — Declaração Teológica de Barmen · c. 1934
-136. John Dewey — Arte como Experiência · c. 1934
-137. Fernando Pessoa — Mensagem · c. 1934
-138. Karl Popper — A Lógica da Pesquisa Científica · c. 1934
-139. A.J. Ayer — Linguagem, Verdade e Lógica · c. 1936
-140. Sérgio Buarque de Holanda — Raízes do Brasil · c. 1936
-141. Alceu Amoroso Lima (Tristão de Athayde) — Indicações Políticas · c. 1936
-142. Georges Bernanos — Diário de um Pároco de Aldeia · c. 1936
-143. Martin Heidegger — A Origem da Obra de Arte · c. 1936
-144. Edmund Husserl — A Crise das Ciências Europeias (seleções) · c. 1936
-145. William Faulkner — Absalão, Absalão! · c. 1936
-146. Gilberto Freyre — Sobrados e Mucambos · c. 1936
-147. Jacques Maritain — Humanismo Integral · c. 1936
-148. Walter Benjamin — A Obra de Arte na Era da Reprodutibilidade Técnica · c. 1936
-149. John Maynard Keynes — A Teoria Geral do Emprego, do Juro e da Moeda · c. 1936
-150. B.R. Ambedkar — A Aniquilação da Casta · c. 1936
-151. Jean Piaget — O Nascimento da Inteligência na Criança · c. 1936
-152. Karen Horney — A Personalidade Neurótica do Nosso Tempo · c. 1937
-153. Étienne Gilson — A Unidade da Experiência Filosófica · c. 1937
-154. Romano Guardini — O Senhor · c. 1937
-155. E.E. Evans-Pritchard — Bruxaria, Oráculos e Magia entre os Azande · c. 1937
-156. Ronald Coase — A Natureza da Firma · c. 1937
-157. Dietrich Bonhoeffer — Discipulado · c. 1937
-158. Mao Tsé-Tung — Sobre a Prática · c. 1937
-159. Mao Tsé-Tung — Sobre a Contradição · c. 1937
-160. C.L.R. James — Os Jacobinos Negros · c. 1938
-161. R.G. Collingwood — Os Princípios da Arte · c. 1938
-162. Johan Huizinga — Homo Ludens · c. 1938
-163. C.G. Jung — Psicologia e Religião · c. 1938
-164. Henri de Lubac — Catolicismo · c. 1938
-165. Graciliano Ramos — Vidas Secas · c. 1938
-166. E.H. Carr — Vinte Anos de Crise, 1919–1939 · c. 1939
-167. Bertolt Brecht — Mãe Coragem e seus Filhos · c. 1939
-168. T.S. Eliot — A Ideia de uma Sociedade Cristã · c. 1939
-169. Marc Bloch — A Sociedade Feudal · c. 1939
-170. Norbert Elias — O Processo Civilizador · c. 1939
-171. Mikhail Bulgakov — O Mestre e Margarita · c. 1940
-172. G.H. Hardy — Apologia de um Matemático · c. 1940
-173. Mortimer Adler — Como Ler Livros · c. 1940
-174. Franz Boas — Raça, Língua e Cultura (seleções) · c. 1940
-175. Walter Benjamin — Sobre o Conceito de História · c. 1940
-176. Graham Greene — O Poder e a Glória · c. 1940
-177. Carlos Drummond de Andrade — Sentimento do Mundo · c. 1940
-178. Rudolf Bultmann — Novo Testamento e Mitologia (Desmitologização) · c. 1941
-179. Gershom Scholem — As Grandes Correntes da Mística Judaica · c. 1941
-180. Lucien Febvre — O Problema da Descrença no Século XVI: A Religião de Rabelais · c. 1942
-181. Joseph Schumpeter — Capitalismo, Socialismo e Democracia · c. 1942
-182. Caio Prado Júnior — Formação do Brasil Contemporâneo · c. 1942
-183. Albert Camus — O Mito de Sísifo · c. 1942
-184. Igor Stravinsky — Poética Musical · c. 1942
-185. C.S. Lewis — Cartas de um Diabo a seu Aprendiz · c. 1942
-186. Eugênio Gudin — Princípios de Economia Monetária · c. 1943
-187. T.S. Eliot — Quatro Quartetos · c. 1943
-188. Bertolt Brecht — A Vida de Galileu · c. 1943
-189. Nelson Rodrigues — Vestido de Noiva · c. 1943
-190. C.S. Lewis — A Abolição do Homem · c. 1943
-191. Karl Polanyi — A Grande Transformação · c. 1944
-192. Eric Williams — Capitalismo e Escravidão · c. 1944
-193. Vladimir Lossky — A Teologia Mística da Igreja do Oriente · c. 1944
-194. Reinhold Niebuhr — As Crianças da Luz e as Crianças das Trevas · c. 1944
-195. Friedrich Hayek — O Caminho da Servidão · c. 1944
-196. Erwin Schrödinger — O Que é a Vida? · c. 1944
-197. Jorge Luis Borges — Ficções · c. 1944
-198. Gustavo Corção — A Descoberta do Outro · c. 1944
-199. Joseph B. Soloveitchik — O Homem da Halachá · c. 1944
-200. Maurice Merleau-Ponty — Fenomenologia da Percepção (seleções) · c. 1945
-201. Bertrand de Jouvenel — Do Poder: História Natural de seu Crescimento · c. 1945
-202. Evelyn Waugh — Memórias de Brideshead · c. 1945
-203. Jean Piaget — A Formação do Símbolo na Criança · c. 1945
-204. Karl Popper — A Sociedade Aberta e seus Inimigos · c. 1945
-205. Carlos Drummond de Andrade — A Rosa do Povo · c. 1945
-206. Henri de Lubac — Sobre os Caminhos de Deus (Surnaturel) · c. 1946
-207. Thomas Mann — Doutor Fausto · c. 1947
-208. Albert Camus — A Peste · c. 1947
-209. T.S. Eliot — Notas para uma Definição de Cultura · c. 1948
-210. Oliveira Vianna — Instituições Políticas Brasileiras · c. 1949
-211. Dietrich Bonhoeffer — Ética · c. 1949
-212. Marc Bloch — Apologia da História · c. 1949
-213. Jorge Luis Borges — O Aleph · c. 1949
-214. Maurice Halbwachs — A Memória Coletiva · c. 1950
-215. Pablo Neruda — Canto Geral · c. 1950
-216. Romano Guardini — O Fim da Modernidade · c. 1950
-217. Gustavo Corção — Lições de Abismo · c. 1950
-218. Jacques Maritain — O Homem e o Estado · c. 1951
-219. Dietrich Bonhoeffer — Cartas e Anotações do Cativeiro · c. 1951
-220. Mao Tsé-Tung — Obras Escolhidas · c. 1951
-221. C.G. Jung — Aion · c. 1951
-222. Graham Greene — O Fim do Caso · c. 1951
-223. Albert Camus — O Homem Revoltado · c. 1951
-224. Nelson Rodrigues — A Vida como Ela É · c. 1951
-225. C.G. Jung — Resposta a Jó · c. 1952
-226. C.S. Lewis — Cristianismo Puro e Simples · c. 1952
-227. Jorge Luis Borges — Outras Inquisições · c. 1952
-228. Ludwig Wittgenstein — Investigações Filosóficas · c. 1953
-229. Graciliano Ramos — Memórias do Cárcere · c. 1953
-230. Martin Heidegger — A Questão da Técnica · c. 1954
-231. B.R. Ambedkar — O Buda e seu Dhamma · c. 1957
-232. Erwin Schrödinger — Mente e Matéria · c. 1958
-233. Henri de Lubac — Exegese Medieval · c. 1959
-234. Ronald Coase — O Problema do Custo Social · c. 1960
-235. Friedrich Hayek — A Constituição da Liberdade · c. 1960
-236. Jane Jacobs — Morte e Vida de Grandes Cidades · c. 1961
-237. Barbara Tuchman — Canhões de Agosto · c. 1962
-238. C.G. Jung — O Homem e seus Símbolos · c. 1964
-239. E.E. Evans-Pritchard — Teorias da Religião Primitiva · c. 1965
-240. Joseph B. Soloveitchik — A Solidão do Homem de Fé · c. 1965
-241. Norbert Elias — A Sociedade de Corte · c. 1969
-242. Charles Rosen — O Estilo Clássico · c. 1971
-243. Nelson Rodrigues — O Reacionário · c. 1977
-244. Fernando Pessoa — Livro do Desassossego · c. 1982
-245. Christopher Clark — Sonâmbulos: Como a Europa Caminhou para a Guerra em 1914 · c. 2012
-246. Winston Churchill — A Segunda Guerra Mundial · c. 1948
-247. Raul Hilberg — A Destruição dos Judeus Europeus · c. 1961
+9. L. Frank Baum — O Mágico de Oz · c. 1900
+10. Booker T. Washington — Memórias de um Ex-Escravo (Up from Slavery) · c. 1901
+11. Thomas Mann — Os Buddenbrook · c. 1901
+12. Euclides da Cunha — Os Sertões · c. 1902
+13. Henri Poincaré — Ciência e Hipótese · c. 1902
+14. William James — As Variedades da Experiência Religiosa · c. 1902
+15. V.I. Lenin — Que Fazer? · c. 1902
+16. W.E.B. Du Bois — As Almas do Povo Negro · c. 1903
+17. G.E. Moore — Principia Ethica · c. 1903
+18. G.E. Moore — "Refutação do Idealismo" (artigo) · c. 1903
+19. Georg Simmel — A Metrópole e a Vida Mental · c. 1903
+20. Jack London — O Chamado Selvagem · c. 1903
+21. Anton Tchekhov — O Jardim das Cerejeiras · c. 1904
+22. J.M. Barrie — Peter Pan · c. 1904
+23. Max Weber — A Ética Protestante e o Espírito do Capitalismo · c. 1905
+24. G.K. Chesterton — Heretics · c. 1905
+25. Herman Bavinck — Dogmática Reformada (seleções) · c. 1906
+26. Albert Schweitzer — A Busca do Jesus Histórico · c. 1906
+27. Pierre Duhem — A Teoria Física: Seu Objeto e Sua Estrutura · c. 1906
+28. Capistrano de Abreu — Capítulos de História Colonial · c. 1907
+29. William James — O Pragmatismo · c. 1907
+30. G.K. Chesterton — O Homem que Foi Quinta-Feira · c. 1908
+31. Georg Simmel — O Estrangeiro · c. 1908
+32. G.K. Chesterton — Ortodoxia · c. 1908
+33. Kenneth Grahame — O Vento nos Salgueiros · c. 1908
+34. Mohandas K. Gandhi — Hind Swaraj · c. 1909
+35. Rabindranath Tagore — Gitanjali · c. 1910
+36. Gaston Leroux — O Fantasma da Ópera · c. 1910
+37. Lima Barreto — Triste Fim de Policarpo Quaresma · c. 1911
+38. Nishida Kitarō — Uma Investigação sobre o Bem · c. 1911
+39. Franz Boas — A Mente do Homem Primitivo · c. 1911
+40. Ernst Troeltsch — As Doutrinas Sociais das Igrejas e Grupos Cristãos (seleções) · c. 1912
+41. Hilaire Belloc — O Estado Servil · c. 1912
+42. Émile Durkheim — As Formas Elementares da Vida Religiosa · c. 1912
+43. Bertrand Russell — Os Problemas da Filosofia · c. 1912
+44. Thomas Mann — Morte em Veneza · c. 1912
+45. Marcel Proust — Em Busca do Tempo Perdido (seleções) · c. 1913
+46. Sigmund Freud — Totem e Tabu · c. 1913
+47. Pavel Florensky — A Coluna e o Fundamento da Verdade (seleções) · c. 1914
+48. Julián Juderías — A Lenda Negra · c. 1914
+49. Natsume Sōseki — Kokoro · c. 1914
+50. James Joyce — Dublinenses · c. 1914
+51. Fernando Pessoa — Poemas dos heterônimos · c. 1914
+52. Ezra Pound — Os Cantos (seleções) · c. 1915
+53. Franz Kafka — A Metamorfose · c. 1915
+54. Albert Einstein — A Teoria da Relatividade (versão popular) · c. 1916
+55. John Dewey — Democracia e Educação · c. 1916
+56. James Joyce — Retrato do Artista quando Jovem · c. 1916
+57. V.I. Lenin — O Estado e a Revolução · c. 1917
+58. Rabindranath Tagore — Nacionalismo · c. 1917
+59. Max Weber — A Ciência como Vocação · c. 1917
+60. Edith Stein — Sobre o Problema da Empatia · c. 1917
+61. Oswald Spengler — A Decadência do Ocidente · c. 1918
+62. Rosa Luxemburgo — A Revolução Russa · c. 1918
+63. Documentos — Quatorze Pontos de Wilson (1918) · c. 1918
+64. Bertrand Russell — Introdução à Filosofia Matemática · c. 1919
+65. Documentos — Tratado de Versalhes (1919) · c. 1919
+66. Documentos — Pacto da Liga das Nações (1919) · c. 1919
+67. Irving Babbitt — Rousseau and Romanticism · c. 1919
+68. Johan Huizinga — O Outono da Idade Média · c. 1919
+69. Max Weber — A Política como Vocação · c. 1919
+70. Karl Barth — Carta aos Romanos · c. 1919
+71. John Maynard Keynes — As Consequências Econômicas da Paz · c. 1919
+72. W.B. Yeats — Poemas (seleção) · c. 1920
+73. Sigrid Undset — Kristin Lavransdatter · c. 1920
+74. Rui Barbosa — Oração aos Moços · c. 1920
+75. Rui Barbosa — Discursos Parlamentares (seleções) · c. 1920
+76. Oliveira Vianna — Populações Meridionais do Brasil · c. 1920
+77. Ernst Jünger — Tempestades de Aço · c. 1920
+78. Karel Čapek — R.U.R. · c. 1920
+79. Franz Rosenzweig — A Estrela da Redenção (seleções) · c. 1921
+80. Yevgeny Zamiatin — Nós · c. 1921
+81. Lu Xun — Diário de um Louco e Outras Histórias · c. 1921
+82. Ludwig Wittgenstein — Tractatus Logico-Philosophicus · c. 1921
+83. Luigi Pirandello — Seis Personagens à Procura de um Autor · c. 1921
+84. Bronisław Malinowski — Argonautas do Pacífico Ocidental · c. 1922
+85. Max Weber — Economia e Sociedade (seleções) · c. 1922
+86. T.S. Eliot — A Terra Devastada · c. 1922
+87. James Joyce — Ulisses · c. 1922
+88. Carl Schmitt — Teologia Política · c. 1922
+89. Hermann Hesse — Sidarta · c. 1922
+90. J. Gresham Machen — Cristianismo e Liberalismo · c. 1923
+91. Martin Buber — Eu e Tu · c. 1923
+92. Rainer Maria Rilke — Elegias de Duíno · c. 1923
+93. Rainer Maria Rilke — Sonetos a Orfeu · c. 1923
+94. Le Corbusier — Por uma Arquitetura · c. 1923
+95. Nikolai Berdiaev — O Sentido da História · c. 1923
+96. Felix Salten — Bambi · c. 1923
+97. Irving Babbitt — Democracy and Leadership · c. 1924
+98. Nikolai Berdiaev — Uma Nova Idade Média · c. 1924
+99. Thomas Mann — A Montanha Mágica · c. 1924
+100. Marc Bloch — Os Reis Taumaturgos · c. 1924
+101. Marcel Mauss — Ensaio sobre a Dádiva · c. 1925
+102. F. Scott Fitzgerald — O Grande Gatsby · c. 1925
+103. G.K. Chesterton — O Homem Eterno · c. 1925
+104. Franz Kafka — O Processo · c. 1925
+105. Maurice Halbwachs — Os Quadros Sociais da Memória · c. 1925
+106. Alfred North Whitehead — A Ciência e o Mundo Moderno · c. 1925
+107. Virginia Woolf — Mrs. Dalloway · c. 1925
+108. Franz Kafka — O Castelo · c. 1926
+109. H.P. Lovecraft — O Chamado de Cthulhu e Outros Contos · c. 1926
+110. François Mauriac — Teresa Desqueyroux · c. 1927
+111. Virginia Woolf — Ao Farol · c. 1927
+112. Martin Heidegger — Ser e Tempo (seleções) · c. 1927
+113. Hermann Hesse — O Lobo da Estepe · c. 1927
+114. José Carlos Mariátegui — Sete Ensaios de Interpretação da Realidade Peruana · c. 1928
+115. Mário de Andrade — Macunaíma · c. 1928
+116. Bertolt Brecht — A Ópera dos Três Vinténs · c. 1928
+117. Mohandas K. Gandhi — Minha Vida e Minhas Experiências com a Verdade · c. 1929
+118. John Dewey — A Busca da Certeza · c. 1929
+119. Alfred North Whitehead — Processo e Realidade (seleções) · c. 1929
+120. Virginia Woolf — Um Teto Todo Seu · c. 1929
+121. Erich Maria Remarque — Nada de Novo no Front · c. 1929
+122. Edmund Husserl — Meditações Cartesianas · c. 1929
+123. William Faulkner — O Som e a Fúria · c. 1929
+124. Ernest Hemingway — Adeus às Armas · c. 1929
+125. Antonio Gramsci — Cadernos do Cárcere (seleções) · c. 1930
+126. José Ortega y Gasset — A Rebelião das Massas · c. 1930
+127. Robert Musil — O Homem sem Qualidades (seleções) · c. 1930
+128. Rachel de Queiroz — O Quinze · c. 1930
+129. José Ortega y Gasset — Missão da Universidade · c. 1930
+130. Lev Vygotsky — A Formação Social da Mente · c. 1930
+131. Leon Trótski — História da Revolução Russa · c. 1930
+132. Thomas Mann — Mário e o Mágico · c. 1930
+133. Sigmund Freud — O Mal-Estar na Civilização · c. 1930
+134. John Maynard Keynes — Possibilidades Econômicas para Nossos Netos · c. 1930
+135. Gödel, Kurt — Sobre Proposições Formalmente Indecidíveis (com comentário) · c. 1931
+136. Herbert Butterfield — A Interpretação Whig da História · c. 1931
+137. Aldous Huxley — Admirável Mundo Novo · c. 1932
+138. Rudolf Carnap — "A Superação da Metafísica pela Análise Lógica da Linguagem" · c. 1932
+139. Karl Barth — Dogmática Eclesial (seleções) · c. 1932
+140. Carl Schmitt — O Conceito do Político · c. 1932
+141. Reinhold Niebuhr — Homem Moral e Sociedade Imoral · c. 1932
+142. Edith Stein — A Mulher: Sua Missão segundo a Natureza e a Graça · c. 1932
+143. Étienne Gilson — O Espírito da Filosofia Medieval · c. 1932
+144. Louis-Ferdinand Céline — Viagem ao Fim da Noite · c. 1932
+145. Joseph Roth — A Marcha de Radetzky · c. 1932
+146. Federico García Lorca — Bodas de Sangue · c. 1932
+147. José Lins do Rego — Menino de Engenho · c. 1932
+148. Jun'ichirō Tanizaki — Em Louvor da Sombra · c. 1933
+149. Gilberto Freyre — Casa-Grande & Senzala · c. 1933
+150. Pablo Neruda — Residência na Terra · c. 1933
+151. André Malraux — A Condição Humana · c. 1933
+152. Hans Kelsen — Teoria Pura do Direito · c. 1934
+153. Arnold Toynbee — Um Estudo da História (versão abreviada de Somervell) · c. 1934
+154. Igreja Confessante — Declaração Teológica de Barmen · c. 1934
+155. John Dewey — Arte como Experiência · c. 1934
+156. Fernando Pessoa — Mensagem · c. 1934
+157. Karl Popper — A Lógica da Pesquisa Científica · c. 1934
+158. Graciliano Ramos — São Bernardo · c. 1934
+159. Agatha Christie — Assassinato no Expresso do Oriente · c. 1934
+160. A.J. Ayer — Linguagem, Verdade e Lógica · c. 1936
+161. Sérgio Buarque de Holanda — Raízes do Brasil · c. 1936
+162. Alceu Amoroso Lima (Tristão de Athayde) — Indicações Políticas · c. 1936
+163. Georges Bernanos — Diário de um Pároco de Aldeia · c. 1936
+164. Martin Heidegger — A Origem da Obra de Arte · c. 1936
+165. Edmund Husserl — A Crise das Ciências Europeias (seleções) · c. 1936
+166. William Faulkner — Absalão, Absalão! · c. 1936
+167. Gilberto Freyre — Sobrados e Mucambos · c. 1936
+168. Jacques Maritain — Humanismo Integral · c. 1936
+169. Walter Benjamin — A Obra de Arte na Era da Reprodutibilidade Técnica · c. 1936
+170. John Maynard Keynes — A Teoria Geral do Emprego, do Juro e da Moeda · c. 1936
+171. B.R. Ambedkar — A Aniquilação da Casta · c. 1936
+172. Jean Piaget — O Nascimento da Inteligência na Criança · c. 1936
+173. Karen Horney — A Personalidade Neurótica do Nosso Tempo · c. 1937
+174. Étienne Gilson — A Unidade da Experiência Filosófica · c. 1937
+175. Romano Guardini — O Senhor · c. 1937
+176. E.E. Evans-Pritchard — Bruxaria, Oráculos e Magia entre os Azande · c. 1937
+177. Ronald Coase — A Natureza da Firma · c. 1937
+178. Dietrich Bonhoeffer — Discipulado · c. 1937
+179. Mao Tsé-Tung — Sobre a Prática · c. 1937
+180. Mao Tsé-Tung — Sobre a Contradição · c. 1937
+181. Jorge Amado — Capitães da Areia · c. 1937
+182. J.R.R. Tolkien — O Hobbit · c. 1937
+183. John Steinbeck — Ratos e Homens · c. 1937
+184. Zora Neale Hurston — Seus Olhos Viam Deus · c. 1937
+185. C.L.R. James — Os Jacobinos Negros · c. 1938
+186. R.G. Collingwood — Os Princípios da Arte · c. 1938
+187. Johan Huizinga — Homo Ludens · c. 1938
+188. C.G. Jung — Psicologia e Religião · c. 1938
+189. Henri de Lubac — Catolicismo · c. 1938
+190. Graciliano Ramos — Vidas Secas · c. 1938
+191. Jean-Paul Sartre — A Náusea · c. 1938
+192. Daphne du Maurier — Rebecca · c. 1938
+193. E.H. Carr — Vinte Anos de Crise, 1919–1939 · c. 1939
+194. Bertolt Brecht — Mãe Coragem e seus Filhos · c. 1939
+195. T.S. Eliot — A Ideia de uma Sociedade Cristã · c. 1939
+196. Marc Bloch — A Sociedade Feudal · c. 1939
+197. Norbert Elias — O Processo Civilizador · c. 1939
+198. John Steinbeck — As Vinhas da Ira · c. 1939
+199. Mikhail Bulgakov — O Mestre e Margarita · c. 1940
+200. G.H. Hardy — Apologia de um Matemático · c. 1940
+201. Mortimer Adler — Como Ler Livros · c. 1940
+202. Franz Boas — Raça, Língua e Cultura (seleções) · c. 1940
+203. Walter Benjamin — Sobre o Conceito de História · c. 1940
+204. Graham Greene — O Poder e a Glória · c. 1940
+205. Carlos Drummond de Andrade — Sentimento do Mundo · c. 1940
+206. Ernest Hemingway — Por Quem os Sinos Dobram · c. 1940
+207. Dino Buzzati — O Deserto dos Tártaros · c. 1940
+208. Richard Wright — Filho Nativo · c. 1940
+209. Rudolf Bultmann — Novo Testamento e Mitologia (Desmitologização) · c. 1941
+210. Gershom Scholem — As Grandes Correntes da Mística Judaica · c. 1941
+211. Lucien Febvre — O Problema da Descrença no Século XVI: A Religião de Rabelais · c. 1942
+212. Joseph Schumpeter — Capitalismo, Socialismo e Democracia · c. 1942
+213. Caio Prado Júnior — Formação do Brasil Contemporâneo · c. 1942
+214. Albert Camus — O Mito de Sísifo · c. 1942
+215. Igor Stravinsky — Poética Musical · c. 1942
+216. C.S. Lewis — Cartas de um Diabo a seu Aprendiz · c. 1942
+217. Albert Camus — O Estrangeiro · c. 1942
+218. Stefan Zweig — O Mundo de Ontem · c. 1942
+219. Eugênio Gudin — Princípios de Economia Monetária · c. 1943
+220. T.S. Eliot — Quatro Quartetos · c. 1943
+221. Bertolt Brecht — A Vida de Galileu · c. 1943
+222. Nelson Rodrigues — Vestido de Noiva · c. 1943
+223. C.S. Lewis — A Abolição do Homem · c. 1943
+224. Ayn Rand — A Nascente · c. 1943
+225. Karl Polanyi — A Grande Transformação · c. 1944
+226. Eric Williams — Capitalismo e Escravidão · c. 1944
+227. Vladimir Lossky — A Teologia Mística da Igreja do Oriente · c. 1944
+228. Reinhold Niebuhr — As Crianças da Luz e as Crianças das Trevas · c. 1944
+229. Friedrich Hayek — O Caminho da Servidão · c. 1944
+230. Erwin Schrödinger — O Que é a Vida? · c. 1944
+231. Jorge Luis Borges — Ficções · c. 1944
+232. Gustavo Corção — A Descoberta do Outro · c. 1944
+233. Joseph B. Soloveitchik — O Homem da Halachá · c. 1944
+234. Maurice Merleau-Ponty — Fenomenologia da Percepção (seleções) · c. 1945
+235. Bertrand de Jouvenel — Do Poder: História Natural de seu Crescimento · c. 1945
+236. Evelyn Waugh — Memórias de Brideshead · c. 1945
+237. Jean Piaget — A Formação do Símbolo na Criança · c. 1945
+238. Karl Popper — A Sociedade Aberta e seus Inimigos · c. 1945
+239. Carlos Drummond de Andrade — A Rosa do Povo · c. 1945
+240. Henri de Lubac — Sobre os Caminhos de Deus (Surnaturel) · c. 1946
+241. Thomas Mann — Doutor Fausto · c. 1947
+242. Albert Camus — A Peste · c. 1947
+243. T.S. Eliot — Notas para uma Definição de Cultura · c. 1948
+244. Oliveira Vianna — Instituições Políticas Brasileiras · c. 1949
+245. Dietrich Bonhoeffer — Ética · c. 1949
+246. Marc Bloch — Apologia da História · c. 1949
+247. Jorge Luis Borges — O Aleph · c. 1949
+248. Maurice Halbwachs — A Memória Coletiva · c. 1950
+249. Pablo Neruda — Canto Geral · c. 1950
+250. Romano Guardini — O Fim da Modernidade · c. 1950
+251. Gustavo Corção — Lições de Abismo · c. 1950
+252. Jacques Maritain — O Homem e o Estado · c. 1951
+253. Dietrich Bonhoeffer — Cartas e Anotações do Cativeiro · c. 1951
+254. Mao Tsé-Tung — Obras Escolhidas · c. 1951
+255. C.G. Jung — Aion · c. 1951
+256. Graham Greene — O Fim do Caso · c. 1951
+257. Albert Camus — O Homem Revoltado · c. 1951
+258. Nelson Rodrigues — A Vida como Ela É · c. 1951
+259. C.G. Jung — Resposta a Jó · c. 1952
+260. C.S. Lewis — Cristianismo Puro e Simples · c. 1952
+261. Jorge Luis Borges — Outras Inquisições · c. 1952
+262. Ludwig Wittgenstein — Investigações Filosóficas · c. 1953
+263. Graciliano Ramos — Memórias do Cárcere · c. 1953
+264. Martin Heidegger — A Questão da Técnica · c. 1954
+265. B.R. Ambedkar — O Buda e seu Dhamma · c. 1957
+266. Erwin Schrödinger — Mente e Matéria · c. 1958
+267. Henri de Lubac — Exegese Medieval · c. 1959
+268. Ronald Coase — O Problema do Custo Social · c. 1960
+269. Friedrich Hayek — A Constituição da Liberdade · c. 1960
+270. Jane Jacobs — Morte e Vida de Grandes Cidades · c. 1961
+271. Barbara Tuchman — Canhões de Agosto · c. 1962
+272. C.G. Jung — O Homem e seus Símbolos · c. 1964
+273. E.E. Evans-Pritchard — Teorias da Religião Primitiva · c. 1965
+274. Joseph B. Soloveitchik — A Solidão do Homem de Fé · c. 1965
+275. Norbert Elias — A Sociedade de Corte · c. 1969
+276. Charles Rosen — O Estilo Clássico · c. 1971
+277. Nelson Rodrigues — O Reacionário · c. 1977
+278. Fernando Pessoa — Livro do Desassossego · c. 1982
+279. Christopher Clark — Sonâmbulos: Como a Europa Caminhou para a Guerra em 1914 · c. 2012
+280. Winston Churchill — A Segunda Guerra Mundial · c. 1948
+281. Raul Hilberg — A Destruição dos Judeus Europeus · c. 1961
 ## Etapa 20: 1946–1979
 1. Ludwig von Mises — O Cálculo Econômico sob o Socialismo · c. 1920
 2. Anísio Teixeira — Educação para a Democracia · c. 1936
@@ -1160,309 +1296,376 @@
 17. Documentos da Guerra Fria — Longo Telegrama de Kennan · c. 1946
 18. Documentos da Guerra Fria — Discurso da Cortina de Ferro de Churchill · c. 1946
 19. George Orwell — A Política e a Língua Inglesa · c. 1946
-20. Max Horkheimer e Theodor Adorno — Dialética do Esclarecimento · c. 1947
-21. Michael Oakeshott — Racionalismo em Política · c. 1947
-22. Dorothy Sayers — As Ferramentas Perdidas do Aprendizado · c. 1947
-23. Documentos da Guerra Fria — Doutrina Truman · c. 1947
-24. Simone Weil — A Gravidade e a Graça · c. 1947
-25. Primo Levi — É Isto um Homem? · c. 1947
-26. George Kennan — As Fontes da Conduta Soviética (artigo X) · c. 1947
-27. J.R.R. Tolkien — Sobre Histórias de Fadas · c. 1947
-28. Richard Weaver — Ideas Have Consequences · c. 1948
-29. Ernst Robert Curtius — Literatura Europeia e Idade Média Latina · c. 1948
-30. Hans Morgenthau — A Política entre as Nações · c. 1948
-31. Josef Pieper — Lazer, a Base da Cultura · c. 1948
-32. Claude Shannon — Uma Teoria Matemática da Comunicação · c. 1948
-33. Simone de Beauvoir — O Segundo Sexo · c. 1949
-34. Gilbert Ryle — O Conceito de Mente · c. 1949
-35. Maria Montessori — A Mente Absorvente · c. 1949
-36. Simone Weil — O Enraizamento · c. 1949
-37. Fernand Braudel — O Mediterrâneo e o Mundo Mediterrânico na Época de Filipe II · c. 1949
-38. Ludwig von Mises — Ação Humana · c. 1949
-39. George Orwell — 1984 · c. 1949
-40. Theodor Adorno — Filosofia da Nova Música · c. 1949
-41. Claude Lévi-Strauss — As Estruturas Elementares do Parentesco · c. 1949
-42. Alan Turing — "Computing Machinery and Intelligence" (artigo) · c. 1950
-43. Octavio Paz — O Labirinto da Solidão · c. 1950
-44. Yves Congar — Verdadeira e Falsa Reforma na Igreja · c. 1950
-45. E.H. Gombrich — A História da Arte · c. 1950
-46. Documentos da Guerra Fria — NSC-68 · c. 1950
-47. Norbert Wiener — O Uso Humano de Seres Humanos · c. 1950
-48. Aimé Césaire — Discurso sobre o Colonialismo · c. 1950
-49. Eric Hoffer — O Verdadeiro Crente · c. 1951
-50. H. Richard Niebuhr — Cristo e Cultura · c. 1951
-51. Maurice Duverger — Os Partidos Políticos · c. 1951
-52. George Kennan — Diplomacia Americana · c. 1951
-53. Hannah Arendt — As Origens do Totalitarismo · c. 1951
-54. W.V.O. Quine — Dois Dogmas do Empirismo · c. 1951
-55. Paul Tillich — Teologia Sistemática · c. 1951
-56. Jacob L. Talmon — As Origens da Democracia Totalitária · c. 1952
-57. Eric Voegelin — A Nova Ciência da Política · c. 1952
-58. Paul Tillich — A Coragem de Ser · c. 1952
-59. Ralph Ellison — Homem Invisível · c. 1952
-60. Leo Strauss — Perseguição e a Arte de Escrever · c. 1952
-61. Flannery O'Connor — Sangue Sábio · c. 1952
-62. Frantz Fanon — Pele Negra, Máscaras Brancas · c. 1952
-63. Czesław Miłosz — A Mente Cativa · c. 1953
-64. Cecília Meireles — Romanceiro da Inconfidência · c. 1953
-65. Russell Kirk — The Conservative Mind · c. 1953
-66. Leo Strauss — Direito Natural e História · c. 1953
-67. Robert Nisbet — The Quest for Community · c. 1953
-68. Miguel Reale — Filosofia do Direito · c. 1953
-69. Samuel Beckett — Esperando Godot · c. 1953
-70. B.F. Skinner — Ciência e Comportamento Humano · c. 1953
-71. B.H. Liddell Hart — Estratégia (A Abordagem Indireta) · c. 1954
-72. Hannah Arendt — "A Crise na Educação" (em Entre o Passado e o Futuro) · c. 1954
-73. Abraham Maslow — Motivação e Personalidade · c. 1954
-74. J.R.R. Tolkien — O Senhor dos Anéis · c. 1954
-75. Cornélio Penna — A Menina Morta · c. 1954
-76. Cheikh Anta Diop — Nações Negras e Cultura · c. 1954
-77. J.L. Austin — Quando Dizer é Fazer · c. 1955
-78. Juan Rulfo — Pedro Páramo · c. 1955
-79. Erwin Panofsky — Significado nas Artes Visuais · c. 1955
-80. Raymond Aron — O Ópio dos Intelectuais · c. 1955
-81. Pierre Teilhard de Chardin — O Fenômeno Humano · c. 1955
-82. Claude Lévi-Strauss — Tristes Trópicos · c. 1955
-83. Ariano Suassuna — Auto da Compadecida · c. 1955
-84. João Cabral de Melo Neto — Morte e Vida Severina · c. 1955
-85. Abraham Joshua Heschel — Deus em Busca do Homem · c. 1955
-86. Guimarães Rosa — Grande Sertão: Veredas · c. 1956
-87. Naguib Mahfouz — Trilogia do Cairo (Palácio do Desejo, ao menos o primeiro volume) · c. 1956
-88. Elie Wiesel — A Noite · c. 1956
-89. Leon Festinger — Quando a Profecia Falha · c. 1956
-90. Ernst Kantorowicz — Os Dois Corpos do Rei · c. 1957
-91. João Camilo de Oliveira Torres — A Democracia Coroada · c. 1957
-92. Boris Pasternak — Doutor Jivago · c. 1957
-93. Anthony Downs — Uma Teoria Econômica da Democracia · c. 1957
-94. Samuel Beckett — Fim de Partida · c. 1957
-95. Pierre Teilhard de Chardin — O Meio Divino · c. 1957
-96. Anísio Teixeira — Educação não É Privilégio · c. 1957
-97. Leon Festinger — Teoria da Dissonância Cognitiva · c. 1957
-98. G.E.M. Anscombe — Intenção · c. 1957
-99. Alberto Guerreiro Ramos — Introdução Crítica à Sociologia Brasileira · c. 1957
-100. Werner Heisenberg — Física e Filosofia · c. 1958
-101. Chinua Achebe — O Mundo se Despedaça · c. 1958
-102. Raymundo Faoro — Os Donos do Poder: Formação do Patronato Político Brasileiro · c. 1958
-103. Niels Bohr — Física Atômica e Conhecimento Humano · c. 1958
-104. Fernand Braudel — História e Ciências Sociais: a Longa Duração · c. 1958
-105. Hannah Arendt — A Condição Humana · c. 1958
-106. Wilhelm Röpke — Além da Oferta e da Demanda · c. 1958
-107. Isaiah Berlin — Dois Conceitos de Liberdade · c. 1958
-108. Michael Polanyi — O Conhecimento Pessoal · c. 1958
-109. G.E.M. Anscombe — A Filosofia Moral Moderna · c. 1958
-110. Alberto Guerreiro Ramos — A Redução Sociológica · c. 1958
-111. Celso Furtado — Formação Econômica do Brasil · c. 1959
-112. Plínio Corrêa de Oliveira — Revolução e Contra-Revolução · c. 1959
-113. Mário Ferreira dos Santos — Filosofia Concreta · c. 1959
-114. Clóvis Moura — Rebeliões da Senzala · c. 1959
-115. Eric Voegelin — Science, Politics and Gnosticism · c. 1959
-116. Lúcio Cardoso — Crônica da Casa Assassinada · c. 1959
-117. P.F. Strawson — Indivíduos · c. 1959
-118. Antonio Candido — Formação da Literatura Brasileira · c. 1959
-119. Cheikh Anta Diop — A Unidade Cultural da África Negra · c. 1959
-120. Reinhart Koselleck — Crítica e Crise · c. 1959
-121. Hans-Georg Gadamer — Verdade e Método (seleções) · c. 1960
-122. John Courtney Murray — Nós Sustentamos Estas Verdades · c. 1960
-123. Vassili Grossman — Vida e Destino · c. 1960
-124. Eugene Wigner — "A Irrazoável Eficácia da Matemática nas Ciências Naturais" · c. 1960
-125. Thomas Schelling — A Estratégia do Conflito · c. 1960
-126. W.V.O. Quine — Palavra e Objeto · c. 1960
-127. Philippe Ariès — História Social da Criança e da Família · c. 1960
-128. João Paulo II (Karol Wojtyła) — Amor e Responsabilidade · c. 1960
-129. H.L.A. Hart — O Conceito de Direito · c. 1961
-130. E.H. Carr — Que É História? · c. 1961
-131. Walker Percy — O Cinéfilo · c. 1961
-132. Carl Rogers — Tornar-se Pessoa · c. 1961
-133. Documentos da Guerra Fria — Discurso de Despedida de Eisenhower · c. 1961
-134. Hans Urs von Balthasar — Glória · c. 1961
-135. Frantz Fanon — Os Condenados da Terra · c. 1961
-136. Emmanuel Levinas — Totalidade e Infinito · c. 1961
-137. Thomas Kuhn — A Estrutura das Revoluções Científicas · c. 1962
-138. Milton Friedman — Capitalismo e Liberdade · c. 1962
-139. Rachel Carson — Primavera Silenciosa · c. 1962
-140. Fernando Henrique Cardoso — Capitalismo e Escravidão no Brasil Meridional · c. 1962
-141. Michael Oakeshott — A Voz do Aprendizado Liberal · c. 1962
-142. Raymond Aron — Paz e Guerra entre as Nações · c. 1962
-143. Claude Lévi-Strauss — O Pensamento Selvagem · c. 1962
-144. Eric Hobsbawm — Era das Revoluções · c. 1962
-145. Abraham Joshua Heschel — Os Profetas · c. 1962
-146. Aleksandr Soljenítsin — Um Dia na Vida de Ivan Deníssovitch · c. 1962
-147. Alexander Schmemann — Pela Vida do Mundo · c. 1963
-148. Gabriel Almond e Sidney Verba — A Cultura Cívica · c. 1963
-149. Hannah Arendt — Eichmann em Jerusalém · c. 1963
-150. James Baldwin — Da Próxima Vez, o Fogo · c. 1963
-151. Hans Urs von Balthasar — Somente o Amor é Digno de Fé · c. 1963
-152. E.P. Thompson — A Formação da Classe Operária Inglesa · c. 1963
-153. Herbert Marcuse — O Homem Unidimensional · c. 1964
-154. Jürgen Moltmann — Teologia da Esperança · c. 1964
-155. Sayyid Qutb — Marcos no Caminho (Milestones) · c. 1964
-156. Lon L. Fuller — A Moralidade do Direito · c. 1964
-157. Clarice Lispector — A Paixão Segundo G.H. · c. 1964
-158. Léopold Sédar Senghor — Négritude e Humanismo (Liberté I) · c. 1964
-159. Concílio Vaticano II — Lumen Gentium · c. 1964
-160. Paulo Mercadante — A Consciência Conservadora no Brasil · c. 1965
-161. Richard Feynman — O Caráter da Lei Física · c. 1965
-162. Kwame Nkrumah — Neocolonialismo, o Último Estágio do Imperialismo · c. 1965
-163. Mancur Olson — A Lógica da Ação Coletiva · c. 1965
-164. Florestan Fernandes — A Integração do Negro na Sociedade de Classes · c. 1965
-165. Concílio Vaticano II — Dei Verbum · c. 1965
-166. Concílio Vaticano II — Gaudium et Spes · c. 1965
-167. Concílio Vaticano II — Dignitatis Humanae · c. 1965
-168. Mary Douglas — Pureza e Perigo · c. 1966
-169. Barrington Moore Jr. — As Origens Sociais da Ditadura e da Democracia · c. 1966
-170. David Brion Davis — O Problema da Escravidão na Cultura Ocidental · c. 1966
-171. Philip Rieff — O Triunfo do Terapêutico · c. 1966
-172. Shūsaku Endō — Silêncio · c. 1966
-173. Susan Sontag — Contra a Interpretação · c. 1966
-174. Robert Nisbet — The Sociological Tradition · c. 1966
-175. João Cabral de Melo Neto — A Educação pela Pedra · c. 1966
-176. Michael Polanyi — A Dimensão Tácita · c. 1966
-177. Jacques Lacan — Escritos · c. 1966
-178. Peter L. Berger e Thomas Luckmann — A Construção Social da Realidade · c. 1966
-179. Amílcar Cabral — A Arma da Teoria · c. 1966
-180. Michel Foucault — As Palavras e as Coisas · c. 1966
-181. Gabriel García Márquez — Cem Anos de Solidão · c. 1967
-182. Antônio Paim — História das Ideias Filosóficas no Brasil · c. 1967
-183. E.D. Hirsch Jr. — Validade na Interpretação · c. 1967
-184. Thomas Skidmore — Brasil: de Getúlio a Castelo · c. 1967
-185. Peter Berger — O Dossel Sagrado · c. 1967
-186. Jacques Derrida — A Escritura e a Diferença · c. 1967
-187. Jacques Derrida — Gramatologia · c. 1967
-188. Robert N. Bellah — Civil Religion in America · c. 1967
-189. Paulo Freire — Pedagogia do Oprimido · c. 1968
-190. Michel Villey — A Formação do Pensamento Jurídico Moderno · c. 1968
-191. Samuel Huntington — A Ordem Política nas Sociedades em Mudança · c. 1968
-192. Erik Erikson — Identidade: Juventude e Crise · c. 1968
-193. Julius Nyerere — Ujamaa: Ensaios sobre o Socialismo · c. 1968
-194. Miguel Reale — Teoria Tridimensional do Direito · c. 1968
-195. Aleksandr Soljenítsin — Pavilhão de Cancerosos · c. 1968
-196. Joseph Ratzinger (Bento XVI) — Introdução ao Cristianismo · c. 1968
-197. Robert Conquest — O Grande Terror · c. 1968
-198. Fernando Henrique Cardoso e Enzo Faletto — Dependência e Desenvolvimento na América Latina · c. 1969
-199. John Bowlby — Apego e Perda (vol. I: Apego) · c. 1969
-200. John Mbiti — Religiões e Filosofia Africanas · c. 1969
-201. Tulio Halperín Donghi — História da América Latina · c. 1969
-202. Flannery O'Connor — Mistério e Costumes · c. 1969
-203. Mario Vargas Llosa — Conversa na Catedral · c. 1969
-204. Paul Ricoeur — O Conflito das Interpretações · c. 1969
-205. Saul Kripke — Naming and Necessity · c. 1970
-206. Louis Althusser — Ideologia e Aparelhos Ideológicos de Estado · c. 1970
-207. Imre Lakatos — "Falsificação e a Metodologia dos Programas de Pesquisa Científica" · c. 1970
-208. Iris Murdoch — A Soberania do Bem · c. 1970
-209. Theodor Adorno — Teoria Estética (seleções) · c. 1970
-210. Antonio Candido — Dialética da Malandragem · c. 1970
-211. Albert O. Hirschman — Saída, Voz e Lealdade · c. 1970
-212. John Rawls — Uma Teoria da Justiça · c. 1971
-213. Eduardo Galeano — As Veias Abertas da América Latina · c. 1971
-214. Gustavo Gutiérrez — Teologia da Libertação: Perspectivas · c. 1971
-215. Robert Dahl — Poliarquia: Participação e Oposição · c. 1971
-216. D.W. Winnicott — O Brincar e a Realidade · c. 1971
-217. B.F. Skinner — Além da Liberdade e da Dignidade · c. 1971
-218. Ariano Suassuna — A Pedra do Reino · c. 1971
-219. Flannery O'Connor — Contos Completos · c. 1971
-220. E.P. Thompson — A Economia Moral da Multidão Inglesa no Século XVIII · c. 1971
-221. Jaroslav Pelikan — A Tradição Cristã: Uma História do Desenvolvimento da Doutrina (vol. I e II) · c. 1971
-222. John Howard Yoder — A Política de Jesus · c. 1972
-223. John Berger — Modos de Ver · c. 1972
-224. Josef Pieper — As Virtudes Fundamentais · c. 1972
-225. Emmanuel Levinas — Humanismo do Outro Homem · c. 1972
-226. René Girard — A Violência e o Sagrado · c. 1972
-227. Clifford Geertz — A Interpretação das Culturas · c. 1973
-228. E.F. Schumacher — O Negócio É Ser Pequeno · c. 1973
-229. Theodosius Dobzhansky — "Nada em Biologia Faz Sentido Exceto à Luz da Evolução" · c. 1973
-230. Jacques Lacan — Seminários · c. 1973
-231. Aleksandr Soljenítsin — Arquipélago Gulag · c. 1973
-232. Robert Nozick — Anarquia, Estado e Utopia · c. 1974
-233. Pierre Clastres — A Sociedade contra o Estado · c. 1974
-234. Immanuel Wallerstein — O Sistema-Mundo Moderno, vol. I · c. 1974
-235. Eugene D. Genovese — Roll, Jordan, Roll: O Mundo que os Escravos Criaram · c. 1974
-236. Edmar Bacha — "O Rei da Belíndia: Uma Fábula para Tecnocratas" · c. 1974
-237. Stanley Milgram — Obediência à Autoridade · c. 1974
-238. Russell Kirk — The Roots of American Order · c. 1974
-239. Amílcar Cabral — Unidade e Luta · c. 1974
-240. Aleksandr Soljenítsin — Viver sem Mentira · c. 1974
-241. Perry Anderson — Linhagens do Estado Absolutista · c. 1974
-242. Perry Anderson — Passagens da Antiguidade ao Feudalismo · c. 1974
-243. Alvin Plantinga — Deus, Liberdade e o Mal · c. 1974
-244. Paul Feyerabend — Contra o Método · c. 1975
-245. Eric Hobsbawm — Era do Capital · c. 1975
-246. Florestan Fernandes — A Revolução Burguesa no Brasil · c. 1975
-247. Michel Foucault — Vigiar e Punir · c. 1975
-248. J.G.A. Pocock — O Momento Maquiavélico · c. 1975
-249. Hilary Putnam — O Significado de "Significado" · c. 1975
-250. Wole Soyinka — A Morte e o Cavaleiro do Rei · c. 1975
-251. Richard Dawkins — O Gene Egoísta · c. 1976
-252. Carlo Ginzburg — O Queijo e os Vermes · c. 1976
-253. Leszek Kołakowski — Principais Correntes do Marxismo · c. 1976
-254. Jean-François Revel — A Tentação Totalitária · c. 1976
-255. Carlos Rangel — Do Bom Selvagem ao Bom Revolucionário · c. 1976
-256. Karl Rahner — Curso Fundamental da Fé (seleções) · c. 1976
-257. Raymond Aron — Pensar a Guerra: Clausewitz · c. 1976
-258. Paulin Hountondji — African Philosophy: Myth and Reality · c. 1976
-259. Michel Foucault — A História da Sexualidade, vol. I · c. 1976
-260. Roberto Schwarz — Ao Vencedor as Batatas · c. 1977
-261. Nicolás Gómez Dávila — Escólios a um Texto Implícito · c. 1977
-262. Wendell Berry — The Unsettling of America · c. 1977
-263. Michael Walzer — Guerras Justas e Injustas · c. 1977
-264. Hedley Bull — A Sociedade Anárquica · c. 1977
-265. J.R.R. Tolkien — O Silmarillion · c. 1977
-266. Philippe Ariès — O Homem Diante da Morte · c. 1977
-267. Ronald Dworkin — Levando os Direitos a Sério · c. 1977
-268. Albert O. Hirschman — As Paixões e os Interesses · c. 1977
-269. Seymour Drescher — Econocide · c. 1977
-270. Edward Said — Orientalismo · c. 1978
-271. E.O. Wilson — Sobre a Natureza Humana · c. 1978
-272. Georges Duby — As Três Ordens ou o Imaginário do Feudalismo · c. 1978
-273. Václav Havel — O Poder dos Sem Poder · c. 1978
-274. Octavio Paz — O Ogro Filantrópico · c. 1978
-275. Abdias Nascimento — O Genocídio do Negro Brasileiro · c. 1978
-276. Steve Biko — Escrevo o que Eu Quero · c. 1978
-277. Isaiah Berlin — Pensadores Russos · c. 1978
-278. René Girard — Coisas Ocultas Desde a Fundação do Mundo · c. 1978
-279. Aleksandr Soljenítsin — Discurso de Harvard · c. 1978
-280. Quentin Skinner — As Fundações do Pensamento Político Moderno · c. 1978
-281. Hans Jonas — O Princípio Responsabilidade · c. 1979
-282. Roberto DaMatta — Carnavais, Malandros e Heróis · c. 1979
-283. Joseph Raz — A Autoridade do Direito · c. 1979
-284. Richard Swinburne — A Existência de Deus · c. 1979
-285. Wanderley Guilherme dos Santos — Cidadania e Justiça: A Política Social na Ordem Brasileira · c. 1979
-286. Kenneth Waltz — Teoria da Política Internacional · c. 1979
-287. Fernando Novais — Portugal e Brasil na Crise do Antigo Sistema Colonial, 1777–1808 · c. 1979
-288. Pierre Bourdieu — A Distinção · c. 1979
-289. Thomas Nagel — Mortal Questions · c. 1979
-290. Reinhart Koselleck — Futuro Passado · c. 1979
-291. V.S. Naipaul — Uma Curva no Rio · c. 1979
-292. Christopher Lasch — A Cultura do Narcisismo · c. 1979
-293. Richard Rorty — A Filosofia e o Espelho da Natureza · c. 1979
-294. Alvin Plantinga — Crença em Deus é Propriamente Básica? · c. 1981
-295. Hilary Putnam — Razão, Verdade e História · c. 1981
-296. V.S. Naipaul — Entre os Fiéis · c. 1981
-297. Mancur Olson — Ascensão e Declínio das Nações · c. 1982
-298. Paul Ricoeur — Tempo e Narrativa (vol. I) · c. 1983
-299. P.F. Strawson — Ceticismo e Naturalismo · c. 1985
-300. Primo Levi — Os Afogados e os Sobreviventes · c. 1986
-301. Robert Conquest — Colheita de Dor · c. 1986
-302. Ronald Dworkin — O Império do Direito · c. 1986
-303. José Guilherme Merquior — O Marxismo Ocidental · c. 1986
-304. Thomas Nagel — A Visão a Partir de Lugar Nenhum · c. 1986
-305. Paul Kennedy — Ascensão e Queda das Grandes Potências · c. 1987
-306. Eric Hobsbawm — Era dos Impérios · c. 1987
-307. João Paulo II (Karol Wojtyła) — Mulieris Dignitatem · c. 1988
-308. Pierre Bourdieu — O Poder Simbólico · c. 1989
-309. Richard Rorty — Contingência, Ironia e Solidariedade · c. 1989
-310. José Guilherme Merquior — O Liberalismo: Antigo e Moderno · c. 1991
-311. Mia Couto — Terra Sonâmbula · c. 1992
-312. Eric Hobsbawm — Era dos Extremos · c. 1994
-313. Christopher Lasch — A Revolta das Elites · c. 1994
-314. Roger Scruton — Understanding Music · c. 1997
-315. João Paulo II (Karol Wojtyła) — Fides et Ratio · c. 1998
-316. John Lewis Gaddis — The Cold War: A New History · c. 2005
-317. Odd Arne Westad — The Global Cold War · c. 2005
-318. Joseph Ratzinger (Bento XVI) — Fé e Razão (discurso de Regensburg) · c. 2006
-319. Alex Ross — O Resto É Ruído · c. 2007
-320. Seymour Drescher — Abolição: Uma História da Escravidão e do Antiescravismo · c. 2009
-321. Robert N. Bellah — Religion in Human Evolution · c. 2011
-322. Mario Vargas Llosa — A Civilização do Espetáculo · c. 2012
+20. Miguel Ángel Asturias — O Senhor Presidente · c. 1946
+21. Max Horkheimer e Theodor Adorno — Dialética do Esclarecimento · c. 1947
+22. Michael Oakeshott — Racionalismo em Política · c. 1947
+23. Dorothy Sayers — As Ferramentas Perdidas do Aprendizado · c. 1947
+24. Documentos da Guerra Fria — Doutrina Truman · c. 1947
+25. Simone Weil — A Gravidade e a Graça · c. 1947
+26. Primo Levi — É Isto um Homem? · c. 1947
+27. George Kennan — As Fontes da Conduta Soviética (artigo X) · c. 1947
+28. J.R.R. Tolkien — Sobre Histórias de Fadas · c. 1947
+29. Tennessee Williams — Um Bonde Chamado Desejo · c. 1947
+30. Richard Weaver — Ideas Have Consequences · c. 1948
+31. Ernst Robert Curtius — Literatura Europeia e Idade Média Latina · c. 1948
+32. Hans Morgenthau — A Política entre as Nações · c. 1948
+33. Josef Pieper — Lazer, a Base da Cultura · c. 1948
+34. Claude Shannon — Uma Teoria Matemática da Comunicação · c. 1948
+35. Ernesto Sabato — O Túnel · c. 1948
+36. Simone de Beauvoir — O Segundo Sexo · c. 1949
+37. Gilbert Ryle — O Conceito de Mente · c. 1949
+38. Maria Montessori — A Mente Absorvente · c. 1949
+39. Simone Weil — O Enraizamento · c. 1949
+40. Fernand Braudel — O Mediterrâneo e o Mundo Mediterrânico na Época de Filipe II · c. 1949
+41. Ludwig von Mises — Ação Humana · c. 1949
+42. George Orwell — 1984 · c. 1949
+43. Theodor Adorno — Filosofia da Nova Música · c. 1949
+44. Claude Lévi-Strauss — As Estruturas Elementares do Parentesco · c. 1949
+45. Érico Veríssimo — O Tempo e o Vento (O Continente) · c. 1949
+46. Arthur Miller — A Morte do Caixeiro-Viajante · c. 1949
+47. Alan Turing — "Computing Machinery and Intelligence" (artigo) · c. 1950
+48. Octavio Paz — O Labirinto da Solidão · c. 1950
+49. Yves Congar — Verdadeira e Falsa Reforma na Igreja · c. 1950
+50. E.H. Gombrich — A História da Arte · c. 1950
+51. Documentos da Guerra Fria — NSC-68 · c. 1950
+52. Norbert Wiener — O Uso Humano de Seres Humanos · c. 1950
+53. Aimé Césaire — Discurso sobre o Colonialismo · c. 1950
+54. Ray Bradbury — Crônicas Marcianas · c. 1950
+55. Isaac Asimov — Eu, Robô · c. 1950
+56. C.S. Lewis — As Crônicas de Nárnia · c. 1950
+57. Eugène Ionesco — A Cantora Careca e Rinocerontes · c. 1950
+58. Eric Hoffer — O Verdadeiro Crente · c. 1951
+59. H. Richard Niebuhr — Cristo e Cultura · c. 1951
+60. Maurice Duverger — Os Partidos Políticos · c. 1951
+61. George Kennan — Diplomacia Americana · c. 1951
+62. Hannah Arendt — As Origens do Totalitarismo · c. 1951
+63. W.V.O. Quine — Dois Dogmas do Empirismo · c. 1951
+64. Paul Tillich — Teologia Sistemática · c. 1951
+65. J.D. Salinger — O Apanhador no Campo de Centeio · c. 1951
+66. Isaac Asimov — Fundação · c. 1951
+67. Jacob L. Talmon — As Origens da Democracia Totalitária · c. 1952
+68. Eric Voegelin — A Nova Ciência da Política · c. 1952
+69. Paul Tillich — A Coragem de Ser · c. 1952
+70. Ralph Ellison — Homem Invisível · c. 1952
+71. Leo Strauss — Perseguição e a Arte de Escrever · c. 1952
+72. Flannery O'Connor — Sangue Sábio · c. 1952
+73. Frantz Fanon — Pele Negra, Máscaras Brancas · c. 1952
+74. Ernest Hemingway — O Velho e o Mar · c. 1952
+75. Amos Tutuola — O Bebedor de Vinho de Palma · c. 1952
+76. Czesław Miłosz — A Mente Cativa · c. 1953
+77. Cecília Meireles — Romanceiro da Inconfidência · c. 1953
+78. Russell Kirk — The Conservative Mind · c. 1953
+79. Leo Strauss — Direito Natural e História · c. 1953
+80. Robert Nisbet — The Quest for Community · c. 1953
+81. Miguel Reale — Filosofia do Direito · c. 1953
+82. Samuel Beckett — Esperando Godot · c. 1953
+83. B.F. Skinner — Ciência e Comportamento Humano · c. 1953
+84. Ray Bradbury — Fahrenheit 451 · c. 1953
+85. Arthur C. Clarke — O Fim da Infância · c. 1953
+86. B.H. Liddell Hart — Estratégia (A Abordagem Indireta) · c. 1954
+87. Hannah Arendt — "A Crise na Educação" (em Entre o Passado e o Futuro) · c. 1954
+88. Abraham Maslow — Motivação e Personalidade · c. 1954
+89. J.R.R. Tolkien — O Senhor dos Anéis · c. 1954
+90. Cornélio Penna — A Menina Morta · c. 1954
+91. Cheikh Anta Diop — Nações Negras e Cultura · c. 1954
+92. William Golding — O Senhor das Moscas · c. 1954
+93. Richard Matheson — Eu Sou a Lenda · c. 1954
+94. J.L. Austin — Quando Dizer é Fazer · c. 1955
+95. Juan Rulfo — Pedro Páramo · c. 1955
+96. Erwin Panofsky — Significado nas Artes Visuais · c. 1955
+97. Raymond Aron — O Ópio dos Intelectuais · c. 1955
+98. Pierre Teilhard de Chardin — O Fenômeno Humano · c. 1955
+99. Claude Lévi-Strauss — Tristes Trópicos · c. 1955
+100. Ariano Suassuna — Auto da Compadecida · c. 1955
+101. João Cabral de Melo Neto — Morte e Vida Severina · c. 1955
+102. Abraham Joshua Heschel — Deus em Busca do Homem · c. 1955
+103. Vladimir Nabokov — Lolita · c. 1955
+104. Guimarães Rosa — Grande Sertão: Veredas · c. 1956
+105. Naguib Mahfouz — Trilogia do Cairo (Palácio do Desejo, ao menos o primeiro volume) · c. 1956
+106. Elie Wiesel — A Noite · c. 1956
+107. Leon Festinger — Quando a Profecia Falha · c. 1956
+108. Albert Camus — A Queda · c. 1956
+109. Yukio Mishima — O Pavilhão Dourado · c. 1956
+110. James Baldwin — O Quarto de Giovanni · c. 1956
+111. Ernst Kantorowicz — Os Dois Corpos do Rei · c. 1957
+112. João Camilo de Oliveira Torres — A Democracia Coroada · c. 1957
+113. Boris Pasternak — Doutor Jivago · c. 1957
+114. Anthony Downs — Uma Teoria Econômica da Democracia · c. 1957
+115. Samuel Beckett — Fim de Partida · c. 1957
+116. Pierre Teilhard de Chardin — O Meio Divino · c. 1957
+117. Anísio Teixeira — Educação não É Privilégio · c. 1957
+118. Leon Festinger — Teoria da Dissonância Cognitiva · c. 1957
+119. G.E.M. Anscombe — Intenção · c. 1957
+120. Alberto Guerreiro Ramos — Introdução Crítica à Sociologia Brasileira · c. 1957
+121. Jack Kerouac — Pé na Estrada · c. 1957
+122. Italo Calvino — O Barão nas Árvores · c. 1957
+123. Ayn Rand — A Revolta de Atlas · c. 1957
+124. Werner Heisenberg — Física e Filosofia · c. 1958
+125. Chinua Achebe — O Mundo se Despedaça · c. 1958
+126. Raymundo Faoro — Os Donos do Poder: Formação do Patronato Político Brasileiro · c. 1958
+127. Niels Bohr — Física Atômica e Conhecimento Humano · c. 1958
+128. Fernand Braudel — História e Ciências Sociais: a Longa Duração · c. 1958
+129. Hannah Arendt — A Condição Humana · c. 1958
+130. Wilhelm Röpke — Além da Oferta e da Demanda · c. 1958
+131. Isaiah Berlin — Dois Conceitos de Liberdade · c. 1958
+132. Michael Polanyi — O Conhecimento Pessoal · c. 1958
+133. G.E.M. Anscombe — A Filosofia Moral Moderna · c. 1958
+134. Alberto Guerreiro Ramos — A Redução Sociológica · c. 1958
+135. Jorge Amado — Gabriela, Cravo e Canela · c. 1958
+136. Celso Furtado — Formação Econômica do Brasil · c. 1959
+137. Plínio Corrêa de Oliveira — Revolução e Contra-Revolução · c. 1959
+138. Mário Ferreira dos Santos — Filosofia Concreta · c. 1959
+139. Clóvis Moura — Rebeliões da Senzala · c. 1959
+140. Eric Voegelin — Science, Politics and Gnosticism · c. 1959
+141. Lúcio Cardoso — Crônica da Casa Assassinada · c. 1959
+142. P.F. Strawson — Indivíduos · c. 1959
+143. Antonio Candido — Formação da Literatura Brasileira · c. 1959
+144. Cheikh Anta Diop — A Unidade Cultural da África Negra · c. 1959
+145. Reinhart Koselleck — Crítica e Crise · c. 1959
+146. Günter Grass — O Tambor · c. 1959
+147. William S. Burroughs — Almoço Nu · c. 1959
+148. Shirley Jackson — A Assombração da Casa da Colina · c. 1959
+149. Hans-Georg Gadamer — Verdade e Método (seleções) · c. 1960
+150. John Courtney Murray — Nós Sustentamos Estas Verdades · c. 1960
+151. Vassili Grossman — Vida e Destino · c. 1960
+152. Eugene Wigner — "A Irrazoável Eficácia da Matemática nas Ciências Naturais" · c. 1960
+153. Thomas Schelling — A Estratégia do Conflito · c. 1960
+154. W.V.O. Quine — Palavra e Objeto · c. 1960
+155. Philippe Ariès — História Social da Criança e da Família · c. 1960
+156. João Paulo II (Karol Wojtyła) — Amor e Responsabilidade · c. 1960
+157. Harper Lee — O Sol É para Todos · c. 1960
+158. Carolina Maria de Jesus — Quarto de Despejo · c. 1960
+159. Mario Benedetti — A Trégua · c. 1960
+160. H.L.A. Hart — O Conceito de Direito · c. 1961
+161. E.H. Carr — Que É História? · c. 1961
+162. Walker Percy — O Cinéfilo · c. 1961
+163. Carl Rogers — Tornar-se Pessoa · c. 1961
+164. Documentos da Guerra Fria — Discurso de Despedida de Eisenhower · c. 1961
+165. Hans Urs von Balthasar — Glória · c. 1961
+166. Frantz Fanon — Os Condenados da Terra · c. 1961
+167. Emmanuel Levinas — Totalidade e Infinito · c. 1961
+168. Robert Heinlein — Um Estranho numa Terra Estranha · c. 1961
+169. Stanisław Lem — Solaris · c. 1961
+170. Joseph Heller — Ardil-22 · c. 1961
+171. Thomas Kuhn — A Estrutura das Revoluções Científicas · c. 1962
+172. Milton Friedman — Capitalismo e Liberdade · c. 1962
+173. Rachel Carson — Primavera Silenciosa · c. 1962
+174. Fernando Henrique Cardoso — Capitalismo e Escravidão no Brasil Meridional · c. 1962
+175. Michael Oakeshott — A Voz do Aprendizado Liberal · c. 1962
+176. Raymond Aron — Paz e Guerra entre as Nações · c. 1962
+177. Claude Lévi-Strauss — O Pensamento Selvagem · c. 1962
+178. Eric Hobsbawm — Era das Revoluções · c. 1962
+179. Abraham Joshua Heschel — Os Profetas · c. 1962
+180. Aleksandr Soljenítsin — Um Dia na Vida de Ivan Deníssovitch · c. 1962
+181. Anthony Burgess — Laranja Mecânica · c. 1962
+182. Ken Kesey — Um Estranho no Ninho · c. 1962
+183. Carlos Fuentes — A Morte de Artemio Cruz · c. 1962
+184. Kōbō Abe — A Mulher na Areia · c. 1962
+185. Alejo Carpentier — O Século das Luzes · c. 1962
+186. Alexander Schmemann — Pela Vida do Mundo · c. 1963
+187. Gabriel Almond e Sidney Verba — A Cultura Cívica · c. 1963
+188. Hannah Arendt — Eichmann em Jerusalém · c. 1963
+189. James Baldwin — Da Próxima Vez, o Fogo · c. 1963
+190. Hans Urs von Balthasar — Somente o Amor é Digno de Fé · c. 1963
+191. E.P. Thompson — A Formação da Classe Operária Inglesa · c. 1963
+192. Julio Cortázar — O Jogo da Amarelinha · c. 1963
+193. Sylvia Plath — A Redoma de Vidro · c. 1963
+194. John le Carré — O Espião que Saiu do Frio · c. 1963
+195. John Fowles — O Colecionador · c. 1963
+196. Herbert Marcuse — O Homem Unidimensional · c. 1964
+197. Jürgen Moltmann — Teologia da Esperança · c. 1964
+198. Sayyid Qutb — Marcos no Caminho (Milestones) · c. 1964
+199. Lon L. Fuller — A Moralidade do Direito · c. 1964
+200. Clarice Lispector — A Paixão Segundo G.H. · c. 1964
+201. Léopold Sédar Senghor — Négritude e Humanismo (Liberté I) · c. 1964
+202. Concílio Vaticano II — Lumen Gentium · c. 1964
+203. Kenzaburō Ōe — Uma Questão Pessoal · c. 1964
+204. Paulo Mercadante — A Consciência Conservadora no Brasil · c. 1965
+205. Richard Feynman — O Caráter da Lei Física · c. 1965
+206. Kwame Nkrumah — Neocolonialismo, o Último Estágio do Imperialismo · c. 1965
+207. Mancur Olson — A Lógica da Ação Coletiva · c. 1965
+208. Florestan Fernandes — A Integração do Negro na Sociedade de Classes · c. 1965
+209. Concílio Vaticano II — Dei Verbum · c. 1965
+210. Concílio Vaticano II — Gaudium et Spes · c. 1965
+211. Concílio Vaticano II — Dignitatis Humanae · c. 1965
+212. Frank Herbert — Duna · c. 1965
+213. John Williams — Stoner · c. 1965
+214. Mary Douglas — Pureza e Perigo · c. 1966
+215. Barrington Moore Jr. — As Origens Sociais da Ditadura e da Democracia · c. 1966
+216. David Brion Davis — O Problema da Escravidão na Cultura Ocidental · c. 1966
+217. Philip Rieff — O Triunfo do Terapêutico · c. 1966
+218. Shūsaku Endō — Silêncio · c. 1966
+219. Susan Sontag — Contra a Interpretação · c. 1966
+220. Robert Nisbet — The Sociological Tradition · c. 1966
+221. João Cabral de Melo Neto — A Educação pela Pedra · c. 1966
+222. Michael Polanyi — A Dimensão Tácita · c. 1966
+223. Jacques Lacan — Escritos · c. 1966
+224. Peter L. Berger e Thomas Luckmann — A Construção Social da Realidade · c. 1966
+225. Amílcar Cabral — A Arma da Teoria · c. 1966
+226. Michel Foucault — As Palavras e as Coisas · c. 1966
+227. Truman Capote — A Sangue Frio · c. 1966
+228. Tayeb Salih — Tempo de Migração para o Norte · c. 1966
+229. Daniel Keyes — Flores para Algernon · c. 1966
+230. Thomas Pynchon — O Leilão do Lote 49 · c. 1966
+231. Gabriel García Márquez — Cem Anos de Solidão · c. 1967
+232. Antônio Paim — História das Ideias Filosóficas no Brasil · c. 1967
+233. E.D. Hirsch Jr. — Validade na Interpretação · c. 1967
+234. Thomas Skidmore — Brasil: de Getúlio a Castelo · c. 1967
+235. Peter Berger — O Dossel Sagrado · c. 1967
+236. Jacques Derrida — A Escritura e a Diferença · c. 1967
+237. Jacques Derrida — Gramatologia · c. 1967
+238. Robert N. Bellah — Civil Religion in America · c. 1967
+239. Paulo Freire — Pedagogia do Oprimido · c. 1968
+240. Michel Villey — A Formação do Pensamento Jurídico Moderno · c. 1968
+241. Samuel Huntington — A Ordem Política nas Sociedades em Mudança · c. 1968
+242. Erik Erikson — Identidade: Juventude e Crise · c. 1968
+243. Julius Nyerere — Ujamaa: Ensaios sobre o Socialismo · c. 1968
+244. Miguel Reale — Teoria Tridimensional do Direito · c. 1968
+245. Aleksandr Soljenítsin — Pavilhão de Cancerosos · c. 1968
+246. Joseph Ratzinger (Bento XVI) — Introdução ao Cristianismo · c. 1968
+247. Robert Conquest — O Grande Terror · c. 1968
+248. Philip K. Dick — Androides Sonham com Ovelhas Elétricas? · c. 1968
+249. Arthur C. Clarke — 2001: Uma Odisseia no Espaço · c. 1968
+250. Ursula K. Le Guin — O Feiticeiro de Terramar · c. 1968
+251. Fernando Henrique Cardoso e Enzo Faletto — Dependência e Desenvolvimento na América Latina · c. 1969
+252. John Bowlby — Apego e Perda (vol. I: Apego) · c. 1969
+253. John Mbiti — Religiões e Filosofia Africanas · c. 1969
+254. Tulio Halperín Donghi — História da América Latina · c. 1969
+255. Flannery O'Connor — Mistério e Costumes · c. 1969
+256. Mario Vargas Llosa — Conversa na Catedral · c. 1969
+257. Paul Ricoeur — O Conflito das Interpretações · c. 1969
+258. Mario Puzo — O Poderoso Chefão · c. 1969
+259. Kurt Vonnegut — Matadouro 5 · c. 1969
+260. Ursula K. Le Guin — A Mão Esquerda da Escuridão · c. 1969
+261. Saul Kripke — Naming and Necessity · c. 1970
+262. Louis Althusser — Ideologia e Aparelhos Ideológicos de Estado · c. 1970
+263. Imre Lakatos — "Falsificação e a Metodologia dos Programas de Pesquisa Científica" · c. 1970
+264. Iris Murdoch — A Soberania do Bem · c. 1970
+265. Theodor Adorno — Teoria Estética (seleções) · c. 1970
+266. Antonio Candido — Dialética da Malandragem · c. 1970
+267. Albert O. Hirschman — Saída, Voz e Lealdade · c. 1970
+268. John Rawls — Uma Teoria da Justiça · c. 1971
+269. Eduardo Galeano — As Veias Abertas da América Latina · c. 1971
+270. Gustavo Gutiérrez — Teologia da Libertação: Perspectivas · c. 1971
+271. Robert Dahl — Poliarquia: Participação e Oposição · c. 1971
+272. D.W. Winnicott — O Brincar e a Realidade · c. 1971
+273. B.F. Skinner — Além da Liberdade e da Dignidade · c. 1971
+274. Ariano Suassuna — A Pedra do Reino · c. 1971
+275. Flannery O'Connor — Contos Completos · c. 1971
+276. E.P. Thompson — A Economia Moral da Multidão Inglesa no Século XVIII · c. 1971
+277. Jaroslav Pelikan — A Tradição Cristã: Uma História do Desenvolvimento da Doutrina (vol. I e II) · c. 1971
+278. William Peter Blatty — O Exorcista · c. 1971
+279. John Howard Yoder — A Política de Jesus · c. 1972
+280. John Berger — Modos de Ver · c. 1972
+281. Josef Pieper — As Virtudes Fundamentais · c. 1972
+282. Emmanuel Levinas — Humanismo do Outro Homem · c. 1972
+283. René Girard — A Violência e o Sagrado · c. 1972
+284. Italo Calvino — As Cidades Invisíveis · c. 1972
+285. Arkadi e Boris Strugatski — Piquenique na Estrada · c. 1972
+286. Clifford Geertz — A Interpretação das Culturas · c. 1973
+287. E.F. Schumacher — O Negócio É Ser Pequeno · c. 1973
+288. Theodosius Dobzhansky — "Nada em Biologia Faz Sentido Exceto à Luz da Evolução" · c. 1973
+289. Jacques Lacan — Seminários · c. 1973
+290. Aleksandr Soljenítsin — Arquipélago Gulag · c. 1973
+291. Lygia Fagundes Telles — As Meninas · c. 1973
+292. J.G. Ballard — Crash · c. 1973
+293. Robert Nozick — Anarquia, Estado e Utopia · c. 1974
+294. Pierre Clastres — A Sociedade contra o Estado · c. 1974
+295. Immanuel Wallerstein — O Sistema-Mundo Moderno, vol. I · c. 1974
+296. Eugene D. Genovese — Roll, Jordan, Roll: O Mundo que os Escravos Criaram · c. 1974
+297. Edmar Bacha — "O Rei da Belíndia: Uma Fábula para Tecnocratas" · c. 1974
+298. Stanley Milgram — Obediência à Autoridade · c. 1974
+299. Russell Kirk — The Roots of American Order · c. 1974
+300. Amílcar Cabral — Unidade e Luta · c. 1974
+301. Aleksandr Soljenítsin — Viver sem Mentira · c. 1974
+302. Perry Anderson — Linhagens do Estado Absolutista · c. 1974
+303. Perry Anderson — Passagens da Antiguidade ao Feudalismo · c. 1974
+304. Alvin Plantinga — Deus, Liberdade e o Mal · c. 1974
+305. Heinrich Böll — A Honra Perdida de Katharina Blum · c. 1974
+306. Paul Feyerabend — Contra o Método · c. 1975
+307. Eric Hobsbawm — Era do Capital · c. 1975
+308. Florestan Fernandes — A Revolução Burguesa no Brasil · c. 1975
+309. Michel Foucault — Vigiar e Punir · c. 1975
+310. J.G.A. Pocock — O Momento Maquiavélico · c. 1975
+311. Hilary Putnam — O Significado de "Significado" · c. 1975
+312. Wole Soyinka — A Morte e o Cavaleiro do Rei · c. 1975
+313. Raduan Nassar — Lavoura Arcaica · c. 1975
+314. Richard Dawkins — O Gene Egoísta · c. 1976
+315. Carlo Ginzburg — O Queijo e os Vermes · c. 1976
+316. Leszek Kołakowski — Principais Correntes do Marxismo · c. 1976
+317. Jean-François Revel — A Tentação Totalitária · c. 1976
+318. Carlos Rangel — Do Bom Selvagem ao Bom Revolucionário · c. 1976
+319. Karl Rahner — Curso Fundamental da Fé (seleções) · c. 1976
+320. Raymond Aron — Pensar a Guerra: Clausewitz · c. 1976
+321. Paulin Hountondji — African Philosophy: Myth and Reality · c. 1976
+322. Michel Foucault — A História da Sexualidade, vol. I · c. 1976
+323. Anne Rice — Entrevista com o Vampiro · c. 1976
+324. Roberto Schwarz — Ao Vencedor as Batatas · c. 1977
+325. Nicolás Gómez Dávila — Escólios a um Texto Implícito · c. 1977
+326. Wendell Berry — The Unsettling of America · c. 1977
+327. Michael Walzer — Guerras Justas e Injustas · c. 1977
+328. Hedley Bull — A Sociedade Anárquica · c. 1977
+329. J.R.R. Tolkien — O Silmarillion · c. 1977
+330. Philippe Ariès — O Homem Diante da Morte · c. 1977
+331. Ronald Dworkin — Levando os Direitos a Sério · c. 1977
+332. Albert O. Hirschman — As Paixões e os Interesses · c. 1977
+333. Seymour Drescher — Econocide · c. 1977
+334. Stephen King — O Iluminado · c. 1977
+335. Clarice Lispector — A Hora da Estrela · c. 1977
+336. Edward Said — Orientalismo · c. 1978
+337. E.O. Wilson — Sobre a Natureza Humana · c. 1978
+338. Georges Duby — As Três Ordens ou o Imaginário do Feudalismo · c. 1978
+339. Václav Havel — O Poder dos Sem Poder · c. 1978
+340. Octavio Paz — O Ogro Filantrópico · c. 1978
+341. Abdias Nascimento — O Genocídio do Negro Brasileiro · c. 1978
+342. Steve Biko — Escrevo o que Eu Quero · c. 1978
+343. Isaiah Berlin — Pensadores Russos · c. 1978
+344. René Girard — Coisas Ocultas Desde a Fundação do Mundo · c. 1978
+345. Aleksandr Soljenítsin — Discurso de Harvard · c. 1978
+346. Quentin Skinner — As Fundações do Pensamento Político Moderno · c. 1978
+347. Hans Jonas — O Princípio Responsabilidade · c. 1979
+348. Roberto DaMatta — Carnavais, Malandros e Heróis · c. 1979
+349. Joseph Raz — A Autoridade do Direito · c. 1979
+350. Richard Swinburne — A Existência de Deus · c. 1979
+351. Wanderley Guilherme dos Santos — Cidadania e Justiça: A Política Social na Ordem Brasileira · c. 1979
+352. Kenneth Waltz — Teoria da Política Internacional · c. 1979
+353. Fernando Novais — Portugal e Brasil na Crise do Antigo Sistema Colonial, 1777–1808 · c. 1979
+354. Pierre Bourdieu — A Distinção · c. 1979
+355. Thomas Nagel — Mortal Questions · c. 1979
+356. Reinhart Koselleck — Futuro Passado · c. 1979
+357. V.S. Naipaul — Uma Curva no Rio · c. 1979
+358. Christopher Lasch — A Cultura do Narcisismo · c. 1979
+359. Richard Rorty — A Filosofia e o Espelho da Natureza · c. 1979
+360. Douglas Adams — O Guia do Mochileiro das Galáxias · c. 1979
+361. Alvin Plantinga — Crença em Deus é Propriamente Básica? · c. 1981
+362. Hilary Putnam — Razão, Verdade e História · c. 1981
+363. V.S. Naipaul — Entre os Fiéis · c. 1981
+364. Mancur Olson — Ascensão e Declínio das Nações · c. 1982
+365. Paul Ricoeur — Tempo e Narrativa (vol. I) · c. 1983
+366. P.F. Strawson — Ceticismo e Naturalismo · c. 1985
+367. Primo Levi — Os Afogados e os Sobreviventes · c. 1986
+368. Robert Conquest — Colheita de Dor · c. 1986
+369. Ronald Dworkin — O Império do Direito · c. 1986
+370. José Guilherme Merquior — O Marxismo Ocidental · c. 1986
+371. Thomas Nagel — A Visão a Partir de Lugar Nenhum · c. 1986
+372. Paul Kennedy — Ascensão e Queda das Grandes Potências · c. 1987
+373. Eric Hobsbawm — Era dos Impérios · c. 1987
+374. João Paulo II (Karol Wojtyła) — Mulieris Dignitatem · c. 1988
+375. Pierre Bourdieu — O Poder Simbólico · c. 1989
+376. Richard Rorty — Contingência, Ironia e Solidariedade · c. 1989
+377. José Guilherme Merquior — O Liberalismo: Antigo e Moderno · c. 1991
+378. Mia Couto — Terra Sonâmbula · c. 1992
+379. Eric Hobsbawm — Era dos Extremos · c. 1994
+380. Christopher Lasch — A Revolta das Elites · c. 1994
+381. Roger Scruton — Understanding Music · c. 1997
+382. João Paulo II (Karol Wojtyła) — Fides et Ratio · c. 1998
+383. John Lewis Gaddis — The Cold War: A New History · c. 2005
+384. Odd Arne Westad — The Global Cold War · c. 2005
+385. Joseph Ratzinger (Bento XVI) — Fé e Razão (discurso de Regensburg) · c. 2006
+386. Alex Ross — O Resto É Ruído · c. 2007
+387. Seymour Drescher — Abolição: Uma História da Escravidão e do Antiescravismo · c. 2009
+388. Robert N. Bellah — Religion in Human Evolution · c. 2011
+389. Mario Vargas Llosa — A Civilização do Espetáculo · c. 2012
 ## Etapa 21: 1980 em diante
 1. Giovanni Sartori — Partidos e Sistemas Partidários · c. 1976
 2. Juan Linz — A Queda dos Regimes Democráticos · c. 1978
@@ -1477,146 +1680,186 @@
 11. Kwasi Wiredu — Philosophy and an African Culture · c. 1980
 12. José Murilo de Carvalho — A Construção da Ordem · c. 1980
 13. Thomas Sowell — Conhecimento e Decisões · c. 1980
-14. Julian Simon — The Ultimate Resource · c. 1981
-15. Arthur Danto — A Transfiguração do Lugar-Comum · c. 1981
-16. Nise da Silveira — Imagens do Inconsciente · c. 1981
-17. Jürgen Habermas — Teoria da Ação Comunicativa · c. 1981
-18. Alasdair MacIntyre — Depois da Virtude · c. 1981
-19. Orlando Patterson — Escravidão e Morte Social · c. 1982
-20. J.L. Mackie — O Milagre do Teísmo · c. 1982
-21. Ernst Mayr — The Growth of Biological Thought · c. 1982
-22. Simon Schwartzman — Bases do Autoritarismo Brasileiro · c. 1982
-23. Bernard Lewis — A Questão do Orientalismo · c. 1982
-24. Paul Johnson — Tempos Modernos · c. 1983
-25. Harold J. Berman — Direito e Revolução (vol. I) · c. 1983
-26. Ian Hacking — Representar e Intervir · c. 1983
-27. Código de Direito Canônico (1983) — seleção · c. 1983
-28. Derek Parfit — Razões e Pessoas · c. 1984
-29. Joseph Ratzinger / Congregação para a Doutrina da Fé — Libertatis Nuntius · c. 1984
-30. Milan Kundera — A Insustentável Leveza do Ser · c. 1984
-31. Lélia Gonzalez — Racismo e Sexismo na Cultura Brasileira · c. 1984
-32. Neil Postman — Divertindo-nos até a Morte · c. 1985
-33. Oliver Sacks — O Homem que Confundiu sua Mulher com um Chapéu · c. 1985
-34. Jürgen Habermas — O Discurso Filosófico da Modernidade · c. 1985
-35. Bernard Williams — Ética e os Limites da Filosofia · c. 1985
-36. Arquidiocese de São Paulo — Brasil: Nunca Mais · c. 1985
-37. Ngũgĩ wa Thiong'o — Descolonizando a Mente: A Política da Língua na Literatura Africana · c. 1986
-38. Joseph Ratzinger / Congregação para a Doutrina da Fé — Libertatis Conscientia · c. 1986
-39. Hernando de Soto — O Outro Caminho · c. 1986
-40. Evaldo Cabral de Mello — Rubro Veio · c. 1986
-41. Allan Bloom — O Declínio da Cultura Ocidental (The Closing of the American Mind) · c. 1987
-42. Toni Morrison — Amada · c. 1987
-43. Thomas Sowell — Conflito de Visões · c. 1987
-44. Giovanni Sartori — A Teoria da Democracia Revisitada · c. 1987
-45. E.D. Hirsch Jr. — Cultural Literacy · c. 1987
-46. Tércio Sampaio Ferraz Jr. — Introdução ao Estudo do Direito · c. 1988
-47. Sérgio Abranches — "Presidencialismo de Coalizão: O Dilema Institucional Brasileiro" · c. 1988
-48. Celso Lafer — A Reconstrução dos Direitos Humanos: Um Diálogo com o Pensamento de Hannah Arendt · c. 1988
-49. Ricardo Bielschowsky — Pensamento Econômico Brasileiro: O Ciclo Ideológico do Desenvolvimentismo · c. 1988
-50. V.Y. Mudimbe — A Invenção da África · c. 1988
-51. Kazuo Ishiguro — Os Resquícios do Dia · c. 1989
-52. Roger Penrose — A Mente Nova do Rei · c. 1989
-53. Evaldo Cabral de Mello — O Nome e o Sangue · c. 1989
-54. Charles Taylor — As Fontes do Self · c. 1989
-55. Kimberlé Crenshaw — Desmarginalizando a Interseção de Raça e Sexo · c. 1989
-56. Judith Butler — Problemas de Gênero · c. 1990
-57. Charles Tilly — Coerção, Capital e Estados Europeus · c. 1990
-58. Douglass North — Instituições, Mudança Institucional e Desempenho Econômico · c. 1990
-59. Elinor Ostrom — Governando os Comuns · c. 1990
-60. Richard Pipes — A Revolução Russa · c. 1990
-61. Alasdair MacIntyre — Três Versões Rivais da Investigação Moral · c. 1990
-62. Juan Linz — As Falhas do Presidencialismo · c. 1990
-63. Bruno Latour — Jamais Fomos Modernos · c. 1991
-64. Adam Przeworski — Democracia e Mercado · c. 1991
-65. Kimberlé Crenshaw — Mapeando as Margens · c. 1991
-66. Daniel Dennett — Consciência Explicada · c. 1991
-67. José Saramago — O Evangelho Segundo Jesus Cristo · c. 1991
-68. Catecismo da Igreja Católica · c. 1992
-69. John Searle — A Redescoberta da Mente · c. 1992
-70. Francis Fukuyama — O Fim da História e o Último Homem · c. 1992
-71. Rémi Brague — Eccentric Culture (Europe, la voie romaine) · c. 1992
-72. Kwame Anthony Appiah — Na Casa de Meu Pai · c. 1992
-73. George Ayittey — Africa Betrayed · c. 1992
-74. John T. Noonan Jr. — Uma Igreja que Pode e Não Pode Mudar (A Church That Can and Cannot Change) · c. 1993
-75. Lilia Moritz Schwarcz — O Espetáculo das Raças: Cientistas, Instituições e Questão Racial no Brasil, 1870–1930 · c. 1993
-76. John Keegan — Uma História da Guerra · c. 1993
-77. Bernard Williams — Vergonha e Necessidade · c. 1993
-78. Roberto Campos — A Lanterna na Popa · c. 1994
-79. Henry Kissinger — Diplomacia · c. 1994
-80. Antonio Damasio — O Erro de Descartes · c. 1994
-81. Nelson Mandela — Longa Caminhada até a Liberdade · c. 1994
-82. Boris Fausto — História do Brasil · c. 1994
-83. Pierre Manent — O Homem Enquanto Ser Político · c. 1994
-84. Thomas Sowell — Conquistas e Culturas · c. 1994
-85. Thomas Sowell — Raça e Cultura · c. 1994
-86. Darcy Ribeiro — O Povo Brasileiro · c. 1995
-87. Daniel Dennett — A Perigosa Ideia de Darwin · c. 1995
-88. François Furet — O Passado de uma Ilusão · c. 1995
-89. Olavo de Carvalho — O Jardim das Aflições · c. 1995
-90. José Saramago — Ensaio sobre a Cegueira · c. 1995
-91. David Chalmers — Enfrentando o Problema da Consciência · c. 1995
-92. Samuel Huntington — O Choque das Civilizações · c. 1996
-93. Rodney Stark — O Crescimento do Cristianismo · c. 1996
-94. Plinio Apuleyo Mendoza, Carlos Alberto Montaner e Álvaro Vargas Llosa — Manual do Perfeito Idiota Latino-Americano · c. 1996
-95. N.T. Wright — Jesus e a Vitória de Deus · c. 1996
-96. Richard B. Hays — A Visão Moral do Novo Testamento · c. 1996
-97. Ilya Prigogine — O Fim das Certezas · c. 1996
-98. Roger Scruton — A Filosofia do Pós-Modernismo · c. 1996
-99. Kwasi Wiredu — Cultural Universals and Particulars · c. 1996
-100. Olavo de Carvalho — O Imbecil Coletivo · c. 1996
-101. David Chalmers — A Mente Consciente · c. 1996
-102. Jared Diamond — Armas, Germes e Aço · c. 1997
-103. Alain Besançon — A Infelicidade do Século: Sobre o Comunismo, o Nazismo e a Unicidade da Shoah · c. 1998
-104. James C. Scott — Seeing Like a State · c. 1998
-105. Amartya Sen — Desenvolvimento como Liberdade · c. 1999
-106. José Osvaldo de Meira Penna — Em Berço Esplêndido: Ensaios de Psicologia Coletiva Brasileira · c. 1999
-107. Arend Lijphart — Modelos de Democracia · c. 1999
-108. J.M. Coetzee — Desonra · c. 1999
-109. Rémi Brague — A Sabedoria do Mundo · c. 1999
-110. Jacques Barzun — Do Amanhecer à Decadência: 500 Anos de Vida Cultural no Ocidente · c. 2000
-111. Marilena Chauí — Brasil: Mito Fundador e Sociedade Autoritária · c. 2000
-112. Luiz Felipe de Alencastro — O Trato dos Viventes: Formação do Brasil no Atlântico Sul · c. 2000
-113. Hernando de Soto — O Mistério do Capital · c. 2000
-114. John Mearsheimer — A Tragédia da Política das Grandes Potências · c. 2001
-115. Stephen Kotkin — Armageddon Averted: The Soviet Collapse, 1970–2000 · c. 2001
-116. José Murilo de Carvalho — Cidadania no Brasil: O Longo Caminho · c. 2001
-117. Philippa Foot — Bondade Natural · c. 2001
-118. Philip Bobbitt — A Muralha e a Serpente · c. 2002
-119. Steven Pinker — Tábula Rasa · c. 2002
-120. Joseph Nye — Soft Power: Os Meios para o Sucesso na Política Mundial · c. 2004
-121. Tony Judt — Pós-Guerra: Uma História da Europa desde 1945 · c. 2005
-122. Robert Irwin — Conhecimento Perigoso · c. 2006
-123. Kwame Anthony Appiah — Cosmopolitismo · c. 2006
-124. E.D. Hirsch Jr. — The Knowledge Deficit · c. 2006
-125. Pierre Manent — Uma Visão Política de Roma · c. 2007
-126. Charles Taylor — A Era Secular · c. 2007
-127. Eduardo Viveiros de Castro — Metafísicas Canibais · c. 2009
-128. Roger Scruton — Beleza · c. 2009
-129. Dambisa Moyo — Ajuda Mortal · c. 2009
-130. Davi Kopenawa e Bruce Albert — A Queda do Céu: Palavras de um Xamã Yanomami · c. 2010
-131. Steven Pinker — Os Anjos Bons da Nossa Natureza · c. 2011
-132. David Graeber — Dívida: Os Primeiros 5.000 Anos · c. 2011
-133. Enrique Krauze — Redentores: Ideias e Poder na América Latina · c. 2011
-134. Daniel Kahneman — Rápido e Devagar: Duas Formas de Pensar · c. 2011
-135. Francis Fukuyama — As Origens da Ordem Política · c. 2011
-136. Brad S. Gregory — The Unintended Reformation · c. 2012
-137. Daron Acemoglu e James A. Robinson — Por que as Nações Fracassam · c. 2012
-138. Thomas Nagel — Mente e Cosmos · c. 2012
-139. Jonathan Haidt — A Mente Moralista · c. 2012
-140. Thomas Piketty — O Capital no Século XXI · c. 2013
-141. Achille Mbembe — Crítica da Razão Negra · c. 2013
-142. Larry Siedentop — Inventando o Indivíduo · c. 2014
-143. João Pereira Coutinho — As Ideias Conservadoras Explicadas a Revolucionários e Reacionários · c. 2014
-144. Comissão Nacional da Verdade — Relatório Final da Comissão Nacional da Verdade · c. 2014
-145. Nick Bostrom — Superinteligência · c. 2014
-146. Lilia Moritz Schwarcz e Heloisa Murgel Starling — Brasil: Uma Biografia · c. 2015
-147. Graham Allison — Destinados à Guerra · c. 2017
-148. Rubens Ricupero — A Diplomacia na Construção do Brasil, 1750–2016 · c. 2017
-149. Roger Scruton — Conservatism: An Invitation to the Great Tradition · c. 2017
-150. James C. Scott — Against the Grain · c. 2017
-151. Steven Levitsky e Daniel Ziblatt — Como as Democracias Morrem · c. 2018
-152. Adam Tooze — Crashed: How a Decade of Financial Crises Changed the World · c. 2018
-153. Ailton Krenak — Ideias para Adiar o Fim do Mundo · c. 2019
-154. Stuart Russell — Compatível com Humanos · c. 2019
-155. Joseph Henrich — The WEIRDest People in the World · c. 2020
-156. Lélia Gonzalez — Por um Feminismo Afro-Latino-Americano · c. 2020
+14. Umberto Eco — O Nome da Rosa · c. 1980
+15. Julian Simon — The Ultimate Resource · c. 1981
+16. Arthur Danto — A Transfiguração do Lugar-Comum · c. 1981
+17. Nise da Silveira — Imagens do Inconsciente · c. 1981
+18. Jürgen Habermas — Teoria da Ação Comunicativa · c. 1981
+19. Alasdair MacIntyre — Depois da Virtude · c. 1981
+20. Salman Rushdie — Os Filhos da Meia-Noite · c. 1981
+21. Orlando Patterson — Escravidão e Morte Social · c. 1982
+22. J.L. Mackie — O Milagre do Teísmo · c. 1982
+23. Ernst Mayr — The Growth of Biological Thought · c. 1982
+24. Simon Schwartzman — Bases do Autoritarismo Brasileiro · c. 1982
+25. Bernard Lewis — A Questão do Orientalismo · c. 1982
+26. Isabel Allende — A Casa dos Espíritos · c. 1982
+27. Alice Walker — A Cor Púrpura · c. 1982
+28. Paul Johnson — Tempos Modernos · c. 1983
+29. Harold J. Berman — Direito e Revolução (vol. I) · c. 1983
+30. Ian Hacking — Representar e Intervir · c. 1983
+31. Código de Direito Canônico (1983) — seleção · c. 1983
+32. Thomas Bernhard — O Náufrago · c. 1983
+33. Derek Parfit — Razões e Pessoas · c. 1984
+34. Joseph Ratzinger / Congregação para a Doutrina da Fé — Libertatis Nuntius · c. 1984
+35. Milan Kundera — A Insustentável Leveza do Ser · c. 1984
+36. Lélia Gonzalez — Racismo e Sexismo na Cultura Brasileira · c. 1984
+37. William Gibson — Neuromancer · c. 1984
+38. Marguerite Duras — O Amante · c. 1984
+39. José Saramago — O Ano da Morte de Ricardo Reis · c. 1984
+40. Neil Postman — Divertindo-nos até a Morte · c. 1985
+41. Oliver Sacks — O Homem que Confundiu sua Mulher com um Chapéu · c. 1985
+42. Jürgen Habermas — O Discurso Filosófico da Modernidade · c. 1985
+43. Bernard Williams — Ética e os Limites da Filosofia · c. 1985
+44. Arquidiocese de São Paulo — Brasil: Nunca Mais · c. 1985
+45. Patrick Süskind — O Perfume · c. 1985
+46. Cormac McCarthy — Meridiano de Sangue · c. 1985
+47. Gabriel García Márquez — O Amor nos Tempos do Cólera · c. 1985
+48. Orson Scott Card — O Jogo do Exterminador · c. 1985
+49. Don DeLillo — Ruído Branco · c. 1985
+50. Ngũgĩ wa Thiong'o — Descolonizando a Mente: A Política da Língua na Literatura Africana · c. 1986
+51. Joseph Ratzinger / Congregação para a Doutrina da Fé — Libertatis Conscientia · c. 1986
+52. Hernando de Soto — O Outro Caminho · c. 1986
+53. Evaldo Cabral de Mello — Rubro Veio · c. 1986
+54. Allan Bloom — O Declínio da Cultura Ocidental (The Closing of the American Mind) · c. 1987
+55. Toni Morrison — Amada · c. 1987
+56. Thomas Sowell — Conflito de Visões · c. 1987
+57. Giovanni Sartori — A Teoria da Democracia Revisitada · c. 1987
+58. E.D. Hirsch Jr. — Cultural Literacy · c. 1987
+59. Haruki Murakami — Norwegian Wood · c. 1987
+60. Tércio Sampaio Ferraz Jr. — Introdução ao Estudo do Direito · c. 1988
+61. Sérgio Abranches — "Presidencialismo de Coalizão: O Dilema Institucional Brasileiro" · c. 1988
+62. Celso Lafer — A Reconstrução dos Direitos Humanos: Um Diálogo com o Pensamento de Hannah Arendt · c. 1988
+63. Ricardo Bielschowsky — Pensamento Econômico Brasileiro: O Ciclo Ideológico do Desenvolvimentismo · c. 1988
+64. V.Y. Mudimbe — A Invenção da África · c. 1988
+65. Paulo Coelho — O Alquimista · c. 1988
+66. Thomas Harris — O Silêncio dos Inocentes · c. 1988
+67. Kazuo Ishiguro — Os Resquícios do Dia · c. 1989
+68. Roger Penrose — A Mente Nova do Rei · c. 1989
+69. Evaldo Cabral de Mello — O Nome e o Sangue · c. 1989
+70. Charles Taylor — As Fontes do Self · c. 1989
+71. Kimberlé Crenshaw — Desmarginalizando a Interseção de Raça e Sexo · c. 1989
+72. Laura Esquivel — Como Água para Chocolate · c. 1989
+73. Judith Butler — Problemas de Gênero · c. 1990
+74. Charles Tilly — Coerção, Capital e Estados Europeus · c. 1990
+75. Douglass North — Instituições, Mudança Institucional e Desempenho Econômico · c. 1990
+76. Elinor Ostrom — Governando os Comuns · c. 1990
+77. Richard Pipes — A Revolução Russa · c. 1990
+78. Alasdair MacIntyre — Três Versões Rivais da Investigação Moral · c. 1990
+79. Juan Linz — As Falhas do Presidencialismo · c. 1990
+80. Bruno Latour — Jamais Fomos Modernos · c. 1991
+81. Adam Przeworski — Democracia e Mercado · c. 1991
+82. Kimberlé Crenshaw — Mapeando as Margens · c. 1991
+83. Daniel Dennett — Consciência Explicada · c. 1991
+84. José Saramago — O Evangelho Segundo Jesus Cristo · c. 1991
+85. Bret Easton Ellis — Psicopata Americano · c. 1991
+86. Catecismo da Igreja Católica · c. 1992
+87. John Searle — A Redescoberta da Mente · c. 1992
+88. Francis Fukuyama — O Fim da História e o Último Homem · c. 1992
+89. Rémi Brague — Eccentric Culture (Europe, la voie romaine) · c. 1992
+90. Kwame Anthony Appiah — Na Casa de Meu Pai · c. 1992
+91. George Ayittey — Africa Betrayed · c. 1992
+92. Donna Tartt — A História Secreta · c. 1992
+93. Neal Stephenson — Snow Crash · c. 1992
+94. John T. Noonan Jr. — Uma Igreja que Pode e Não Pode Mudar (A Church That Can and Cannot Change) · c. 1993
+95. Lilia Moritz Schwarcz — O Espetáculo das Raças: Cientistas, Instituições e Questão Racial no Brasil, 1870–1930 · c. 1993
+96. John Keegan — Uma História da Guerra · c. 1993
+97. Bernard Williams — Vergonha e Necessidade · c. 1993
+98. Roberto Campos — A Lanterna na Popa · c. 1994
+99. Henry Kissinger — Diplomacia · c. 1994
+100. Antonio Damasio — O Erro de Descartes · c. 1994
+101. Nelson Mandela — Longa Caminhada até a Liberdade · c. 1994
+102. Boris Fausto — História do Brasil · c. 1994
+103. Pierre Manent — O Homem Enquanto Ser Político · c. 1994
+104. Thomas Sowell — Conquistas e Culturas · c. 1994
+105. Thomas Sowell — Raça e Cultura · c. 1994
+106. Darcy Ribeiro — O Povo Brasileiro · c. 1995
+107. Daniel Dennett — A Perigosa Ideia de Darwin · c. 1995
+108. François Furet — O Passado de uma Ilusão · c. 1995
+109. Olavo de Carvalho — O Jardim das Aflições · c. 1995
+110. José Saramago — Ensaio sobre a Cegueira · c. 1995
+111. David Chalmers — Enfrentando o Problema da Consciência · c. 1995
+112. W.G. Sebald — Os Anéis de Saturno · c. 1995
+113. Samuel Huntington — O Choque das Civilizações · c. 1996
+114. Rodney Stark — O Crescimento do Cristianismo · c. 1996
+115. Plinio Apuleyo Mendoza, Carlos Alberto Montaner e Álvaro Vargas Llosa — Manual do Perfeito Idiota Latino-Americano · c. 1996
+116. N.T. Wright — Jesus e a Vitória de Deus · c. 1996
+117. Richard B. Hays — A Visão Moral do Novo Testamento · c. 1996
+118. Ilya Prigogine — O Fim das Certezas · c. 1996
+119. Roger Scruton — A Filosofia do Pós-Modernismo · c. 1996
+120. Kwasi Wiredu — Cultural Universals and Particulars · c. 1996
+121. Olavo de Carvalho — O Imbecil Coletivo · c. 1996
+122. David Chalmers — A Mente Consciente · c. 1996
+123. Chuck Palahniuk — Clube da Luta · c. 1996
+124. David Foster Wallace — Graça Infinita · c. 1996
+125. Jared Diamond — Armas, Germes e Aço · c. 1997
+126. Arundhati Roy — O Deus das Pequenas Coisas · c. 1997
+127. Alain Besançon — A Infelicidade do Século: Sobre o Comunismo, o Nazismo e a Unicidade da Shoah · c. 1998
+128. James C. Scott — Seeing Like a State · c. 1998
+129. Orhan Pamuk — Meu Nome É Vermelho · c. 1998
+130. Roberto Bolaño — Os Detetives Selvagens · c. 1998
+131. Michel Houellebecq — Partículas Elementares · c. 1998
+132. Amartya Sen — Desenvolvimento como Liberdade · c. 1999
+133. José Osvaldo de Meira Penna — Em Berço Esplêndido: Ensaios de Psicologia Coletiva Brasileira · c. 1999
+134. Arend Lijphart — Modelos de Democracia · c. 1999
+135. J.M. Coetzee — Desonra · c. 1999
+136. Rémi Brague — A Sabedoria do Mundo · c. 1999
+137. Jacques Barzun — Do Amanhecer à Decadência: 500 Anos de Vida Cultural no Ocidente · c. 2000
+138. Marilena Chauí — Brasil: Mito Fundador e Sociedade Autoritária · c. 2000
+139. Luiz Felipe de Alencastro — O Trato dos Viventes: Formação do Brasil no Atlântico Sul · c. 2000
+140. Hernando de Soto — O Mistério do Capital · c. 2000
+141. Milton Hatoum — Dois Irmãos · c. 2000
+142. Zadie Smith — Dentes Brancos · c. 2000
+143. John Mearsheimer — A Tragédia da Política das Grandes Potências · c. 2001
+144. Stephen Kotkin — Armageddon Averted: The Soviet Collapse, 1970–2000 · c. 2001
+145. José Murilo de Carvalho — Cidadania no Brasil: O Longo Caminho · c. 2001
+146. Philippa Foot — Bondade Natural · c. 2001
+147. Yann Martel — As Aventuras de Pi · c. 2001
+148. Ian McEwan — Reparação · c. 2001
+149. Philip Bobbitt — A Muralha e a Serpente · c. 2002
+150. Steven Pinker — Tábula Rasa · c. 2002
+151. Haruki Murakami — Kafka à Beira-Mar · c. 2002
+152. Khaled Hosseini — O Caçador de Pipas · c. 2003
+153. Joseph Nye — Soft Power: Os Meios para o Sucesso na Política Mundial · c. 2004
+154. Tony Judt — Pós-Guerra: Uma História da Europa desde 1945 · c. 2005
+155. Kazuo Ishiguro — Não Me Abandone Jamais · c. 2005
+156. Robert Irwin — Conhecimento Perigoso · c. 2006
+157. Kwame Anthony Appiah — Cosmopolitismo · c. 2006
+158. E.D. Hirsch Jr. — The Knowledge Deficit · c. 2006
+159. Cormac McCarthy — A Estrada · c. 2006
+160. Chimamanda Ngozi Adichie — Meio Sol Amarelo · c. 2006
+161. Pierre Manent — Uma Visão Política de Roma · c. 2007
+162. Charles Taylor — A Era Secular · c. 2007
+163. Liu Cixin — O Problema dos Três Corpos · c. 2008
+164. Eduardo Viveiros de Castro — Metafísicas Canibais · c. 2009
+165. Roger Scruton — Beleza · c. 2009
+166. Dambisa Moyo — Ajuda Mortal · c. 2009
+167. Davi Kopenawa e Bruce Albert — A Queda do Céu: Palavras de um Xamã Yanomami · c. 2010
+168. Steven Pinker — Os Anjos Bons da Nossa Natureza · c. 2011
+169. David Graeber — Dívida: Os Primeiros 5.000 Anos · c. 2011
+170. Enrique Krauze — Redentores: Ideias e Poder na América Latina · c. 2011
+171. Daniel Kahneman — Rápido e Devagar: Duas Formas de Pensar · c. 2011
+172. Francis Fukuyama — As Origens da Ordem Política · c. 2011
+173. Elena Ferrante — A Amiga Genial · c. 2011
+174. Brad S. Gregory — The Unintended Reformation · c. 2012
+175. Daron Acemoglu e James A. Robinson — Por que as Nações Fracassam · c. 2012
+176. Thomas Nagel — Mente e Cosmos · c. 2012
+177. Jonathan Haidt — A Mente Moralista · c. 2012
+178. Thomas Piketty — O Capital no Século XXI · c. 2013
+179. Achille Mbembe — Crítica da Razão Negra · c. 2013
+180. Chimamanda Ngozi Adichie — Americanah · c. 2013
+181. Larry Siedentop — Inventando o Indivíduo · c. 2014
+182. João Pereira Coutinho — As Ideias Conservadoras Explicadas a Revolucionários e Reacionários · c. 2014
+183. Comissão Nacional da Verdade — Relatório Final da Comissão Nacional da Verdade · c. 2014
+184. Nick Bostrom — Superinteligência · c. 2014
+185. Lilia Moritz Schwarcz e Heloisa Murgel Starling — Brasil: Uma Biografia · c. 2015
+186. Graham Allison — Destinados à Guerra · c. 2017
+187. Rubens Ricupero — A Diplomacia na Construção do Brasil, 1750–2016 · c. 2017
+188. Roger Scruton — Conservatism: An Invitation to the Great Tradition · c. 2017
+189. James C. Scott — Against the Grain · c. 2017
+190. Steven Levitsky e Daniel Ziblatt — Como as Democracias Morrem · c. 2018
+191. Adam Tooze — Crashed: How a Decade of Financial Crises Changed the World · c. 2018
+192. Ailton Krenak — Ideias para Adiar o Fim do Mundo · c. 2019
+193. Stuart Russell — Compatível com Humanos · c. 2019
+194. Itamar Vieira Junior — Torto Arado · c. 2019
+195. Joseph Henrich — The WEIRDest People in the World · c. 2020
+196. Lélia Gonzalez — Por um Feminismo Afro-Latino-Americano · c. 2020
