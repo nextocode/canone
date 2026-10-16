@@ -1,0 +1,4 @@
+   *.antes*
+   *.bak
+   copias/
+   __pycache__/
