@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cânon</title>
+<style>
+:root{--bg:#f6f4ee;--panel:#ebe8df;--ink:#22201c;--muted:#6d675d;--line:#d6d1c5;--accent:#2f5d62;--on:#dde8e6;--hl:#f7e9a8;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#17191b;--panel:#1f2224;--ink:#e6e3dc;--muted:#9a958a;--line:#33383b;--accent:#7fb5b0;--on:#27393a;--hl:#4b4217;color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;display:grid;grid-template-rows:auto 1fr}
+header{display:flex;gap:.6rem;align-items:center;padding:.6rem .9rem;border-bottom:1px solid var(--line);flex-wrap:wrap}
+header h1{font:600 1.05rem Georgia,serif;margin:0 .5rem 0 0}
+input[type=search]{flex:1;min-width:160px;max-width:420px;padding:.45rem .7rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:inherit;font:inherit}
+button,.btn{font:inherit;padding:.38rem .7rem;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:inherit;cursor:pointer;text-decoration:none;display:inline-block}
+button:hover,.btn:hover{border-color:var(--accent)}
+button:disabled{opacity:.45;cursor:default}
+button:focus-visible,.btn:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#menu{display:none}
+.wrap{display:grid;grid-template-columns:minmax(260px,360px) 1fr;min-height:0}
+aside{background:var(--panel);border-right:1px solid var(--line);overflow:auto;padding:.6rem .5rem 3rem}
+.tools{display:flex;gap:.4rem;flex-wrap:wrap;margin:0 .3rem .6rem}
+.tools button{font-size:.82rem;padding:.25rem .5rem}
+ul.t{list-style:none;margin:0;padding:0}
+ul.t ul{list-style:none;margin:0;padding-left:1rem;display:none;border-left:1px solid var(--line);margin-left:.55rem}
+li.open>ul{display:block}
+.row{display:flex;align-items:center;gap:.25rem;border-radius:5px;padding:1px 2px}
+.row.on{background:var(--on)}
+.row a{flex:1;color:inherit;text-decoration:none;padding:.15rem .2rem;overflow-wrap:anywhere}
+.row a:hover{color:var(--accent)}
+.car{width:1.2rem;padding:0;border:0;background:none;color:var(--muted)}
+.car.none{visibility:hidden}
+li.open>.row>.car{transform:rotate(90deg)}
+.res{padding:.45rem .5rem;border-bottom:1px solid var(--line);cursor:pointer}
+.res:hover{background:var(--on)}
+.res small{display:block;color:var(--muted)}
+main{overflow:auto;padding:1.2rem 1.6rem 4rem}
+.doc{max-width:74ch;margin:0 auto}
+.crumb{color:var(--muted);font-size:.85rem;margin-bottom:.4rem}
+.crumb a{color:inherit}
+.acts{display:flex;gap:.4rem;flex-wrap:wrap;margin:.6rem 0 1.2rem;padding-bottom:.9rem;border-bottom:1px solid var(--line)}
+.body{font:17px/1.65 Georgia,"Times New Roman",serif}
+.body h1,.body h2,.body h3,.body h4,.body h5,.body h6{font-family:Georgia,serif;line-height:1.25;margin:1.6em 0 .5em}
+.body h1{font-size:1.7rem}.body h2{font-size:1.4rem}.body h3{font-size:1.2rem}.body h4,.body h5,.body h6{font-size:1.05rem}
+.body p{margin:.6em 0}
+.body ul,.body ol{padding-left:1.3rem}
+.body pre{background:var(--panel);padding:.7rem;overflow:auto;border-radius:6px;font-size:.85rem}
+.body code{font-family:ui-monospace,Consolas,monospace;font-size:.88em}
+.body blockquote{margin:.8em 0;padding-left:1rem;border-left:3px solid var(--line);color:var(--muted)}
+.body table{border-collapse:collapse;display:block;overflow:auto}
+.body td,.body th{border:1px solid var(--line);padding:.3rem .6rem}
+.body a{color:var(--accent)}
+.flash{animation:fl 2.2s ease-out}
+@keyframes fl{from{background:var(--hl)}to{background:transparent}}
+.muted{color:var(--muted)}
+.err{padding:1rem;border:1px solid #b44;border-radius:6px}
+@media (max-width:760px){
+ #menu{display:inline-block}
+ .wrap{grid-template-columns:1fr;position:relative}
+ aside{position:absolute;inset:0 15% 0 0;z-index:5;display:none;box-shadow:4px 0 16px #0004}
+ body.side aside{display:block}
+ main{padding:1rem}
+}
+@media (prefers-reduced-motion:reduce){.flash{animation:none}}
+</style>
+</head>
+<body>
+<header>
+ <button id="menu" aria-label="Abrir índice">Índice</button>
+ <h1 id="ttl">Cânon</h1>
+ <input id="q" type="search" placeholder="Buscar (atalho: /)" autocomplete="off">
+ <a class="btn" id="full" href="canone-limpo.md" download>Baixar tudo (.md)</a>
+ <span id="extras"></span>
+</header>
+<div class="wrap">
+ <aside>
+  <div class="tools">
+   <button id="exp">Expandir tudo</button>
+   <button id="col">Recolher tudo</button>
+   <button id="dsel" disabled>Baixar selecionados</button>
+   <button id="clr" disabled>Limpar seleção</button>
+  </div>
+  <div id="side"><p class="muted" style="padding:.5rem">Carregando…</p></div>
+ </aside>
+ <main id="main"><div class="doc"><p class="muted">Carregando…</p></div></main>
+</div>
+<script>
+const FILE='canone-limpo.md';
+const EXTRA=[['bastidores.md','Bastidores'],['bastidores-2.md','Bastidores 2'],['indice-compacto.txt','Índice compacto']];
+let L=[],S=[],owner=[],norm=[],cur=-1,sel=new Set(),lis=[],pending=null;
+const $=id=>document.getElementById(id);
+const strip=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const slug=t=>strip(t).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)||'s';
+
+function parse(text){
+ L=text.replace(/^\uFEFF/,'').split(/\r?\n/);S=[];
+ let fence=false,seen={},stack=[];
+ L.forEach((l,i)=>{
+  if(/^\s{0,3}(```|~~~)/.test(l)){fence=!fence;return}
+  if(fence)return;
+  const m=/^(#{1,6})\s+(.+?)\s*$/.exec(l);if(!m)return;
+  const lv=m[1].length;
+  while(stack.length&&S[stack[stack.length-1]].level>=lv)S[stack.pop()].end=i;
+  let id=slug(m[2]);seen[id]=(seen[id]||0)+1;if(seen[id]>1)id+='-'+seen[id];
+  S.push({level:lv,title:m[2],line:i,end:L.length,id,parent:stack.length?stack[stack.length-1]:-1,kids:[]});
+  const k=S.length-1;if(S[k].parent>=0)S[S[k].parent].kids.push(k);
+  stack.push(k);
+ });
+ owner=new Int32Array(L.length).fill(-1);
+ S.forEach((s,k)=>{for(let i=s.line;i<s.end;i++)owner[i]=k});
+}
+
+function build(){
+ lis=[];
+ const mk=k=>{
+  const s=S[k],li=document.createElement('li');lis[k]=li;
+  const r=document.createElement('div');r.className='row';
+  r.innerHTML='<button class="car'+(s.kids.length?'':' none')+'" aria-label="Expandir">▸</button><input type="checkbox" aria-label="Selecionar"><a href="#'+s.id+'">'+esc(s.title)+'</a>';
+  r.firstChild.onclick=()=>li.classList.toggle('open');
+  r.children[1].onchange=e=>{e.target.checked?sel.add(k):sel.delete(k);selUI()};
+  li.appendChild(r);
+  if(s.kids.length){const u=document.createElement('ul');s.kids.forEach(c=>u.appendChild(mk(c)));li.appendChild(u)}
+  return li;
+ };
+ const ul=document.createElement('ul');ul.className='t';
+ S.forEach((s,k)=>{if(s.parent<0)ul.appendChild(mk(k))});
+ const root=ul.firstChild;if(root&&S[0].kids.length)root.classList.add('open');
+ $('side').replaceChildren(ul);
+}
+
+function selUI(){$('dsel').disabled=$('clr').disabled=!sel.size;$('dsel').textContent='Baixar selecionados'+(sel.size?' ('+sel.size+')':'')}
+const slice=k=>L.slice(S[k].line,S[k].end).join('\n').trimEnd()+'\n';
+
+function inl(s){
+ s=esc(s).replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*)\*/g,'$1<em>$2</em>');
+ return s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+}
+function md(a,b){
+ let h='',i=a,p=[];
+ const flush=()=>{if(p.length){h+='<p data-l="'+p[0][0]+'">'+p.map(x=>inl(x[1])).join('<br>')+'</p>';p=[]}};
+ while(i<b){
+  const l=L[i];
+  if(/^\s{0,3}(```|~~~)/.test(l)){flush();let c=[],j=i+1;while(j<b&&!/^\s{0,3}(```|~~~)/.test(L[j]))c.push(L[j++]);h+='<pre data-l="'+i+'"><code>'+esc(c.join('\n'))+'</code></pre>';i=j+1;continue}
+  let m=/^(#{1,6})\s+(.+?)\s*$/.exec(l);
+  if(m){flush();h+='<h'+m[1].length+' data-l="'+i+'">'+inl(m[2])+'</h'+m[1].length+'>';i++;continue}
+  if(/^\s*([-*_])(\s*\1){2,}\s*$/.test(l)){flush();h+='<hr>';i++;continue}
+  if(/^\s*>/.test(l)){flush();let c=[],j=i;while(j<b&&/^\s*>/.test(L[j]))c.push(L[j++].replace(/^\s*>\s?/,''));h+='<blockquote data-l="'+i+'">'+c.map(inl).join('<br>')+'</blockquote>';i=j;continue}
+  if(/\|/.test(l)&&i+1<b&&/^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(L[i+1])){
+   flush();const cells=r=>r.trim().replace(/^\||\|$/g,'').split('|').map(x=>inl(x.trim()));
+   h+='<table data-l="'+i+'"><thead><tr>'+cells(l).map(x=>'<th>'+x+'</th>').join('')+'</tr></thead><tbody>';
+   let j=i+2;while(j<b&&/\|/.test(L[j])){h+='<tr>'+cells(L[j]).map(x=>'<td>'+x+'</td>').join('')+'</tr>';j++}
+   h+='</tbody></table>';i=j;continue}
+  m=/^(\s*)([-*+]|\d+[.)])\s+(.*)$/.exec(l);
+  if(m){flush();const ord=/\d/.test(m[2]);let j=i,it='';
+   while(j<b&&(m=/^(\s*)([-*+]|\d+[.)])\s+(.*)$/.exec(L[j]))){it+='<li data-l="'+j+'" style="margin-left:'+Math.floor(m[1].length/2)*1.2+'rem">'+inl(m[3])+'</li>';j++}
+   h+=(ord?'<ol':'<ul')+' data-l="'+i+'">'+it+(ord?'</ol>':'</ul>');i=j;continue}
+  if(!l.trim()){flush();i++;continue}
+  p.push([i,l]);i++;
+ }
+ flush();return h;
+}
+
+function open(k,line){
+ const s=S[k];cur=k;
+ document.querySelectorAll('.row.on').forEach(e=>e.classList.remove('on'));
+ for(let a=k;a>=0;a=S[a].parent){if(a!==k||S[a].kids.length)lis[a].classList.add('open')}
+ lis[k].firstChild.classList.add('on');
+ const path=[];for(let a=S[k].parent;a>=0;a=S[a].parent)path.unshift(a);
+ const bc=path.map(a=>'<a href="#'+S[a].id+'">'+esc(S[a].title)+'</a>').join(' › ');
+ const cap=200000;let end=s.end,note='';
+ if(L.slice(s.line,s.end).join('\n').length>cap){let n=0;end=s.line;while(end<s.end&&n<cap)n+=L[end++].length+1;note='<p class="muted">Seção muito grande: mostrando o começo. Use os botões de download para o conteúdo completo ou abra uma subseção no índice.</p>'}
+ $('main').innerHTML='<div class="doc"><div class="crumb">'+bc+'</div><div class="acts"><button data-a="md">Baixar .md</button><button data-a="txt">Baixar .txt</button><button data-a="cp">Copiar texto</button><button data-a="ln">Copiar link</button></div><div class="body">'+md(s.line,end)+note+'</div></div>';
+ $('main').querySelector('.acts').onclick=e=>{
+  const a=e.target.dataset.a;if(!a)return;
+  if(a==='md'||a==='txt')dl(slice(k),s.id+'.'+a);
+  if(a==='cp')navigator.clipboard&&navigator.clipboard.writeText(slice(k)).then(()=>e.target.textContent='Copiado');
+  if(a==='ln')navigator.clipboard&&navigator.clipboard.writeText(location.href.split('#')[0]+'#'+s.id).then(()=>e.target.textContent='Link copiado');
+ };
+ let t=null;
+ if(line!=null){let best=null;$('main').querySelectorAll('[data-l]').forEach(e=>{if(+e.dataset.l<=line)best=e});t=best}
+ if(t){t.scrollIntoView({block:'center'});t.classList.add('flash')}else{$('main').scrollTop=0}
+ lis[k].firstChild.scrollIntoView({block:'nearest'});
+ document.body.classList.remove('side');
+ document.title=s.title+' — Cânon';
+}
+
+function dl(text,name){
+ const u=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));
+ const a=document.createElement('a');a.href=u;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);
+}
+
+function search(v){
+ const side=$('side');
+ const toks=strip(v).split(/\s+/).filter(Boolean);
+ if(v.trim().length<2){build2();return}
+ if(!norm.length)norm=L.map(strip);
+ const out=[];
+ for(let i=0;i<L.length&&out.length<300;i++){
+  if(!norm[i])continue;
+  const o=owner[i],ctx=o>=0?S[o].tn||(S[o].tn=strip(S[o].title)):'';
+  const hay=norm[i]+' '+ctx;
+  if(toks.every(t=>hay.includes(t))&&toks.some(t=>norm[i].includes(t)))out.push(i);
+ }
+ side.innerHTML=out.length?'':'<p class="muted" style="padding:.5rem">Nada encontrado.</p>';
+ out.forEach(i=>{
+  const d=document.createElement('div');d.className='res';
+  const o=owner[i],t=L[i].replace(/^#+\s*/,'').trim();
+  d.innerHTML='<div>'+esc(t.length>150?t.slice(0,150)+'…':t)+'</div><small>'+(o>=0?esc(S[o].title):'')+' · linha '+(i+1)+'</small>';
+  d.onclick=()=>{const k=o>=0?o:0;history.replaceState(null,'','#'+S[k].id);open(k,i)};
+  side.appendChild(d);
+ });
+ if(out.length>=300)side.insertAdjacentHTML('beforeend','<p class="muted" style="padding:.5rem">Mostrando os 300 primeiros. Refine a busca.</p>');
+}
+function build2(){build();sel.forEach(k=>{lis[k].firstChild.children[1].checked=true});if(cur>=0)open(cur)}
+
+function route(){
+ const id=decodeURIComponent(location.hash.slice(1));
+ const k=S.findIndex(s=>s.id===id);
+ if(k>=0){if($('q').value.trim().length>=2&&!lis[k]){}open2(k)}else if(S.length){open2(0)}
+}
+function open2(k){if(!lis[k]){$('q').value='';build2()}open(k,pending);pending=null}
+
+$('q').addEventListener('input',e=>search(e.target.value));
+$('exp').onclick=()=>lis.forEach(l=>l&&l.classList.add('open'));
+$('col').onclick=()=>lis.forEach(l=>l&&l.classList.remove('open'));
+$('clr').onclick=()=>{sel.clear();document.querySelectorAll('.row input').forEach(c=>c.checked=false);selUI()};
+$('dsel').onclick=()=>{
+ const ks=[...sel].sort((a,b)=>S[a].line-S[b].line),keep=[];
+ ks.forEach(k=>{if(!keep.some(p=>S[k].line>=S[p].line&&S[k].line<S[p].end))keep.push(k)});
+ dl(keep.map(slice).join('\n'),'selecao-'+keep.length+'-secoes.md');
+};
+$('menu').onclick=()=>document.body.classList.toggle('side');
+document.addEventListener('keydown',e=>{if(e.key==='/'&&document.activeElement!==$('q')){e.preventDefault();$('q').focus()}});
+window.addEventListener('hashchange',route);
+
+fetch(FILE,{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.arrayBuffer()})
+.then(buf=>{
+ parse(new TextDecoder('utf-8').decode(buf));
+ if(!S.length)throw new Error('nenhum título (#) encontrado em '+FILE);
+ $('ttl').textContent=S[0].title;document.title=S[0].title;
+ $('full').title=(buf.byteLength/1024).toFixed(0)+' KB';
+ build();route();
+ EXTRA.forEach(([f,n])=>fetch(f,{method:'HEAD'}).then(r=>{if(r.ok)$('extras').insertAdjacentHTML('beforeend','<a class="btn" href="'+f+'" download>'+n+'</a> ')}).catch(()=>{}));
+}).catch(e=>{
+ $('main').innerHTML='<div class="doc"><div class="err">Não consegui carregar <b>'+FILE+'</b> ('+esc(String(e.message))+'). Se você abriu o arquivo com duplo clique, o navegador bloqueia a leitura: use um servidor (python -m http.server) ou o site publicado.</div></div>';
+ $('side').innerHTML='';
+});
+</script>
+</body>
+</html>
