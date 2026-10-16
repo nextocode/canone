@@ -1,0 +1,82 @@
+name: Atualizar e publicar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+env:
+  PYTHONUTF8: "1"
+  PYTHONDONTWRITEBYTECODE: "1"
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Renumerar
+        run: |
+          if [ -f renumerar.py ]; then python renumerar.py; else echo "renumerar.py não existe, pulei"; fi
+
+      - name: Gerar índice
+        run: |
+          if [ -f gerar_indice.py ]; then python gerar_indice.py; else echo "gerar_indice.py não existe, pulei"; fi
+
+      - name: Gerar bastidores
+        run: |
+          set +e
+          python gerar_bastidores.py
+          cod=$?
+          set -e
+          if [ "$cod" -eq 2 ]; then
+            echo "::warning::gerar_bastidores.py terminou com avisos (código 2)"
+          elif [ "$cod" -ne 0 ]; then
+            echo "::error::gerar_bastidores.py falhou (código $cod)"
+            exit "$cod"
+          fi
+
+      - name: Salvar arquivos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Atualização automática [skip ci]"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Montar o site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          for f in canone-limpo.md bastidores.md bastidores-2.md indice-compacto.txt; do
+            [ -f "$f" ] && cp "$f" _site/ || true
+          done
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
