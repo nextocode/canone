@@ -235,18 +235,24 @@ $('menu').onclick=()=>document.body.classList.toggle('side');
 document.addEventListener('keydown',e=>{if(e.key==='/'&&document.activeElement!==$('q')){e.preventDefault();$('q').focus()}});
 window.addEventListener('hashchange',route);
 
-fetch(FILE,{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.arrayBuffer()})
-.then(buf=>{
+function start(buf){
  parse(new TextDecoder('utf-8').decode(buf));
  if(!S.length)throw new Error('nenhum título (#) encontrado em '+FILE);
  $('ttl').textContent=S[0].title;document.title=S[0].title;
  $('full').title=(buf.byteLength/1024).toFixed(0)+' KB';
  build();route();
  EXTRA.forEach(([f,n])=>fetch(f,{method:'HEAD'}).then(r=>{if(r.ok)$('extras').insertAdjacentHTML('beforeend','<a class="btn" href="'+f+'" download>'+n+'</a> ')}).catch(()=>{}));
-}).catch(e=>{
- $('main').innerHTML='<div class="doc"><div class="err">Não consegui carregar <b>'+FILE+'</b> ('+esc(String(e.message))+'). Se você abriu o arquivo com duplo clique, o navegador bloqueia a leitura: use um servidor (python -m http.server) ou o site publicado.</div></div>';
+}
+function fail(e){
+ const local=location.protocol==='file:';
+ $('main').innerHTML='<div class="doc"><div class="err">'+(local
+  ?'Você abriu o arquivo direto do computador, e o navegador não deixa a página ler o <b>'+FILE+'</b> sozinha. Escolha o arquivo aqui para testar:'
+  :'Não consegui carregar <b>'+FILE+'</b> ('+esc(String(e.message))+'). Você pode escolher o arquivo manualmente:')
+  +'<p><input type="file" id="pick" accept=".md,.txt,text/markdown,text/plain"></p></div></div>';
  $('side').innerHTML='';
-});
+ $('pick').onchange=async ev=>{const f=ev.target.files[0];if(!f)return;try{start(await f.arrayBuffer())}catch(x){fail(x)}};
+}
+fetch(FILE,{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.arrayBuffer()}).then(start).catch(fail);
 </script>
 </body>
 </html>
