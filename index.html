@@ -25,6 +25,7 @@
  --sb1:#150b09;--sb2:#0a0605;
  color-scheme:dark}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{scroll-behavior:auto;scrollbar-width:thin;scrollbar-color:var(--gold) transparent}
 body{margin:0;background:var(--bg);color:var(--ink);font:19px/1.7 var(--body);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
@@ -40,14 +41,30 @@ a{color:inherit}
 
 #pg{position:fixed;top:0;left:0;height:3px;width:0;z-index:30;background:linear-gradient(90deg,var(--gold),var(--accent));box-shadow:0 0 10px var(--gold);pointer-events:none}
 
+/* ---------- Alternância entre apresentação e leitura ---------- */
+body[data-view=home] aside,body[data-view=home] #open,body[data-view=home] #bd{display:none!important}
+body[data-view=home] main{margin-left:0}
+body[data-view=home] #reader{display:none}
+body[data-view=read] #home,body[data-view=read] .hb{display:none}
+
+/* ---------- Barra superior da apresentação ---------- */
+.hb{position:fixed;top:0;left:0;right:0;z-index:25;display:flex;align-items:center;justify-content:space-between;padding:2.3rem 3rem;transition:padding .3s,background .3s,border-color .3s;border-bottom:1px solid transparent}
+.hb.sc{padding:.7rem 1.4rem;background:color-mix(in srgb,var(--bg) 88%,transparent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border-bottom-color:var(--line)}
+.hb .br{font:italic 600 1.9rem/1 var(--disp);color:var(--accent);text-decoration:none;letter-spacing:.02em}
+.hb .br::before{content:"◆";font-style:normal;font-size:.32em;margin-right:.6rem;vertical-align:.6em;opacity:.8}
+.hb .go{padding:.6rem 1.1rem;border:1px solid var(--gold);color:var(--accent);font:600 .66rem var(--cap);letter-spacing:.22em;text-transform:uppercase;text-decoration:none;transition:background .3s,color .3s}
+.hb .go:hover{background:var(--gold);color:var(--paper)}
+
 /* ---------- Lateral ---------- */
 aside{position:fixed;inset:0 auto 0 0;width:300px;z-index:20;background:linear-gradient(180deg,var(--sb1),var(--sb2));color:var(--sbink);display:flex;flex-direction:column;padding:1.4rem 0 1rem;transition:transform .3s cubic-bezier(.4,0,.2,1);box-shadow:inset -1px 0 0 #dcb96e40,8px 0 40px #0006}
 body.closed aside{transform:translateX(-100%)}
 main{position:relative;z-index:1;margin-left:300px;transition:margin .3s cubic-bezier(.4,0,.2,1)}
 body.closed main{margin-left:0}
 .sh{display:flex;align-items:center;justify-content:space-between;padding:0 1.2rem 1.1rem}
-.sh a{font:italic 600 1.7rem var(--disp);text-decoration:none;color:var(--sbgold);letter-spacing:.02em}
-.sh a::before{content:"◆";font-style:normal;font-size:.4em;margin-right:.7rem;vertical-align:.35em;opacity:.8}
+.sh a{display:block;text-decoration:none;color:var(--sbgold)}
+.sh a b{display:block;font:italic 600 2rem/1 var(--disp);letter-spacing:.02em}
+.sh a b::before{content:"◆";font-style:normal;font-size:.32em;margin-right:.65rem;vertical-align:.55em;opacity:.8}
+.sh a small{display:block;margin-top:.45rem;font:600 .54rem/1.4 var(--cap);letter-spacing:.24em;text-transform:uppercase;color:#efe3c8a0}
 .ib{width:2.2rem;height:2.2rem;border:1px solid #dcb96e55;border-radius:50%;background:none;color:var(--sbink);font-size:1rem;line-height:1;transition:background .2s,border-color .2s}
 .ib:hover{background:#dcb96e22;border-color:var(--sbgold)}
 #open{position:fixed;top:.9rem;left:.9rem;z-index:15;display:none;background:var(--paper);color:var(--accent);border-color:var(--gold);box-shadow:0 4px 16px #0003}
@@ -59,8 +76,14 @@ nav a{display:flex;gap:.8rem;align-items:baseline;text-decoration:none;padding:.
 nav a:hover{color:#fff;background:#ffffff0c}
 nav a b{font:600 .72rem var(--cap);letter-spacing:.06em;color:var(--sbgold);min-width:2.5rem;text-align:right}
 nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,transparent);color:#fff}
+nav a.done span::after{content:" ✓";color:var(--sbgold);font-size:.85em}
 .sf{padding:.9rem 1.2rem 0;border-top:1px solid #dcb96e30;font-size:.85rem;color:#efe3c8aa;display:grid;gap:.55rem}
 #prog{font-style:italic;font-size:.82rem}
+#lg{display:grid;gap:.35rem}
+#lt{font-size:.82rem}
+.bar{height:5px;background:var(--line);border-radius:99px;overflow:hidden}
+.sf .bar{background:#dcb96e30}
+.bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--gold),var(--accent));transition:width .4s}
 .sf details div{display:grid;gap:.4rem;margin-top:.55rem}
 .sf summary{cursor:pointer;font:600 .68rem var(--cap);letter-spacing:.22em;text-transform:uppercase;color:var(--sbgold)}
 .sf button,.sf a.d{padding:.45rem .7rem;border:1px solid #dcb96e40;border-radius:2px;background:none;color:var(--sbink);text-align:left;text-decoration:none;transition:background .2s,border-color .2s}
@@ -68,7 +91,7 @@ nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,t
 .sf button:disabled{opacity:.4;cursor:default}
 
 /* ---------- Capa ---------- */
-.cover{position:relative;min-height:100vh;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:5rem 2.5rem}
+.cover{position:relative;min-height:100vh;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:6rem 2.5rem 7rem}
 .cover::before{content:"";position:absolute;inset:1.2rem;border:1px solid var(--gold);opacity:.75;pointer-events:none}
 .cover::after{content:"";position:absolute;inset:1.65rem;border:1px solid var(--gold);opacity:.3;pointer-events:none}
 .cn{position:absolute;width:2.4rem;height:2.4rem;border:2px solid var(--gold);pointer-events:none}
@@ -80,37 +103,98 @@ nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,t
 .cover h1{font:600 clamp(3.2rem,10vw,7.2rem)/1.02 var(--disp);margin:0;letter-spacing:.015em;padding-bottom:.08em;max-width:14ch;text-wrap:balance;
  background:linear-gradient(180deg,var(--g1),var(--g2) 55%,var(--g3));-webkit-background-clip:text;background-clip:text;color:transparent;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .25s both}
 .cover .st{font:italic 500 clamp(1.3rem,3vw,1.95rem) var(--disp);margin:1rem 0 0;color:var(--soft);animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .4s both}
-.cover .orn{width:100%;max-width:17rem;margin:2.2rem auto;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .5s both}
-.cover .tt{font:500 .78rem/1.8 var(--cap);letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0;max-width:30rem;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .6s both}
-.begin{margin-top:2.8rem;display:inline-flex;align-items:center;gap:.8rem;padding:.9rem 1.9rem;border:1px solid var(--gold);color:var(--accent);font:600 .76rem var(--cap);letter-spacing:.26em;text-transform:uppercase;text-decoration:none;transition:background .3s,color .3s,box-shadow .3s;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .75s both}
-.begin::after{content:"↓";font-size:1rem;letter-spacing:0}
-.begin:hover{background:var(--gold);color:var(--paper);box-shadow:0 8px 28px #b0852f40}
+.cover .orn{width:100%;max-width:17rem;margin:2rem auto;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .5s both}
+.cover .lead{font:italic 500 clamp(1.25rem,2.6vw,1.6rem)/1.45 var(--disp);max-width:30rem;margin:0 0 1.3rem;color:var(--ink);text-wrap:balance;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .55s both}
+.cover .tt{font:500 .78rem/1.8 var(--cap);letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0;max-width:30rem;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .65s both}
+.acts{margin-top:2.6rem;display:flex;flex-wrap:wrap;justify-content:center;gap:.9rem;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .8s both}
+.begin{display:inline-flex;align-items:center;gap:.8rem;padding:.9rem 1.9rem;border:1px solid var(--gold);color:var(--accent);font:600 .76rem var(--cap);letter-spacing:.26em;text-transform:uppercase;text-decoration:none;transition:background .3s,color .3s,box-shadow .3s}
+.begin::after{content:"→";font-size:1rem;letter-spacing:0}
+.begin.ghost{border-color:var(--line);color:var(--soft)}
+.begin.ghost::after{content:"↓"}
+.begin.alt{background:var(--gold);color:var(--paper)}
+.begin:hover{background:var(--gold);color:var(--paper);border-color:var(--gold);box-shadow:0 8px 28px #b0852f40}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}}
+.cf{position:absolute;left:0;right:0;bottom:2.7rem;text-align:center;padding:0 2.4rem;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .95s both}
+.c1{margin:0;font:500 1rem/1.6 var(--disp);letter-spacing:.06em;color:var(--muted)}
+.c2{margin:.15rem 0 0;font:italic 500 .95rem/1.5 var(--disp);color:var(--muted)}
+.c1 b,.c2 b{font-style:italic;font-weight:600;color:var(--accent)}
+.cf .c1{font-size:.88rem}
+.cf .c2{font-size:.85rem}
 
-/* ---------- Coluna de leitura ---------- */
+/* ---------- Ornamentos e rótulos ---------- */
 .col{max-width:44rem;margin:0 auto;padding:0 1.6rem}
+.wrap{max-width:46rem;margin:0 auto;padding:0 1.6rem}
 .orn{display:flex;align-items:center;gap:1rem;color:var(--gold);margin:2.4rem auto;max-width:16rem}
 .orn::before,.orn::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,transparent,currentColor)}
 .orn::after{transform:scaleX(-1)}
 .orn i{position:relative;width:3.2rem;height:.6rem;
  background:radial-gradient(circle,currentColor 0 1.6px,transparent 2.2px) 0 50%/.6rem .6rem no-repeat,radial-gradient(circle,currentColor 0 1.6px,transparent 2.2px) 100% 50%/.6rem .6rem no-repeat}
 .orn i::after{content:"";position:absolute;left:50%;top:50%;width:.62rem;height:.62rem;background:currentColor;transform:translate(-50%,-50%) rotate(45deg)}
+.ey{font:600 .72rem var(--cap);letter-spacing:.55em;text-transform:uppercase;color:var(--accent);padding-left:.55em;text-align:center}
+.rv{opacity:0;transform:translateY(16px);transition:opacity 1s ease,transform 1s cubic-bezier(.2,.7,.2,1)}
+.rv.in{opacity:1;transform:none}
 
-.tocw{padding:6rem 0 2rem}
-.toch{font:600 .8rem var(--cap);letter-spacing:.38em;text-transform:uppercase;color:var(--accent);text-align:center;margin:0;padding-left:.38em}
-.toc{text-align:left;margin-top:2rem}
-.toc a{display:flex;gap:.8rem;align-items:baseline;text-decoration:none;padding:.45rem .4rem;font-size:1.1rem;transition:padding .25s,background .25s}
-.toc a:hover{padding-left:1rem;background:linear-gradient(90deg,var(--tint),transparent)}
-.toc a:hover span{color:var(--accent)}
-.toc b{font:600 .85rem var(--cap);letter-spacing:.06em;color:var(--accent);min-width:3.3rem}
-.toc i{flex:1;border-bottom:1px dotted var(--muted);opacity:.45;transform:translateY(-.3em)}
-.toc em{font-style:normal;color:var(--muted);font-size:.85rem;font-variant-numeric:tabular-nums}
+/* ---------- Apresentação (partes 1 a 9) ---------- */
+.sec{padding:6.5rem 0 .5rem;scroll-margin-top:4.5rem}
+.sec h2{font:600 clamp(1.8rem,4.4vw,2.6rem)/1.15 var(--disp);margin:.5rem 0 0;text-align:center;text-wrap:balance}
+.sec p{margin:1rem 0;font-size:1.13rem;line-height:1.85;text-wrap:pretty}
+.sec p b{color:var(--accent);font-weight:600}
+#p1 p:first-of-type::first-letter{font:600 4.4rem/.78 var(--disp);float:left;padding:.4rem .65rem 0 0;color:var(--accent)}
+.pl{margin:1.4rem 0 0;padding:0;list-style:none;columns:2;column-gap:2rem;counter-reset:pl}
+.pl li{counter-increment:pl;break-inside:avoid;padding:.3rem 0}
+.pl a{text-decoration:none;display:flex;gap:.7rem;align-items:baseline}
+.pl a::before{content:counter(pl);font:600 .8rem var(--cap);color:var(--accent);min-width:1.4rem}
+.pl a:hover{color:var(--accent)}
+.areas{display:grid;gap:1.1rem;margin-top:1.6rem}
+.ag{display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem .6rem}
+.ag .l{font:600 .66rem var(--cap);letter-spacing:.22em;text-transform:uppercase;color:var(--accent);min-width:9.5rem}
+.chip{padding:.28rem .85rem;border:1px solid var(--gold);border-radius:999px;font-size:.98rem;background:var(--paper)}
+.ag.p .chip{background:var(--gold);color:var(--paper);font-weight:600}
+.nums{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:2rem}
+.nm{text-align:center;padding:1.6rem .8rem;border:1px solid var(--line);background:var(--paper)}
+.nm b{display:block;font:600 clamp(2.4rem,7vw,3.8rem)/1 var(--disp);background:linear-gradient(180deg,var(--g1),var(--g2) 60%,var(--g3));-webkit-background-clip:text;background-clip:text;color:transparent}
+.nm span{display:block;font:600 .66rem/1.5 var(--cap);letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-top:.5rem}
+.nm small{display:block;margin-top:.4rem;font-size:.85rem;line-height:1.4;color:var(--muted)}
+.hprog{margin-top:1.8rem;text-align:center}
+.hprog p{margin:0}
+.hprog .bar{max-width:24rem;margin:.7rem auto 0}
+.lnk{background:none;border:0;color:var(--accent);text-decoration:underline;font:inherit;font-size:.9rem;margin-top:.9rem;padding:0}
+.shelf{position:relative;display:flex;align-items:flex-end;justify-content:center;gap:.4rem;height:18rem;margin:2.4rem 0 1.4rem;padding:0 .6rem}
+.shelf::after{content:"";position:absolute;left:-.3rem;right:-.3rem;bottom:-.9rem;height:.9rem;border-radius:2px;background:linear-gradient(180deg,var(--gold),var(--line));box-shadow:0 8px 14px #0002}
+.sp{position:relative;flex:1;max-width:5.2rem;min-width:0;height:calc(10.8rem + 7.2rem * var(--r,1));padding:0;border:1px solid hsl(var(--h) 25% 24%);border-radius:3px 3px 0 0;background:hsl(var(--h) 18% 36%);overflow:hidden;color:#fff;cursor:pointer;transition:transform .3s,box-shadow .3s}
+.spf{position:absolute;left:0;right:0;bottom:0;height:var(--p,0%);background:linear-gradient(90deg,hsl(var(--h) 50% 46%),hsl(var(--h) 52% 38%));transition:height .5s,width .5s}
+.sp::before{content:"";position:absolute;z-index:1;top:.55rem;left:0;right:0;height:3px;background:var(--gold);box-shadow:0 .5rem 0 var(--gold)}
+.spn{position:absolute;z-index:1;top:1.9rem;bottom:2.4rem;left:50%;transform:translateX(-50%) rotate(180deg);writing-mode:vertical-rl;font:600 .66rem/1 var(--cap);letter-spacing:.12em;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px #0008}
+.spb{position:absolute;z-index:1;bottom:.55rem;left:0;right:0;font:700 .78rem/1 var(--cap);text-align:center;text-shadow:0 1px 2px #0008}
+.sp:hover,.sp:focus-visible,.sp.on{transform:translateY(-10px);box-shadow:0 14px 24px #0003;outline-offset:4px}
+.scap{min-height:3.2rem;margin:2rem 0 0;text-align:center;font-size:1rem;line-height:1.5;color:var(--soft)}
+.scap b{color:var(--accent);font-weight:600}
+.dot{display:inline-block;flex:none;width:.55rem;height:.55rem;border-radius:50%;margin-right:.4rem;background:hsl(var(--h) 42% 46%);box-shadow:0 0 0 2px var(--paper),0 0 0 3px var(--line)}
+.demo{margin:1.8rem 0;border:1px dashed var(--gold);border-radius:4px;background:var(--bg);padding:.8rem .4rem}
+.demo .it{margin:0}
+.demo .it::before{display:none}
+.demo .it:hover{background:none}
+.leg{list-style:none;margin:1.2rem 0 0;padding:0;counter-reset:lg}
+.leg li{counter-increment:lg;display:grid;grid-template-columns:1.9rem 1fr;gap:.8rem;margin:.9rem 0;line-height:1.6}
+.leg li::before{content:counter(lg);display:grid;place-items:center;width:1.7rem;height:1.7rem;border-radius:50%;background:var(--accent);color:var(--paper);font:700 .8rem/1 var(--body);margin-top:.15rem}
+.leg li b{color:var(--accent);font-weight:600}
+.fn{margin:1.8rem 0 0;display:grid}
+.fn div{display:grid;grid-template-columns:9.5rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--line)}
+.fn dt{font:600 .68rem/1.7 var(--cap);letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+.fn dd{margin:0;line-height:1.7}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(13.5rem,1fr));gap:.9rem;margin-top:2rem}
+.mp{position:relative;overflow:hidden;display:grid;gap:.15rem;padding:1.1rem 1.2rem 1.25rem;border:1px solid var(--line);background:var(--paper);text-decoration:none;transition:border-color .25s,transform .25s,box-shadow .25s}
+.mp:hover{border-color:var(--gold);transform:translateY(-3px);box-shadow:0 12px 30px #0002}
+.mp b{font:500 1.9rem/1.1 var(--cap);color:var(--accent)}
+.mp .mn{font:600 1.18rem/1.2 var(--disp)}
+.mp em{font-style:normal;font-size:.82rem;color:var(--muted)}
+.mp .mpb{position:absolute;left:0;bottom:0;height:3px;width:0;background:var(--gold);transition:width .4s}
+.cta{text-align:center;padding:5rem 0 1rem}
+.cta p{font:italic 500 1.35rem var(--disp);margin:0 0 1.6rem}
+.hend{padding:3rem 0 0}
 
 /* ---------- Etapas ---------- */
 .ch{padding:8rem 0 2.4rem;text-align:center}
-.ch.rv{opacity:0;transform:translateY(16px);transition:opacity 1s ease,transform 1s cubic-bezier(.2,.7,.2,1)}
-.ch.rv.in{opacity:1;transform:none}
-.ey{font:600 .72rem var(--cap);letter-spacing:.55em;text-transform:uppercase;color:var(--accent);padding-left:.55em}
 .rn{font:500 clamp(4.4rem,16vw,9rem)/1.05 var(--cap);letter-spacing:.04em;margin:.4rem 0 .2rem;padding:0 .1em;
  background:linear-gradient(180deg,var(--g1),var(--g2) 55%,var(--g3));-webkit-background-clip:text;background-clip:text;color:transparent}
 .ch h2{font:600 clamp(1.9rem,4.4vw,2.8rem)/1.15 var(--disp);margin:.2rem 0 0;text-wrap:balance}
@@ -120,17 +204,29 @@ nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,t
 .it{position:relative;display:grid;grid-template-columns:3.7rem 1fr;padding:1.5rem 1rem;margin:0 -1rem;border-radius:3px;transition:background .35s}
 .it::before{content:"";position:absolute;top:0;left:1rem;right:1rem;height:1px;background:linear-gradient(90deg,transparent,var(--line) 14%,var(--line) 86%,transparent)}
 .it:hover{background:linear-gradient(90deg,var(--tint),transparent 75%)}
-.num{justify-self:start;min-width:2.5rem;height:2.5rem;padding:0 .5rem;border:1px solid var(--gold);border-radius:999px;display:grid;place-items:center;
- font:600 .82rem var(--cap);letter-spacing:.02em;color:var(--accent);background:var(--paper);margin-top:.15rem}
+.num{position:relative;justify-self:start;min-width:2.5rem;height:2.5rem;padding:0 .5rem;border:1px solid var(--gold);border-radius:999px;display:grid;place-items:center;
+ font:600 .82rem var(--cap);letter-spacing:.02em;color:var(--accent);background:var(--paper);margin-top:.15rem;transition:background .25s,color .25s}
+.bd2{padding-right:2.8rem}
 .it h3{font:600 1.62rem/1.18 var(--disp);margin:0;letter-spacing:.005em}
 .au{font:600 .74rem/1.6 var(--cap);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-top:.35rem}
 .au.miss{font-family:var(--body);font-weight:400;font-style:italic;text-transform:none;letter-spacing:0;font-size:.92rem;opacity:.85}
 .au span{margin-left:.7rem;font:italic 400 .95rem var(--body);letter-spacing:0;text-transform:none;color:var(--muted)}
 .meta{display:flex;flex-wrap:wrap;gap:.1rem 1rem;font-size:.82rem;color:var(--muted);margin:.5rem 0 0}
-.meta i{display:inline-block;width:.55rem;height:.55rem;border-radius:50%;margin-right:.4rem;background:hsl(var(--h) 42% 46%);box-shadow:0 0 0 2px var(--paper),0 0 0 3px var(--line)}
 .it p{margin:.7rem 0 0;font-size:1.04rem;color:var(--soft);hyphens:auto;text-wrap:pretty}
-.end{text-align:center;padding:7rem 0 9rem;color:var(--muted);font:italic 500 1.2rem var(--disp)}
+.rd{position:absolute;top:1.55rem;right:1rem;width:2rem;height:2rem;padding:0;border:1px solid var(--gold);border-radius:50%;background:transparent;color:transparent;display:grid;place-items:center;transition:background .25s,color .25s,box-shadow .25s}
+.rd::after{content:"✓";font:700 .95rem/1 var(--body)}
+button.rd:hover{box-shadow:0 0 0 3px var(--tint);color:var(--gold)}
+span.rd{cursor:default}
+.it.lido .rd{background:var(--gold);color:var(--paper)}
+.it.lido .num{background:var(--gold);color:var(--paper);border-color:var(--gold)}
+.it.lido h3{color:var(--muted)}
+.co{display:inline-grid;place-items:center;width:1.3rem;height:1.3rem;margin-left:.5rem;border-radius:50%;background:var(--accent);color:var(--paper);font:700 .7rem/1 var(--body);letter-spacing:0;text-transform:none;font-style:normal;vertical-align:middle}
+.num .co{position:absolute;top:-.55rem;left:-.55rem;margin:0}
+.rd .co{position:absolute;right:calc(100% + .45rem);top:50%;transform:translateY(-50%);margin:0}
+.end{text-align:center;padding:7rem 0 4rem;color:var(--muted);font:italic 500 1.2rem var(--disp)}
 .end a{color:var(--accent)}
+.ft{text-align:center;padding:0 0 4rem}
+.ft::before{content:"";display:block;height:1px;width:min(18rem,70%);margin:0 auto 1.8rem;background:linear-gradient(90deg,transparent,var(--gold),transparent);opacity:.7}
 .flash{animation:fl 2.8s ease-out}
 @keyframes fl{from{background:var(--hl)}to{background:transparent}}
 
@@ -158,7 +254,11 @@ nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,t
  body:not(.closed) #bd{display:block;position:fixed;inset:0;z-index:19;background:#0007}
  #open{display:block}
  body:not(.closed) #open{display:none}
- .cover{padding:4rem 1.6rem}
+ .hb{padding:1.5rem 1.7rem}
+ .hb .br{font-size:1.6rem}
+ .hb .go{padding:.5rem .8rem;font-size:.58rem;letter-spacing:.16em}
+ .cover{padding:5.5rem 1.6rem 6.5rem}
+ .cf{bottom:1.7rem;padding:0 1.6rem}
  .cover::before{inset:.7rem}
  .cover::after{inset:1.05rem}
  .cn{width:1.8rem;height:1.8rem}
@@ -166,30 +266,50 @@ nav a.on{border-color:var(--sbgold);background:linear-gradient(90deg,#dcb96e2b,t
  .cn.tr{top:calc(.7rem - 3px);right:calc(.7rem - 3px)}
  .cn.bl{bottom:calc(.7rem - 3px);left:calc(.7rem - 3px)}
  .cn.br{bottom:calc(.7rem - 3px);right:calc(.7rem - 3px)}
- .col{padding:0 1.3rem}
+ .col,.wrap{padding:0 1.3rem}
  .it{grid-template-columns:3.2rem 1fr;padding:1.3rem .8rem;margin:0 -.8rem}
  .it::before{left:.8rem;right:.8rem}
+ .rd{top:1.3rem;right:.8rem}
+ .bd2{padding-right:2.6rem}
  .ch{padding:6rem 0 2rem}
- .tocw{padding:4rem 0 1rem}
+ .sec{padding:5rem 0 .5rem}
+ .pl{columns:1}
+ .ag .l{flex-basis:100%;min-width:0}
+ .nums{gap:.6rem}
+ .nm{padding:1.2rem .4rem}
+ .fn div{grid-template-columns:1fr;gap:.2rem}
+}
+@media (max-width:640px){
+ .shelf{flex-direction:column;align-items:flex-start;justify-content:flex-start;height:auto;padding:0;gap:.45rem;margin-bottom:2rem}
+ .shelf::after{display:none}
+ .sp{flex:none;max-width:none;width:calc(62% + 38% * var(--r,1));height:2.7rem;border-radius:3px;display:flex;align-items:center;justify-content:flex-start;gap:.7rem;padding:0 .8rem 0 1.6rem;text-align:left}
+ .sp::before{top:0;bottom:0;left:.5rem;right:auto;width:3px;height:auto;box-shadow:.5rem 0 0 var(--gold)}
+ .spf{top:0;bottom:0;left:0;right:auto;height:auto;width:var(--p,0%)}
+ .spn{position:relative;z-index:1;top:auto;bottom:auto;left:auto;transform:none;writing-mode:horizontal-tb;font-size:.64rem;min-width:0;order:2}
+ .spb{position:relative;z-index:1;bottom:auto;left:auto;right:auto;order:1;width:auto}
+ .sp:hover,.sp:focus-visible,.sp.on{transform:translateX(8px)}
 }
 @media (prefers-reduced-motion:reduce){
  .flash{animation:none}
  aside,main{transition:none}
- .ch.rv{opacity:1;transform:none;transition:none}
- .crest,.cover h1,.cover .st,.cover .orn,.cover .tt,.begin{animation:none}
+ .rv{opacity:1;transform:none;transition:none}
+ .crest,.cover h1,.cover .st,.cover .orn,.cover .lead,.cover .tt,.acts,.cf{animation:none}
 }
 </style>
 </head>
-<body class="closed">
+<body class="closed" data-view="home">
 <div id="pg" aria-hidden="true"></div>
+<div class="hb" id="hb"><a class="br" href="#top">nexto</a><a class="go" id="hbgo" href="#e1">Entrar na leitura</a></div>
 <button id="open" class="ib" aria-label="Abrir o índice">☰</button>
 <div id="bd"></div>
 <aside>
- <div class="sh"><a href="#top">Cânon</a><button id="close" class="ib" aria-label="Fechar o índice">‹</button></div>
+ <div class="sh"><a href="#top"><b>nexto</b><small>Cânon Ocidental e Universal</small></a><button id="close" class="ib" aria-label="Fechar o índice">‹</button></div>
  <button id="sb">Buscar… (ou comece a digitar)</button>
  <nav id="nav"></nav>
  <div class="sf">
   <span id="prog"></span>
+  <div id="lg"><span id="lt"></span><div class="bar"><i id="lb"></i></div></div>
+  <a class="d" href="#top">Sobre o projeto</a>
   <details><summary>Baixar</summary><div>
    <button id="dEt" disabled>Etapa atual (.md)</button>
    <a class="d" href="canone-limpo.md" download>Cânon completo (.md)</a>
@@ -205,17 +325,113 @@ const FILE='canone-limpo.md';
 const EXTRA=[['bastidores.md','Bastidores'],['bastidores-2.md','Bastidores 2'],['indice-compacto.txt','Índice compacto']];
 // Autor padrão para itens sem autor numa etapa de um único autor. Ex.: {5:'Platão', 6:'Aristóteles'}
 const AUTOR_ETAPA={5:'Platão'};
-let L=[],E=[],T={title:'Cânon',total:''},cur=null,TOT=0;
+
+// ============================================================
+// TEXTOS DA PÁGINA INICIAL — edite aqui sem mexer no resto.
+// Use **negrito** para destacar. {etapas}, {blocos} e {itens}
+// são trocados pelos números reais da lista.
+// ============================================================
+const TEXTO={
+ lead:'Uma lista de obras para ler em ordem, para quem quer se tornar erudito.',
+ pagina:[
+  'Esta página explica o projeto.',
+  'Ela tem **9 partes**. Cada parte responde a uma pergunta.',
+  'As partes estão em ordem. Você pode ler todas. Você também pode ir direto para a leitura a qualquer momento, com o botão **Entrar na leitura**, no canto superior direito.'
+ ],
+ oque:[
+  'Este site é uma **lista de obras para ler**.',
+  'Uma obra é um livro ou outro texto. Cada obra aparece na lista como um **item**. Cada item mostra o título da obra, o autor, uma descrição curta e outras informações. A Parte 7 mostra um item em detalhe.',
+  'A lista tem uma **ordem**. Leia os itens na ordem em que aparecem: do primeiro ao último.',
+  'Este site **não contém as obras**. Ele só mostra o que ler e em que ordem.'
+ ],
+ objetivo:[
+  'O objetivo da lista é ajudar você a se tornar **erudito**.',
+  'Erudito é a pessoa que sabe muitas coisas porque estudou muito. Ter erudição é ter muito conhecimento, adquirido principalmente por meio da leitura.',
+  'Por isso a lista não trata de um assunto só. Ela reúne obras de várias áreas. A próxima parte diz quais.'
+ ],
+ areasIntro:[
+  'A lista tem obras de várias áreas. Algumas áreas aparecem muito. Outras aparecem pouco. Veja abaixo.'
+ ],
+ areas:[
+  ['p','Principalmente',['Filosofia']],
+  ['','Também',['História','Literatura','Ficção','Sociologia','Antropologia','Teologia e religião (em grande quantidade)']],
+  ['','Uma pitada de',['Arte','Matemática','Música','Áreas parecidas']]
+ ],
+ ordem:[
+  'A ordem da lista segue **duas regras**.',
+  '**Regra 1.** Os pré-socráticos, Platão e Aristóteles seguem as recomendações do **Helkein Filosofia**.',
+  '**Regra 2.** Todo o resto segue a **ordem cronológica**. Ordem cronológica é a ordem do tempo: as obras mais antigas vêm primeiro e as mais recentes vêm depois.'
+ ],
+ numeros:[
+  'Estes são os números da lista. Eles são calculados a partir da própria lista, então mudam sozinhos quando a lista cresce.'
+ ],
+ divisao:[
+  'A lista está dividida em **{etapas} etapas**. Uma etapa é um trecho da lista.',
+  'As etapas têm números romanos: I, II, III e assim por diante. Alguns números romanos: **I** é 1, **V** é 5, **X** é 10. Então **XXI** é 21.',
+  'Leia as etapas em ordem: primeiro a Etapa I, depois a Etapa II, e assim até a última.'
+ ],
+ blocos:[
+  'Cada item também pertence a um **bloco**. Existem **{blocos} blocos**. Cada bloco é um **caderno**: o caderno onde você anota o seu estudo sobre os itens desse bloco.',
+  'Exemplo: ao ler um item do bloco “{bloco1}”, anote o que você estudou no caderno do bloco “{bloco1}”.',
+  '**Etapa e bloco são coisas diferentes.** A etapa diz em que ponto da lista o item está. O bloco diz em qual caderno anotar.',
+  'A estante abaixo mostra os blocos, um ao lado do outro. Cada lombada é um bloco. Quanto maior a lombada, mais itens o bloco tem. A cor sobe da base da lombada conforme você marca itens como lidos. Passe o mouse (ou toque) em uma lombada para ver os números.'
+ ],
+ itemIntro:[
+  'Cada obra aparece como um **item**. Abaixo está um item real da lista. Os números dourados apontam para cada parte do item. O significado de cada número está logo depois do item.'
+ ],
+ partes:[
+  ['Número.','É a posição do item dentro da etapa. O primeiro item da etapa é o 1, o segundo é o 2, e assim por diante.'],
+  ['Título.','É o nome da obra.'],
+  ['Autor.','É quem escreveu a obra. Quando o autor não é conhecido, aparece “Autor não indicado”.'],
+  ['Bloco.','É o grupo do item. Aparece como um ponto colorido seguido do nome do bloco.'],
+  ['Data.','É a época aproximada da obra. A letra “c.” quer dizer “por volta de”. “a.C.” quer dizer “antes de Cristo”. Se o item não tem data, essa parte não aparece.'],
+  ['Descrição.','É um texto curto que diz do que a obra trata.'],
+  ['Botão de lido.','É o círculo à direita. Clique nele depois de ler a obra. O círculo e o número do item ficam dourados. Clique de novo para desmarcar.']
+ ],
+ passos:[
+  'Clique em **Entrar na leitura**. Esse botão fica no começo desta página e no canto superior direito.',
+  'Leia o primeiro item da Etapa I.',
+  'Quando terminar de ler a obra, clique no círculo à direita do item. Isso marca o item como lido.',
+  'Vá para o item seguinte. Repita até o fim da lista.'
+ ],
+ funcoes:[
+  ['Busca','Para procurar um título, autor ou assunto, aperte qualquer letra do teclado. Uma caixa de busca abre. No celular, use o botão “Buscar”, na lateral.'],
+  ['Lista de etapas','Na leitura, o botão ☰ abre e fecha a lista de etapas, na lateral. Clique em uma etapa para ir até ela.'],
+  ['Luz de lâmpada','Esse botão, na lateral, troca as cores para um fundo escuro, mais confortável à noite. Depois, o botão passa a se chamar “Luz do dia”. Clique nele para voltar.'],
+  ['Baixar','O botão “Baixar”, na lateral, permite baixar a lista em arquivo de texto (.md): a etapa atual ou a lista completa.'],
+  ['Onde parei','O site lembra o ponto onde você parou. Quando você voltar, ele abre nesse ponto. Para voltar a esta página, clique em “Sobre o projeto”, na lateral.']
+ ],
+ salvar:[
+  'O site salva dois dados: os itens que você marcou como lidos e o ponto onde você parou.',
+  'Esses dados ficam salvos **neste navegador, neste aparelho**. Outro navegador ou outro aparelho não mostra esse progresso. Se você apagar os dados do navegador, o progresso some.',
+  'Não existe conta, senha ou cadastro.'
+ ],
+ mapa:[
+  'Estas são todas as etapas, em ordem. Clique em uma etapa para ir até ela.',
+  'O número pequeno diz quantos itens a etapa tem. Se você já marcou itens como lidos, aparece também quantos você leu.'
+ ],
+ final:'Para começar a ler, clique no botão abaixo.'
+};
+const PARTES=['O que é este site?','Qual é o objetivo?','Quais assuntos a lista tem?','Em que ordem a lista está?','Quantos itens existem?','Como a lista está dividida?','Como é um item?','Como usar o site?','Mapa das etapas'];
+
+let L=[],E=[],T={title:'Cânon',total:''},cur=null,TOT=0,TR=0;
 const $=id=>document.getElementById(id);
 const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-const strip=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const escA=s=>esc(s).replace(/"/g,'&quot;');
+const strip=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const plain=s=>s.replace(/\*/g,'');
 const inl=s=>esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/\*(.+?)\*/g,'<i>$1</i>');
 const roman=n=>{let s='';for(const[v,c]of[[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']])while(n>=v){s+=c;n-=v}return s};
 const store=(k,v)=>{try{v==null?localStorage.getItem(k):localStorage.setItem(k,v)}catch(_){}};
 const load=k=>{try{return localStorage.getItem(k)}catch(_){return null}};
+const hash=s=>{let h1=0xdeadbeef,h2=0x41c6ce57;for(let i=0,c;i<s.length;i++){c=s.charCodeAt(i);h1=Math.imul(h1^c,2654435761);h2=Math.imul(h2^c,1597334677)}h1=Math.imul(h1^(h1>>>16),2246822507)^Math.imul(h2^(h2>>>13),3266489909);h2=Math.imul(h2^(h2>>>16),2246822507)^Math.imul(h1^(h1>>>13),3266489909);return(4294967296*(2097151&h2)+(h1>>>0)).toString(36)};
+
+// Itens marcados como lidos (guardados só neste navegador)
+let R=new Set();
+try{R=new Set(JSON.parse(load('lidos')||'[]'))}catch(_){R=new Set()}
 
 const CREST='<svg class="crest" viewBox="0 0 120 120" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.1"><circle cx="60" cy="60" r="56"/><circle cx="60" cy="60" r="49" stroke-dasharray="1 4.2" stroke-linecap="round"/><path d="M60 8 66 54 112 60 66 66 60 112 54 66 8 60 54 54Z"/><path d="M60 24 63 57 96 60 63 63 60 96 57 63 24 60 57 57Z" opacity=".55"/><circle cx="60" cy="60" r="9"/></g><circle cx="60" cy="60" r="2.4" fill="currentColor"/></svg>';
+const FOOT='<p class="c1">© 2026 <b>nexto</b>. Todos os direitos reservados.</p><p class="c2">Desenvolvido por <b>nexto</b></p>';
 
 const PART=new Set(['de','da','do','dos','das','di','du','van','von','der','den','del','la','le','bin','ibn','al','el','e','y','&','of','the','and','org.','ed.','trad.','autores','anônimo','anonimo']);
 function looksAuthor(s){
@@ -233,7 +449,7 @@ if(m=/^[“"]([^”"]+)[”"]\s*\(([^()]+)\)(.*)$/.exec(t))return{a:m[2],w:m[1],
  return{a:'',w:t,x:''};
 }
 function parse(text){
- L=text.replace(/^\uFEFF/,'').split(/\r?\n/);E=[];T={title:'Cânon',total:''};TOT=0;
+ L=text.replace(/^﻿/,'').split(/\r?\n/);E=[];T={title:'Cânon',total:''};TOT=0;
  let c=null,it=null,m;
  L.forEach((l,i)=>{
   if(m=/^# (.+)/.exec(l)){T.title=m[1];return}
@@ -262,40 +478,145 @@ function parse(text){
   it.g=++TOT;
   it.h0=strip(plain(it.t));it.ha=strip(it.a||'autor não indicado');it.he=strip(e.name);
   it.dl=strip(it.d);
+  it.k=hash(it.h0);
  }));
+}
+
+// Um item. Com demo=true vira o exemplo numerado da Parte 7.
+function itemHTML(e,it,demo){
+ const c=n=>demo?'<b class="co">'+n+'</b>':'';
+ const lido=!demo&&R.has(it.k);
+ return '<article class="it'+(lido?' lido':'')+'"'+(demo?'':' id="i'+e.n+'-'+it.n+'" data-e="'+e.n+'" data-g="'+it.g+'"')+'>'
+  +'<div class="num">'+c(1)+it.n+'</div><div class="bd2"><h3>'+esc(plain(it.w))+c(2)+'</h3>'
+  +'<div class="au'+(it.a?'':' miss')+'">'+esc(plain(it.a||'Autor não indicado'))+c(3)+(it.x?'<span>'+esc(plain(it.x))+'</span>':'')+'</div>'
+  +((it.b||it.y)?'<div class="meta">'+(it.b?'<span><i class="dot" style="--h:'+(it.b*47%360)+'"></i>'+esc(it.bn)+c(4)+'</span>':'')+(it.y?'<span>'+esc(it.y)+c(5)+'</span>':'')+'</div>':'')
+  +(it.d?'<p>'+inl(it.d)+c(6)+'</p>':'')+'</div>'
+  +(demo?'<span class="rd" aria-hidden="true">'+c(7)+'</span>'
+   :'<button class="rd" type="button" aria-pressed="'+lido+'" aria-label="Marcar como lido: '+esc(plain(it.w))+'" data-k="'+it.k+'"></button>')
+  +'</article>';
 }
 
 function build(){
  const [main,sub]=T.title.split(/\s+—\s+/);
  const first=E.length?E[0].n:1;
- let h='<header class="cover" id="top"><span class="cn tl"></span><span class="cn tr"></span><span class="cn bl"></span><span class="cn br"></span>'
+ const fmt=s=>s.replace('{etapas}',E.length).replace('{blocos}',BL.length).replace('{itens}',TOT).split('{bloco1}').join(BL.length?BL[0].name:'');
+ const P=a=>a.map(t=>'<p>'+inl(fmt(t))+'</p>').join('');
+
+ // blocos (nome e tamanho), lidos dos próprios itens
+ const B=new Map();
+ E.forEach(e=>e.items.forEach(it=>{if(it.b){const o=B.get(it.b)||{n:it.b,name:it.bn,c:0};o.c++;B.set(it.b,o)}}));
+ var BL=[...B.values()].sort((a,b)=>a.n-b.n);
+
+ // item de exemplo para a Parte 7: um que tenha autor, bloco, data e descrição
+ let ex=null,exe=null;
+ for(const e of E){for(const it of e.items){if(it.a&&it.b&&it.y&&it.d){ex=it;exe=e;break}}if(ex)break}
+ if(!ex&&E.length&&E[0].items.length){exe=E[0];ex=exe.items[0]}
+
+ const sec=(n,body)=>'<section class="sec rv" id="p'+n+'"><div class="wrap"><div class="ey">Parte '+n+' de 9</div><h2>'+PARTES[n-1]+'</h2><div class="orn"><i></i></div>'+body+'</div></section>';
+
+ const areas='<div class="areas">'+TEXTO.areas.map(g=>'<div class="ag '+g[0]+'"><span class="l">'+esc(g[1])+'</span>'+g[2].map(x=>'<span class="chip">'+esc(x)+'</span>').join('')+'</div>').join('')+'</div>';
+
+ const nums='<div class="nums">'
+  +'<div class="nm"><b>'+TOT+'</b><span>itens</span><small>obras na lista</small></div>'
+  +'<div class="nm"><b>'+E.length+'</b><span>etapas</span><small>trechos da lista</small></div>'
+  +'<div class="nm"><b>'+BL.length+'</b><span>blocos</span><small>grupos de itens</small></div></div><div class="hprog" id="hp"></div>';
+
+ const mx=Math.max(1,...BL.map(b=>b.c));
+ const blocks=BL.length?'<div class="shelf" id="shelf">'+BL.map(b=>'<button class="sp" type="button" data-b="'+b.n+'" data-nm="'+escA(b.name)+'" style="--h:'+(b.n*47%360)+';--r:'+(b.c/mx).toFixed(3)+'" aria-label="Bloco '+b.n+': '+escA(b.name)+'"><i class="spf"></i><span class="spn">'+esc(b.name)+'</span><span class="spb">'+b.n+'</span></button>').join('')+'</div><p class="scap" id="scap" aria-live="polite">Passe o mouse ou toque em uma lombada para ver os números.</p>':'';
+
+ const demo=ex?'<div class="demo">'+itemHTML(exe,ex,true)+'</div><ol class="leg">'+TEXTO.partes.map(p=>'<li><div><b>'+esc(p[0])+'</b> '+esc(p[1])+'</div></li>').join('')+'</ol>':'';
+
+ const uso='<ol class="leg">'+TEXTO.passos.map(t=>'<li><div>'+inl(t)+'</div></li>').join('')+'</ol>'
+  +'<dl class="fn">'+TEXTO.funcoes.map(f=>'<div><dt>'+esc(f[0])+'</dt><dd>'+esc(f[1])+'</dd></div>').join('')+'</dl>'+P(TEXTO.salvar);
+
+ const mapa=P(TEXTO.mapa)+'<div class="mgrid">'+E.map(e=>'<a class="mp" href="#e'+e.n+'" data-n="'+e.n+'"><b>'+roman(e.n)+'</b><span class="mn">'+esc(e.name)+'</span><em>'+e.items.length+' itens<span class="mc"></span></em><i class="mpb"></i></a>').join('')+'</div>';
+
+ let h='<div id="home"><header class="cover" id="top"><span class="cn tl"></span><span class="cn tr"></span><span class="cn bl"></span><span class="cn br"></span>'
   +CREST+'<h1>'+esc(main)+'</h1>'+(sub?'<p class="st">'+esc(sub)+'</p>':'')
-  +'<div class="orn"><i></i></div><p class="tt">'+esc(T.total)+'</p>'
-  +'<a class="begin" href="#e'+first+'">Começar a leitura</a></header>'
-  +'<div class="col"><section class="tocw"><h2 class="toch">Índice de etapas</h2><div class="toc">'
-  +E.map(e=>'<a href="#e'+e.n+'"><b>'+roman(e.n)+'</b><span>'+esc(e.name)+'</span><i></i><em>'+e.items.length+'</em></a>').join('')+'</div></section>';
+  +'<div class="orn"><i></i></div><p class="lead">'+esc(TEXTO.lead)+'</p><p class="tt">'+esc(T.total)+'</p>'
+  +'<div class="acts"><a class="begin" href="#e'+first+'">Entrar na leitura</a><a class="begin alt" id="cont" href="#e'+first+'" hidden>Continuar de onde parei</a><a class="begin ghost" href="#p1">Entender o projeto</a></div>'
+  +'<div class="cf">'+FOOT+'</div></header>'
+  +'<section class="sec rv" id="indice"><div class="wrap"><div class="ey">Antes de começar</div><h2>Como esta página funciona</h2><div class="orn"><i></i></div>'+P(TEXTO.pagina)
+  +'<ol class="pl">'+PARTES.map((t,i)=>'<li><a href="#p'+(i+1)+'">'+esc(t)+'</a></li>').join('')+'</ol></div></section>'
+  +sec(1,P(TEXTO.oque))+sec(2,P(TEXTO.objetivo))+sec(3,P(TEXTO.areasIntro)+areas)+sec(4,P(TEXTO.ordem))
+  +sec(5,P(TEXTO.numeros)+nums)+sec(6,P(TEXTO.divisao)+P(TEXTO.blocos)+blocks)
+  +sec(7,P(TEXTO.itemIntro)+demo)+sec(8,uso)+sec(9,mapa)
+  +'<section class="cta rv"><div class="wrap"><p>'+esc(TEXTO.final)+'</p><a class="begin" href="#e'+first+'">Entrar na leitura</a></div></section>'
+  +'<div class="wrap hend"><footer class="ft">'+FOOT+'</footer></div></div>';
+
+ h+='<div class="col" id="reader">';
  E.forEach(e=>{
-  h+='<section><header class="ch" id="e'+e.n+'" data-e="'+e.n+'"><div class="ey">Etapa</div><div class="rn">'+roman(e.n)+'</div><h2>'+esc(e.name)+'</h2><p>'+e.items.length+' itens</p><div class="orn"><i></i></div></header>';
-  e.items.forEach(it=>{
-   h+='<article class="it" id="i'+e.n+'-'+it.n+'" data-e="'+e.n+'" data-g="'+it.g+'"><div class="num">'+it.n+'</div><div><h3>'+esc(plain(it.w))+'</h3>'
-    +'<div class="au'+(it.a?'':' miss')+'">'+esc(plain(it.a||'Autor não indicado'))+(it.x?'<span>'+esc(plain(it.x))+'</span>':'')+'</div>'
-    +((it.b||it.y)?'<div class="meta">'+(it.b?'<span><i style="--h:'+(it.b*47%360)+'"></i>'+esc(it.bn)+'</span>':'')+(it.y?'<span>'+esc(it.y)+'</span>':'')+'</div>':'')
-    +(it.d?'<p>'+inl(it.d)+'</p>':'')+'</div></article>';
-  });
+  h+='<section><header class="ch rv" id="e'+e.n+'" data-e="'+e.n+'"><div class="ey">Etapa</div><div class="rn">'+roman(e.n)+'</div><h2>'+esc(e.name)+'</h2><p>'+e.items.length+' itens<span class="ec"></span></p><div class="orn"><i></i></div></header>';
+  e.items.forEach(it=>{h+=itemHTML(e,it,false)});
   h+='</section>';
  });
- h+='<div class="end"><div class="orn"><i></i></div>Fim da lista. <a href="#top">Voltar ao início</a></div></div>';
+ h+='<div class="end"><div class="orn"><i></i></div>Fim da lista. <a href="#top">Voltar ao início</a></div><footer class="ft">'+FOOT+'</footer></div>';
  $('main').innerHTML=h;
  $('nav').innerHTML=E.map(e=>'<a href="#e'+e.n+'" data-n="'+e.n+'"><b>'+roman(e.n)+'</b><span>'+esc(e.name)+'</span></a>').join('');
+ $('hbgo').href='#e'+first;
  if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion:reduce)').matches){
   const io=new IntersectionObserver(es=>es.forEach(x=>{if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}}),{threshold:.05});
-  document.querySelectorAll('.ch').forEach(c=>{c.classList.add('rv');io.observe(c)});
- }
+  document.querySelectorAll('.rv').forEach(c=>io.observe(c));
+ }else document.querySelectorAll('.rv').forEach(c=>c.classList.add('in'));
+ cnt();
 }
 
+// Contadores de leitura (lateral, cabeçalhos das etapas, mapa e apresentação)
+function cnt(){
+ let n=0;
+ E.forEach(e=>{e.c=e.items.reduce((s,it)=>s+(R.has(it.k)?1:0),0);n+=e.c});
+ TR=n;
+ const p=TOT?Math.round(n/TOT*100):0;
+ $('lt').textContent='Lidos: '+n+' de '+TOT+' ('+p+'%)';$('lb').style.width=p+'%';
+ E.forEach(e=>{
+  const full=e.items.length>0&&e.c===e.items.length;
+  const a=document.querySelector('nav a[data-n="'+e.n+'"]');if(a)a.classList.toggle('done',full);
+  const pc=e.items.length?Math.round(e.c/e.items.length*100):0;
+  const h=document.querySelector('#e'+e.n+' .ec');if(h)h.textContent=e.c?' · '+e.c+' lidos ('+pc+'%)':'';
+  const m=document.querySelector('.mp[data-n="'+e.n+'"]');
+  if(m){m.querySelector('.mc').textContent=e.c?' · '+e.c+' lidos ('+pc+'%)':'';m.querySelector('.mpb').style.width=(e.items.length?e.c/e.items.length*100:0)+'%'}
+ });
+ // estante: quanto de cada bloco já foi lido
+ const bc={};
+ E.forEach(e=>e.items.forEach(it=>{if(it.b){const o=bc[it.b]||(bc[it.b]={t:0,r:0});o.t++;if(R.has(it.k))o.r++}}));
+ document.querySelectorAll('.sp').forEach(s=>{const o=bc[s.dataset.b]||{t:0,r:0};s.dataset.t=o.t;s.dataset.r=o.r;s.style.setProperty('--p',(o.t?o.r/o.t*100:0)+'%')});
+ const on=document.querySelector('.sp.on');if(on)cap(on);
+ const hp=$('hp');
+ if(hp)hp.innerHTML=n?'<p>Você já marcou <b>'+n+'</b> de <b>'+TOT+'</b> itens como lidos ('+p+'%).</p><div class="bar"><i style="width:'+p+'%"></i></div><button class="lnk" id="rz" type="button">Apagar meu progresso</button>':'';
+}
+
+function cap(s){
+ const t=+s.dataset.t,r=+s.dataset.r;
+ $('scap').innerHTML='<b>Bloco '+s.dataset.b+' — '+esc(s.dataset.nm)+'</b>: '+t+' itens, '+r+' lidos ('+(t?Math.round(r/t*100):0)+'%)';
+}
+['mouseover','focusin'].forEach(ev=>document.addEventListener(ev,e=>{const s=e.target.closest&&e.target.closest('.sp');if(s)cap(s)}));
+document.addEventListener('click',e=>{
+ const sp=e.target.closest('.sp');
+ if(sp){document.querySelectorAll('.sp.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');cap(sp);return}
+ const b=e.target.closest('button.rd');
+ if(b){
+  const k=b.dataset.k,on=!R.has(k);
+  if(on)R.add(k);else R.delete(k);
+  b.setAttribute('aria-pressed',on);b.closest('.it').classList.toggle('lido',on);
+  store('lidos',JSON.stringify([...R]));cnt();return;
+ }
+ if(e.target.id==='rz'){
+  if(confirm('Apagar todos os itens marcados como lidos? Isso não pode ser desfeito.')){
+   R.clear();store('lidos','[]');
+   document.querySelectorAll('.it.lido').forEach(x=>{x.classList.remove('lido');const r=x.querySelector('button.rd');if(r)r.setAttribute('aria-pressed','false')});
+   cnt();
+  }
+ }
+});
+
+function view(v){
+ document.body.dataset.view=v;
+ if(v==='read'&&innerWidth>820&&load('side')!=='0')document.body.classList.remove('closed');
+}
 function go(id){
- if(id==='top'){scrollTo(0,0);return}
+ if(id==='top'){view('home');scrollTo(0,0);return}
  const el=$(id);if(!el)return;
+ view(el.closest('#home')?'home':'read');
  const isIt=el.classList.contains('it');
  el.scrollIntoView({block:isIt?'center':'start'});
  if(isIt){el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash')}
@@ -310,6 +631,7 @@ document.addEventListener('click',e=>{
 
 let tk=0;
 function track(){
+ if(document.body.dataset.view!=='read')return;
  if($('ov').classList.contains('on'))return;
  const c=document.querySelector('.col');if(!c)return;
  const r=c.getBoundingClientRect(),y=Math.min(innerHeight*.3,260);
@@ -326,7 +648,7 @@ function track(){
 addEventListener('scroll',()=>{if(!tk)tk=setTimeout(()=>{tk=0;track()},250)},{passive:true});
 
 let raf=0;
-function prog(){raf=0;const h=document.documentElement.scrollHeight-innerHeight;$('pg').style.width=(h>0?Math.min(100,scrollY/h*100):0)+'%'}
+function prog(){raf=0;const h=document.documentElement.scrollHeight-innerHeight;$('pg').style.width=(h>0?Math.min(100,scrollY/h*100):0)+'%';$('hb').classList.toggle('sc',scrollY>40)}
 addEventListener('scroll',()=>{if(!raf)raf=requestAnimationFrame(prog)},{passive:true});
 addEventListener('resize',()=>{if(!raf)raf=requestAnimationFrame(prog)});
 
@@ -378,9 +700,9 @@ function start(buf){
  parse(new TextDecoder('utf-8').decode(buf));
  if(!E.length)throw new Error('nenhuma linha "## Etapa N: ..." encontrada em '+FILE);
  document.title=T.title;build();
- if(innerWidth>820&&load('side')!=='0')document.body.classList.remove('closed');
  const h=location.hash.slice(1),p=load('pos');
- if(h)go(h);else if(p&&$(p))go(p);
+ if(p&&$(p)){const c=$('cont');c.hidden=false;c.href='#'+p}
+ if(h)go(h);else if(p&&$(p))go(p);else view('home');
  track();prog();
  EXTRA.forEach(([f,n])=>fetch(f,{method:'HEAD'}).then(r=>{if(r.ok)$('extras').insertAdjacentHTML('beforeend','<a class="d" href="'+f+'" download>'+n+'</a>')}).catch(()=>{}));
 }
